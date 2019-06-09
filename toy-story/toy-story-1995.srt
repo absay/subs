@@ -9,7 +9,8 @@
 
 3
 00:01:04,622 --> 00:01:06,229
-¡Ahora, vacía la caja fuerte!
+¡Ahora vacía
+la caja fuerte!
 
 4
 00:01:08,271 --> 00:01:10,737
@@ -20,9 +21,9 @@
 ¡Basta, basta, malvada papa!
 
 6
-00:01:14,460 --> 00:01:17,287
+00:01:14,464 --> 00:01:17,242
 ¡Silencio, Betty,
-o tus ovejas serán jalea!
+o tus ovejas serán zalea!
 
 7
 00:01:17,364 --> 00:01:22,731
@@ -34,7 +35,7 @@ o tus ovejas serán jalea!
 <i>"¡Manos en alto!"</i>
 
 9
-00:01:32,113 --> 00:01:34,280
+00:01:32,211 --> 00:01:34,280
 ¡Oh no! ¡El comisario Woody!
 
 10
@@ -51,17 +52,17 @@ pelota tuerta!
 ¿Te vas a rendir o no?
 
 13
-00:01:41,899 --> 00:01:45,266
+00:01:41,899 --> 00:01:45,139
 Confía en mí, comisario:
 traigo a mi perro de ataque.
 
 14
-00:01:45,327 --> 00:01:48,193
-No tengas pendiente.
-También traigo a mi dinosaurio.
+00:01:45,289 --> 00:01:48,363
+¡No tengas pendiente,
+también traigo a mi dinosaurio!
 
 15
-00:01:48,302 --> 00:01:49,943
+00:01:48,447 --> 00:01:49,959
 ¡Ya verás lo que te hace!
 
 16
@@ -74,8 +75,9 @@ También traigo a mi dinosaurio.
 ¡Despídete de la salsa picante!
 
 18
-00:02:06,238 --> 00:02:07,969
-¡Fuiste el héroe de nuevo, Woody!
+00:02:06,238 --> 00:02:08,123
+¡Fuiste el héroe
+de nuevo, Woody!
 
 19
 00:02:08,666 --> 00:02:11,102
@@ -90,35 +92,33 @@ También traigo a mi dinosaurio.
 <i>Yo soy tu amigo fiel.</i>
 
 22
-00:02:17,718 --> 00:02:19,515
-¡Vamos, hay que reunir
-el ganado!
+00:02:17,718 --> 00:02:19,608
+¡Vamos, hay que
+reunir el ganado!
 
 23
-00:02:19,685 --> 00:02:23,815
-<i>Y si un día
-tú te encuentras lejos,</i>
+00:02:19,696 --> 00:02:23,815
+<i>Y si un díatú te encuentras lejos,</i>
 
 24
-00:02:23,847 --> 00:02:26,709
-<i>muy lejos
-de tu lindo hogar,</i>
+00:02:23,941 --> 00:02:26,709
+<i>muy lejosde tu lindo hogar,</i>
 
 25
-00:02:26,787 --> 00:02:27,862
-¡A montar, vaquero!
+00:02:26,824 --> 00:02:30,719
+-¡A montar, vaquero!
+<i>-Cierra los ojos y recuerda que</i>
 
 26
-00:02:27,899 --> 00:02:33,774
-<i>Cierra los ojos y recuerda
-que yo soy tu amigo fiel.</i>
+00:02:30,840 --> 00:02:33,774
+<i>yo soy tu amigo fiel.</i>
 
 27
-00:02:35,008 --> 00:02:37,930
+00:02:35,008 --> 00:02:37,761
 <i>Sí, yo soy tu amigo fiel.</i>
 
 28
-00:02:37,980 --> 00:02:39,203
+00:02:37,933 --> 00:02:39,156
 ¡Ey, vaquero!
 
 29
@@ -127,12 +127,11 @@ que yo soy tu amigo fiel.</i>
 más inteligentes,</i>
 
 30
-00:02:43,227 --> 00:02:45,563
-<i>más fuertes
-y grandes también.</i>
+00:02:43,286 --> 00:02:45,556
+<i>más fuertesy grandes también.</i>
 
 31
-00:02:45,695 --> 00:02:47,031
+00:02:45,674 --> 00:02:47,288
 ¡Vamos, Woody!
 <i>¡Ja! Tal vez.</i>
 
@@ -163,7 +162,7 @@ el tiempo no borrará.</i>
 ¡Fantástico!
 
 38
-00:03:12,143 --> 00:03:14,347
+00:03:12,158 --> 00:03:14,362
 <i>Sí, yo soy tu amigo fiel.</i>
 
 39
@@ -175,9 +174,9 @@ el tiempo no borrará.</i>
 <i>Yo soy tu amigo fiel.</i>
 
 41
-00:03:19,617 --> 00:03:21,593
-<i>- ¿Qué te parece?
-- ¡Es fantástico, mamá!</i>
+00:03:19,584 --> 00:03:21,836
+<i>-¿Qué te parece?
+-¡Es fantástico, mamá!</i>
 
 42
 00:03:21,930 --> 00:03:23,906
@@ -190,1849 +189,1878 @@ que te gustó, hijo!</i>
 te había pedido!</i>
 
 44
-00:03:26,222 --> 00:03:28,318
-¡Wow, Woody va
-a estar feliz con esto!
+00:03:26,222 --> 00:03:28,492
+¡Wow, Woody va a
+estar feliz con esto!
 
 45
-00:03:30,001 --> 00:03:32,163
-- Creo que serán suficientes.
-<i>- ¿Podemos dejarlo así...</i>
+00:03:30,927 --> 00:03:33,115
+¿Podemos dejarlo así
+hasta la mudanza?
 
 46
-00:03:32,188 --> 00:03:33,038
-<i>hasta la mudanza?</i>
+00:03:33,215 --> 00:03:34,743
+¡Sí, por supuesto que sí!
 
 47
-00:03:33,153 --> 00:03:34,681
-<i>- ¡Sí, por supuesto que sí!</i>
-- ¡Wow!
+00:03:34,828 --> 00:03:37,572
+Ve por Molly, tus amigos
+vendrán en un momento.
 
 48
-00:03:34,913 --> 00:03:36,216
-Ve por Molly
-y tus amigos vendrán
-
-49
-00:03:36,271 --> 00:03:37,685
-- en un momento.
-- Está bien.
-
-50
-00:03:38,352 --> 00:03:39,705
+00:03:38,183 --> 00:03:39,536
 ¡Habrá fiesta, Woody!
 
-51
+49
 00:03:49,097 --> 00:03:50,097
 Hola, señorita.
 
-52
+50
 00:03:54,657 --> 00:03:56,629
 <i>"Alguien envenenó
 el abrevadero."</i>
 
-53
+51
 00:03:57,875 --> 00:04:00,144
 Vamos, Molly.
 ¡Ya pesas mucho!
 
-54
-00:04:00,820 --> 00:04:01,820
+52
+00:04:00,820 --> 00:04:02,007
 <i>¡Hasta luego, Woody!</i>
 
-55
-00:04:10,559 --> 00:04:13,341
+53
+00:04:10,559 --> 00:04:13,387
 ¡Qué barbaridad!
 ¿La fiesta de cumpleaños es hoy?
 
-56
+54
 00:04:15,569 --> 00:04:18,094
 ¡Ya, muchachos!
 ¡No hay moros en la costa!
 
-57
+55
 00:04:25,641 --> 00:04:29,227
-"<i>3 años o más</i>", dice mi caja.
-¡"<i>3 años o más</i>"!
+"Tres años o más", dice mi caja.
+¡"Tres años o más"!
 
-58
-00:04:29,321 --> 00:04:31,766
-¡No estoy para que una bebé
-me esté babeando!
+56
+00:04:29,321 --> 00:04:31,851
+No estoy para que
+una bebé me esté babeando.
 
-59
+57
 00:04:44,166 --> 00:04:46,673
 ¡Ey, mira Hamm!
 ¡Soy Picasso!
 
-60
-00:04:46,939 --> 00:04:47,939
+58
+00:04:46,763 --> 00:04:47,939
 No entiendo.
 
-61
+59
 00:04:48,641 --> 00:04:50,039
 Cerdo inculto.
 
-62
-00:04:50,595 --> 00:04:52,314
-¿Y tú qué miras,
+60
+00:04:50,452 --> 00:04:52,338
+¿Y tú qué miras
 disco de <i>hockey?</i>
 
-63
-00:04:57,137 --> 00:04:58,621
-Sargento,
-¿has visto a Slinky?
+61
+00:04:57,060 --> 00:04:59,951
+-Sargento, ¿has visto a Slinky?
+-¡Negativo, señor!
 
-64
-00:04:58,660 --> 00:04:59,871
-¡Negativo, señor!
-
-65
+62
 00:05:00,153 --> 00:05:02,442
 Gracias, Sargento.
 Descansa.
 
-66
+63
 00:05:04,215 --> 00:05:05,558
 ¡Oye, Slinky!
 
-67
-00:05:05,778 --> 00:05:06,808
+64
+00:05:05,734 --> 00:05:06,794
 Aquí estoy, Woody.
 
-68
-00:05:07,395 --> 00:05:08,488
+65
+00:05:07,395 --> 00:05:08,514
 Me tocan las rojas.
 
+66
+00:05:08,715 --> 00:05:10,576
+-No… Slinky…
+-Está bien,
+
+67
+00:05:10,660 --> 00:05:13,367
+-juega las rojas si quieres.
+-Ahora no, Slinky…
+
+68
+00:05:13,451 --> 00:05:15,748
+-Tengo malas noticias.
+-¿Malas noticias?
+
 69
-00:05:08,715 --> 00:05:10,600
-- No… Slinky…
-- Está bien,
-
-70
-00:05:10,644 --> 00:05:13,192
-- juega las rojas si quieres.
-- No, no. Ahora no, Slinky…
-
-71
-00:05:13,293 --> 00:05:15,238
-- Tengo malas noticias…
-- ¡¿MALAS NOTICIAS?!
-
-72
-00:05:17,756 --> 00:05:19,764
+00:05:17,692 --> 00:05:20,340
 Reúne a todos para una junta
 y ponte contento.
 
-73
-00:05:19,952 --> 00:05:21,385
-- Ya está.
-- ¡Contento!
+70
+00:05:20,731 --> 00:05:21,731
+¡Contento!
 
-74
-00:05:22,998 --> 00:05:25,202
+71
+00:05:22,886 --> 00:05:25,202
 Hay junta, muchachos,
 preparen el podio.
 
-75
+72
 00:05:30,760 --> 00:05:31,760
 Oye, pantalla…
 
-76
+73
 00:05:32,042 --> 00:05:33,042
 ¡Desenfunda!
 
-77
-00:05:35,799 --> 00:05:38,684
+74
+00:05:35,799 --> 00:05:38,629
 ¡Otra vez me ganaste!
 Estuviste practicando, ¿eh?
 
-78
-00:05:38,799 --> 00:05:40,569
-¡Las perillas
-más rápidas del Oeste!
+75
+00:05:38,726 --> 00:05:40,791
+¡Las perillas más rápidas
+del Oeste!
 
-79
-00:05:40,718 --> 00:05:42,718
-Hay junta de concejo, muchachos, vamos.
+76
+00:05:40,876 --> 00:05:43,121
+Hay junta de concejo,
+muchachos, vamos.
 
-80
+77
 00:05:44,359 --> 00:05:46,225
 ¿Dónde estará mi…? ¡Ah!
 
-81
-00:05:46,604 --> 00:05:48,752
+78
+00:05:46,604 --> 00:05:48,782
 ¿Quién cambió
 mi pizarra de lugar, eh?
 
-82
-00:05:50,814 --> 00:05:51,932
+79
+00:05:50,814 --> 00:05:52,050
 Ah, ¿cómo estás, Rex?
 
-83
+80
 00:05:52,899 --> 00:05:54,759
 ¿Te asusté? Dime la verdad.
 
-84
-00:05:54,861 --> 00:05:56,665
-Eh, sí. Casi me asustaste esta vez.
+81
+00:05:54,861 --> 00:05:56,863
+Eh, sí.
+Casi me asustaste esta vez.
 
-85
-00:05:56,845 --> 00:06:00,352
-Oh, ¡quiero ser espantoso,
+82
+00:05:57,303 --> 00:06:00,352
+¡Quiero ser espantoso,
 pero no lo siento!
 
-86
+83
 00:06:00,478 --> 00:06:02,587
 Parece que solamente soy molesto.
 
-87
+84
 00:06:04,813 --> 00:06:05,836
 ¡Hola, Betty!
 
-88
-00:06:06,492 --> 00:06:08,117
-Quería darte las gracias, Woody
+85
+00:06:06,387 --> 00:06:09,039
+Quería darte las gracias,
+Woody, por salvarme.
 
-89
-00:06:08,157 --> 00:06:11,303
-- por salvarme
-- Ah bueno, no fue… nada.
+86
+00:06:09,127 --> 00:06:11,228
+Ah, bueno, no fue… nada.
 
-90
-00:06:12,109 --> 00:06:16,420
+87
+00:06:12,032 --> 00:06:16,420
 ¿Qué te parece si consigo a alguien
 que vigile las ovejas esta noche?
 
-91
+88
 00:06:17,097 --> 00:06:19,375
 Eh, bueno, sí…
 es que… bueno…
 
-92
+89
 00:06:19,751 --> 00:06:20,751
 Recuerda:
 
-93
+90
 00:06:21,641 --> 00:06:23,868
 yo no pongo bloques.
 
-94
-00:06:25,065 --> 00:06:27,151
+91
+00:06:25,065 --> 00:06:27,248
 ¡Vamos, vamos,
 los pequeños al frente!
 
-95
-00:06:27,488 --> 00:06:28,761
+92
+00:06:27,488 --> 00:06:28,807
 ¡Yo enfrente para ver!
 
-96
-00:06:29,566 --> 00:06:31,026
+93
+00:06:29,566 --> 00:06:31,097
 Woody, ¡ya estamos listos!
 
-97
+94
 00:06:37,195 --> 00:06:38,335
-Ah, gracias Mico.
+Gracias Mico.
 
-98
+95
 00:06:38,843 --> 00:06:40,914
 ¿Listo…?
 ¡No, no, más atrás!
 
-99
-00:06:42,039 --> 00:06:43,196
+96
+00:06:42,039 --> 00:06:43,392
 Ahí está bien, gracias.
 
-100
-00:06:45,140 --> 00:06:47,403
+97
+00:06:45,140 --> 00:06:47,562
 Hola, probando…
 ¿me escuchan? ¿Está mejor?
 
-101
-00:06:47,958 --> 00:06:50,418
+98
+00:06:47,658 --> 00:06:51,013
 ¿Me escuchan bien todos?
 Los de arriba, ¿me escuchan bien?
 
-102
-00:06:50,994 --> 00:06:53,876
+99
+00:06:51,098 --> 00:06:53,983
 Está bien.
 Lo primero en la agenda es…
 
-103
-00:06:54,808 --> 00:06:55,808
-¡ah sí!
-
-104
-00:06:55,918 --> 00:06:57,621
-¿Ya escogieron
+100
+00:06:54,808 --> 00:06:57,591
+¡Ah sí! ¿Ya escogieron
 compañero de mudanza?
 
+101
+00:06:57,676 --> 00:07:00,178
+¿Qué? ¿Mudanza?
+¡No hablas en serio!
+
+102
+00:07:00,263 --> 00:07:01,591
+No sabía
+que deberíamos
+
+103
+00:07:01,676 --> 00:07:04,209
+-tener un compañero
+-¿Hay que ir de la mano?
+
+104
+00:07:04,623 --> 00:07:07,162
+Ya, ya. ¿Creen que
+es una broma todo esto?
+
 105
-00:06:57,676 --> 00:07:00,184
-¿¡Qué?!
-¿Mudanza? ¡No hablas en serio!
+00:07:07,273 --> 00:07:08,685
+Nos queda solo
+una semana
 
 106
-00:07:00,279 --> 00:07:02,353
-No sabía que deberíamos
-tener un compañero.
-
-107
-00:07:02,553 --> 00:07:03,787
-¿Hay que ir de la mano?
-
-108
-00:07:04,623 --> 00:07:07,162
-Ya, ya.
-¿Creen que es una broma todo esto?
-
-109
-00:07:07,410 --> 00:07:09,488
-Nos queda solo una semana
+00:07:08,770 --> 00:07:09,829
 antes de mudarnos.
 
-110
-00:07:09,574 --> 00:07:11,590
-No quiero
-que se queden juguetes aquí.
+107
+00:07:09,914 --> 00:07:12,091
+No quiero que se queden
+juguetes aquí.
 
-111
-00:07:11,862 --> 00:07:14,948
-Un compañero.
-Si no lo tienen, ¡consíganlo!
+108
+00:07:12,176 --> 00:07:15,233
+Un compañero,
+si no lo tienen, ¡consíganlo!
 
-112
-00:07:15,643 --> 00:07:18,643
+109
+00:07:15,893 --> 00:07:18,643
 Lo segundo es eh…
 ah, sí, sí.
 
-113
-00:07:18,756 --> 00:07:21,904
+110
+00:07:18,756 --> 00:07:22,376
 La junta del martes de datos
-de desgaste de plásticos
+de desgaste de plásticos fue,
 
-114
-00:07:22,006 --> 00:07:24,083
-fue, creo yo, todo un éxito.
+111
+00:07:22,461 --> 00:07:25,747
+creo yo, todo un éxito.
+Gracias al Señor Deletreador
 
-115
-00:07:24,170 --> 00:07:27,732
-Gracias al señor Deletreador,
+112
+00:07:25,832 --> 00:07:28,009
 aquí presente, por presidir la junta.
 
-116
-00:07:27,795 --> 00:07:29,334
+113
+00:07:28,094 --> 00:07:29,389
 Muchas gracias, señor.
 
-117
+114
 00:07:30,410 --> 00:07:33,738
 Muy bien, ah…
 Sí sí, un pequeño dato más.
 
-118
-00:07:33,965 --> 00:07:36,621
+115
+00:07:33,965 --> 00:07:37,024
 Adelantaron para hoy
 la fiesta de cumpleaños de Andy.
 
-119
+116
 00:07:38,453 --> 00:07:41,375
 ¿Será hoy esa fiesta?
 ¡Debería ser en una semana!
 
-120
-00:07:41,438 --> 00:07:44,359
+117
+00:07:41,460 --> 00:07:44,343
 ¿Qué pasa aquí?
 ¿Se ha vuelto loca su mamá, o qué?
 
-121
-00:07:44,407 --> 00:07:48,148
+118
+00:07:44,428 --> 00:07:47,826
 Bueno, es obvio quiso
 hacerle la fiesta antes de mudarse.
 
+119
+00:07:48,069 --> 00:07:50,069
+Si yo no me preocupo,
+Uds. tampoco.
+
+120
+00:07:50,154 --> 00:07:52,866
+Woody no se preocupa porque ha sido
+el consentido de Andy
+
+121
+00:07:52,951 --> 00:07:55,879
+-desde kínder.
+-¡Ya, ya, señor Cara de Papa!
+
 122
-00:07:48,254 --> 00:07:50,035
-¡Si yo no me preocupo,
-ustedes tampoco!
-
-123
-00:07:50,090 --> 00:07:53,489
-¡Woody no se preocupa porque ha sido
-el consentido de Andy desde kínder!
-
-124
-00:07:53,605 --> 00:07:55,879
-¡Ya, ya, señor Cara de Papa!
-
-125
 00:07:56,074 --> 00:07:59,527
 Si Woody dice que está bien,
 entonces eso basta para mí.
 
-126
-00:07:59,796 --> 00:08:02,015
+123
+00:07:59,903 --> 00:08:02,015
 Woody nunca nos ha engañado.
 
-127
+124
 00:08:02,132 --> 00:08:03,241
-¡Vamos, muchachos!
+¡Vamos, muchachos,
 
-128
-00:08:03,295 --> 00:08:05,670
-¡Cada cumpleaños
+125
+00:08:03,326 --> 00:08:05,670
+cada cumpleaños
 y Navidad es igual!
 
-129
-00:08:05,801 --> 00:08:08,003
-¿Qué tal si Andy
-recibe otro dinosaurio?
+126
+00:08:05,755 --> 00:08:08,050
+¿Qué tal si Andy recibe
+otro dinosaurio?
 
-130
-00:08:08,066 --> 00:08:11,910
+127
+00:08:08,135 --> 00:08:11,910
 ¡Uno malo! No creo que pueda tolerar
 ese tipo de rechazo.
 
-131
+128
 00:08:12,001 --> 00:08:14,102
 ¡No van a sustituir a nadie!
 
-132
+129
 00:08:14,321 --> 00:08:16,680
-Estamos hablando de Andy, recuerden.
+Estamos hablando
+de Andy, recuerden.
 
-133
-00:08:17,462 --> 00:08:19,461
-No importa
-cuánto juegue con nosotros.
+130
+00:08:17,404 --> 00:08:20,234
+No importa cuánto juegue
+con nosotros, lo que…
 
-134
-00:08:19,524 --> 00:08:20,524
-Lo que…
-
-135
-00:08:23,713 --> 00:08:26,783
+131
+00:08:23,445 --> 00:08:27,212
 Lo que importa es que estemos aquí
 para Andy cuando nos necesite.
 
-136
-00:08:26,846 --> 00:08:28,822
-Para eso nos hacen, ¿no es cierto?
+132
+00:08:27,297 --> 00:08:31,710
+-Para eso nos hacen ¿no es cierto?
+-Perdóname, no quisiera interrumpir pero…
 
-137
-00:08:28,877 --> 00:08:31,336
-Perdóname,
-no quisiera interrumpir pero…
-
-138
-00:08:31,510 --> 00:08:34,377
+133
+00:08:31,795 --> 00:08:34,377
 ¡Ya llegaron!
 ¡Invitados por la derecha!
 
-139
-00:08:34,611 --> 00:08:35,666
+134
+00:08:34,611 --> 00:08:35,670
 ¡Por favor, calma!
 
-140
+135
 00:08:36,486 --> 00:08:37,486
 ¡No, no, mucha…!
 
-141
-00:08:40,126 --> 00:08:41,243
+136
+00:08:40,126 --> 00:08:41,369
 Se levanta la sesión.
 
-142
+137
 00:08:41,454 --> 00:08:43,790
 ¡Miren! ¿Ya vieron cuántos regalos?
 
-143
+138
 00:08:43,954 --> 00:08:45,689
 ¡No puedo ver nada!
 
-144
+139
 00:08:49,619 --> 00:08:52,400
 Sí, señor. Muchos acabaremos
 en la basura.
 
-145
-00:08:52,740 --> 00:08:56,763
-- ¿Hay algo en forma de dinosaurio?
-- ¡No seas tonto, todos están en sus cajas!
+140
+00:08:52,604 --> 00:08:54,553
+¿Hay algo en forma
+de dinosaurio?
 
-146
-00:08:57,013 --> 00:08:58,401
+141
+00:08:54,638 --> 00:08:57,030
+¡No seas tonto,
+todos están en sus cajas!
+
+142
+00:08:57,115 --> 00:08:58,503
 ¡Pero hay unas grandes!
 
-147
-00:08:58,847 --> 00:09:00,690
-¡Miren, ahí hay una más chiquita!
+143
+00:08:58,847 --> 00:09:00,733
+¡Miren, ahí hay una
+más chiquita!
 
-148
+144
 00:09:07,560 --> 00:09:09,036
 ¡Ya basta! ¡Calma!
 
-149
-00:09:09,849 --> 00:09:13,060
-¡Si les mando las tropas,
-¿se podrían calmar?!
+145
+00:09:09,849 --> 00:09:13,053
+¿Si les mando las tropas
+se podrían calmar?
 
-150
+146
 00:09:13,138 --> 00:09:16,614
-- ¡Sí, sí, prometido!
-- ¡Muy bien! ¡Ahorren energía!
+-¡Sí, sí, prometido!
+-¡Muy bien! ¡Ahorren energía!
 
-151
+147
 00:09:16,974 --> 00:09:19,309
 ¡Bien, Woody,
 así se controla el ganado!
 
-152
+148
 00:09:21,379 --> 00:09:22,379
 Sargento:
 
-153
-00:09:22,404 --> 00:09:26,295
+149
+00:09:22,464 --> 00:09:26,645
 Coloca un puesto de vigilancia abajo,
 alerta roja. Ya sabes qué hacer.
 
-154
-00:09:26,569 --> 00:09:27,569
+150
+00:09:26,730 --> 00:09:27,730
 ¡Sí, señor!
 
-155
-00:09:29,060 --> 00:09:32,209
-Bien, muchachos, ya oyeron,
-alerta roja, estamos en alerta roja,
+151
+00:09:28,903 --> 00:09:31,257
+Bien, muchachos,
+ya oyeron, alertar roja,
 
-156
-00:09:32,256 --> 00:09:34,100
+152
+00:09:31,342 --> 00:09:34,695
+estamos en alerta roja,
 plan Vigilancia Charly, ¡ejecuten!
 
-157
-00:09:34,639 --> 00:09:36,616
+153
+00:09:34,780 --> 00:09:36,530
 ¡Vamos, vamos!
 
-158
+154
 00:09:59,958 --> 00:10:03,362
 ¡Vamos, vamos niños,
 todos a la sala a abrir los regalos!
 
-159
+155
 00:10:27,885 --> 00:10:31,448
 Y así es como sabremos
 qué son los regalos.
 
-160
+156
 00:10:31,585 --> 00:10:32,585
 ¡Oye!
 
-161
+157
 00:10:38,291 --> 00:10:39,291
 <i>¡Atención!</i>
 
-162
+158
 00:10:39,736 --> 00:10:42,400
 <i>¿Quién tiene hambre?
 Aquí viene la comida.</i>
 
-163
+159
 00:10:42,572 --> 00:10:44,267
 <i>Tengo sodas y salchichas.</i>
 
-164
+160
 00:10:46,294 --> 00:10:49,044
 ¡Qué niño!
 ¡Le dije que recogiera todo!
 
-165
-00:10:50,426 --> 00:10:52,797
+161
+00:10:50,314 --> 00:10:52,903
 Ya deberían estar ahí,
 ¿por qué tardan tanto?
 
-166
-00:10:52,988 --> 00:10:55,126
-Oigan, es que son profesionales,
+162
+00:10:52,988 --> 00:10:56,201
+Oigan, es que
+son profesionales, los mejores.
 
-167
-00:10:55,151 --> 00:10:56,071
-¡los mejores!
-
-168
+163
 00:10:56,902 --> 00:10:59,058
 ¡Vamos,
 no están tirados descansando!
 
-169
+164
 00:11:10,542 --> 00:11:12,401
 Déjame aquí, ¡vete!
 
-170
-00:11:12,511 --> 00:11:14,761
+165
+00:11:12,511 --> 00:11:15,276
 ¡Un buen soldado nunca
 deja solo a un compañero!
 
-171
+166
 00:11:37,422 --> 00:11:38,422
 <i>Tú siéntate aquí.</i>
 
-172
+167
 00:11:39,743 --> 00:11:42,931
 <i>No, no, Andy,
 tú enmedio, ¡eso es!</i>
 
-173
-00:11:44,005 --> 00:11:45,747
-¿Y qué regalo
-vas a abrir primero?
+168
+00:11:43,971 --> 00:11:45,913
+<i>¿Y qué regalo
+vas a abrir primero?</i>
 
-174
+169
 00:11:48,005 --> 00:11:49,005
-¡Ahí están!
+<i>¡Ahí están!</i>
 
-175
+170
 00:11:50,657 --> 00:11:54,697
-- <i>Adelante Mamá Pájaro…</i>
-- ¡Ya está, ya está! ¡Cállense, cállense!
+-<i>Adelante Mamá Pájaro…</i>
+-¡Ya está, ya está! ¡Cállense, cállense!
 
-176
-00:11:55,212 --> 00:11:57,103
+171
+00:11:55,212 --> 00:11:57,330
 <i>Atención: Andy abre
 su primer regalo.</i>
 
-177
-00:11:57,849 --> 00:12:00,661
+172
+00:11:57,790 --> 00:12:01,143
 ¡Que sea una señora Cara de Papa,
 una señora Cara de Papa!
 
-178
+173
 00:12:01,528 --> 00:12:02,817
 Soñar no cuesta nada.
 
-179
+174
 00:12:03,166 --> 00:12:04,228
 <i>Quita el moño,</i>
 
-180
+175
 00:12:04,416 --> 00:12:06,283
 <i>rompe la envoltura y es…</i>
 
-181
+176
 00:12:06,424 --> 00:12:09,064
 <i>¡es una lonchera!
 ¡Tenemos una lonchera!</i>
 
-182
-00:12:09,781 --> 00:12:10,781
+177
+00:12:09,806 --> 00:12:10,820
 ¿Una lonchera?
 
-183
-00:12:10,867 --> 00:12:12,874
-- ¿Una lonchera?
-- ¿Para qué sirve eso?
+178
+00:12:10,905 --> 00:12:13,023
+-¿Una lonchera?
+-¿Para qué sirve eso?
 
-184
-00:12:13,023 --> 00:12:14,991
+179
+00:12:13,108 --> 00:12:14,948
 <i>El segundo regalo parece ser…</i>
 
-185
+180
 00:12:15,187 --> 00:12:16,483
 <i>¡Sí, son sábanas!</i>
 
-186
-00:12:16,574 --> 00:12:17,972
+181
+00:12:16,574 --> 00:12:18,045
 ¿Quién invitó a ese niño?
 
-187
+182
 00:12:23,170 --> 00:12:25,420
 ¡Oh! Queda solo uno.
 
-188
-00:12:25,521 --> 00:12:27,388
+183
+00:12:25,521 --> 00:12:27,452
 <i>Atención: abre el último regalo.</i>
 
-189
-00:12:27,537 --> 00:12:29,372
-- ¡Último regalo!
-- <i>¡Es muy grande!</i>
+184
+00:12:27,537 --> 00:12:29,490
+-¡Último regalo!
+-<i>¡Es muy grande!</i>
 
-190
-00:12:29,692 --> 00:12:30,762
+185
+00:12:29,692 --> 00:12:30,749
 <i>Es un…</i>
 
-191
-00:12:30,834 --> 00:12:33,232
+186
+00:12:30,834 --> 00:12:33,253
 <i>¡es un juego de mesa,
 repito, "Submarino"!</i>
 
-192
-00:12:35,209 --> 00:12:37,693
-- ¡Muy bien!, ¿verdad?
-- ¡Oye!, ¿qué te pasa?
+187
+00:12:35,209 --> 00:12:37,690
+-¡Muy bien!, ¿verdad?
+-¡Oye!, ¿qué te pasa?
 
-193
+188
 00:12:37,775 --> 00:12:39,048
 Perdón, te hice puré.
 
-194
-00:12:39,439 --> 00:12:42,533
+189
+00:12:39,439 --> 00:12:42,969
 Misión cumplida. Muy bien, muchachos,
 es todo, ¡vamos a casa!
 
-195
+190
 00:12:43,228 --> 00:12:45,598
 ¿Qué les dije? ¿Eh?
 No hubo problema.
 
-196
+191
 00:12:45,708 --> 00:12:49,163
 Tú siempre tienes la razón,
 nunca lo dudé ni un segundo.
 
-197
+192
 00:12:50,326 --> 00:12:51,420
 <i>¡Un momento!</i>
 
-198
-00:12:51,701 --> 00:12:53,529
+193
+00:12:51,701 --> 00:12:53,522
 <i>¿Qué tenemos aquí?</i>
 
-199
-00:12:53,607 --> 00:12:55,380
-¡Oigan! ¡Enciendan el transmisor!
+194
+00:12:53,607 --> 00:12:55,492
+¡Oigan!
+¡Enciendan el transmisor!
 
-200
-00:12:55,826 --> 00:12:57,966
+195
+00:12:55,826 --> 00:12:57,929
 <i>¡Adelante mamá pájaro!</i>
 
-201
-00:12:58,020 --> 00:13:00,232
+196
+00:12:58,051 --> 00:13:00,699
 <i>¡Mamá ha sacado
 un regalo sorpresa del clóset!</i>
 
-202
-00:13:00,419 --> 00:13:03,349
+197
+00:13:00,784 --> 00:13:03,349
 <i>Andy lo abre,
 ¡está muy emocionado!</i>
 
-203
-00:13:04,028 --> 00:13:05,145
+198
+00:13:04,028 --> 00:13:05,028
 <i>¡Es enorme!</i>
 
-204
-00:13:05,583 --> 00:13:07,903
+199
+00:13:05,583 --> 00:13:08,114
 Pero uno de los niños estorba
 y no veo nada.
 
-205
+200
 00:13:08,622 --> 00:13:09,622
 Es un…
 
-206
+201
 00:13:12,439 --> 00:13:15,478
-¡¿Es un qué, un qué?!
+¿Es un qué, un qué?
 
-207
-00:13:17,462 --> 00:13:19,767
+202
+00:13:17,405 --> 00:13:19,760
 ¡Lagartija tonta,
 ya no sabremos qué fue!
 
-208
+203
 00:13:19,845 --> 00:13:21,228
 ¡Pero qué bien, Rex!
 
-209
-00:13:21,314 --> 00:13:23,282
-¡No, no, voltéalo, Dale vuelta!
+204
+00:13:21,314 --> 00:13:23,138
+¡No, no, voltéalo,
+dale vuelta!
 
-210
-00:13:23,321 --> 00:13:25,570
-Espera, las estás poniendo
-al revés, ¡las pones al revés!
+205
+00:13:23,223 --> 00:13:25,525
+¡Espera, las estás
+poniendo al revés!
 
-211
-00:13:25,610 --> 00:13:27,392
+206
+00:13:25,610 --> 00:13:27,674
 ¡Más es positivo,
 menos es negativo!
 
-212
-00:13:27,462 --> 00:13:29,767
+207
+00:13:27,759 --> 00:13:29,767
 ¡Oh, déjame ahí!
 ¡Quítate!
 
-213
-00:13:32,600 --> 00:13:35,280
+208
+00:13:32,600 --> 00:13:35,310
 ¡Alerta roja, alerta roja!
 ¡Andy está subiendo!
 
-214
-00:13:36,108 --> 00:13:37,108
+209
+00:13:35,965 --> 00:13:36,965
 ¡Listo!
 
-215
-00:13:37,194 --> 00:13:39,600
-<i>¡Invasión juvenil, repito,
-reasuman posición!</i>
+210
+00:13:37,050 --> 00:13:38,521
+<i>Invasión juvenil, repito,</i>
 
-216
-00:13:39,647 --> 00:13:42,108
-¡Ahí viene Andy!
-¡Rápido, a sus puestos, rápido!
+211
+00:13:38,606 --> 00:13:40,728
+<i>-reasuman posición.</i>
+-¡Ahí viene Andy,
 
-217
+212
+00:13:40,813 --> 00:13:42,578
+rápido, a sus puestos, rápido!
+
+213
 00:13:44,459 --> 00:13:46,600
 ¡Mi oreja!
 ¿Quién ha visto mi oreja?
 
-218
+214
 00:13:46,920 --> 00:13:48,906
 ¡Cuidado!
 ¡Allá voy… allá voy…!
 
-219
+215
 00:13:56,299 --> 00:13:59,041
 <i>¡Vamos, vamos a jugar
 con mi astronauta!</i>
 
-220
+216
 00:14:03,072 --> 00:14:04,072
 <i>¡Toma, Zurg!</i>
 
-221
-00:14:06,400 --> 00:14:07,400
+217
+00:14:06,361 --> 00:14:07,460
 <i>¡Vamos, muchachos!</i>
 
-222
-00:14:08,979 --> 00:14:11,033
-<i>- ¡Vamos a bajar!
-- ¡Andy! ¿Quieren bajar ya?</i>
+218
+00:14:08,979 --> 00:14:11,391
+<i>-¡Vamos a bajar!
+-Andy, ¿quieren bajar ya?</i>
 
-223
-00:14:11,525 --> 00:14:13,557
+219
+00:14:11,525 --> 00:14:13,616
 <i>¡Hay juegos!
 ¡Tenemos premios!</i>
 
-224
+220
 00:14:27,063 --> 00:14:28,195
 ¿Pueden ver algo?
 
-225
-00:14:28,547 --> 00:14:29,875
+221
+00:14:28,323 --> 00:14:29,875
 ¿Qué ocurre allá arriba?
 
-226
-00:14:29,961 --> 00:14:32,039
+222
+00:14:29,960 --> 00:14:32,196
 Woody, ¿quién está
 allá arriba contigo?
 
-227
-00:14:34,391 --> 00:14:36,703
-¡Woody! ¿Pero qué estás haciendo
+223
+00:14:34,284 --> 00:14:37,167
+¡Woody! Pero ¿qué estás haciendo
 abajo de la cama?
 
-228
-00:14:37,370 --> 00:14:40,057
-Nada… nada.
+224
+00:14:37,370 --> 00:14:40,035
+Nada, nada.
 Creo que Andy estaba emocionado,
 
-229
+225
 00:14:40,120 --> 00:14:43,479
-eso es todo,
-demasiado helado y pastel, ¡fue un error!
+eso es todo, demasiado helado
+y pastel, ¡fue un error!
 
-230
+226
 00:14:43,776 --> 00:14:47,182
 Pues ese error
 ya tomó tu lugar, Woody.
 
-231
-00:14:48,151 --> 00:14:50,686
-- ¿Te han reemplazado?
-- Oye, ¿qué te dije hace rato?
+227
+00:14:48,005 --> 00:14:50,888
+-¿Te han reemplazado?
+-Oye ¿qué te dije hace rato?
 
-232
-00:14:50,929 --> 00:14:52,608
+228
+00:14:50,973 --> 00:14:52,608
 A nadie van a reemplazar.
 
-233
+229
 00:14:52,851 --> 00:14:54,819
 Ahora seamos todos amables
 
-234
-00:14:55,030 --> 00:14:56,882
+230
+00:14:54,904 --> 00:14:56,904
 y démosle
 a lo que esté allá arriba
 
-235
-00:14:56,945 --> 00:14:59,882
-¡una buena y calurosa bienvenida
+231
+00:14:56,989 --> 00:14:58,857
+¡una buena
+y calurosa bienvenida
+
+232
+00:14:58,942 --> 00:15:00,001
 al cuarto de Andy!
 
-236
-00:15:25,505 --> 00:15:27,927
-Buzz Lightyear a Comando Estelar,
-adelante Comando Estelar.
+233
+00:15:25,296 --> 00:15:27,179
+Buzz Lightyear
+a Comando Estelar,
 
-237
-00:15:29,737 --> 00:15:31,541
+234
+00:15:27,264 --> 00:15:28,735
+adelante,
+Comando Estelar.
+
+235
+00:15:29,629 --> 00:15:31,929
 Comando Estelar,
 adelante, ¿me escuchan?
 
-238
-00:15:32,033 --> 00:15:33,268
+236
+00:15:32,014 --> 00:15:33,309
 ¿Por qué no contestan?
 
-239
-00:15:34,315 --> 00:15:35,315
+237
+00:15:34,315 --> 00:15:35,427
 ¡Mi nave!
 
-240
-00:15:38,199 --> 00:15:39,199
+238
+00:15:38,199 --> 00:15:40,748
 ¡Rayos!
-
-241
-00:15:39,366 --> 00:15:40,699
 Tardaré mucho en repararla.
 
-242
-00:15:41,731 --> 00:15:45,027
+239
+00:15:41,731 --> 00:15:45,021
 Buzz Lightyear bitácora.
 Fecha 4072.
 
-243
-00:15:45,106 --> 00:15:48,199
+240
+00:15:45,106 --> 00:15:48,169
 Mi nave se desvió
 en ruta al Sector 19.
 
-244
-00:15:48,309 --> 00:15:50,105
+241
+00:15:48,254 --> 00:15:50,105
 He caído en un planeta extraño.
 
-245
+242
 00:15:50,199 --> 00:15:52,963
 El impacto tal vez
 me despertó del hipersueño.
 
-246
+243
 00:15:55,792 --> 00:15:58,354
 El terreno parece algo inestable.
 
-247
-00:15:59,081 --> 00:16:01,416
+244
+00:15:59,023 --> 00:16:01,376
 No sé todavía
 si el aire es respirable y…
 
-248
-00:16:01,526 --> 00:16:04,471
-no parece haber señales de
-vida inteligente en ninguna parte.
+245
+00:16:01,461 --> 00:16:04,710
+no parece haber señales
+de vida inteligente en ninguna parte.
 
-249
-00:16:04,564 --> 00:16:05,066
+246
+00:16:04,795 --> 00:16:05,795
 ¡Hola!
 
-250
+247
 00:16:07,423 --> 00:16:09,666
 ¡Ya! ¡Ya, ya!
 ¡Te asusté!
 
-251
+248
 00:16:10,487 --> 00:16:13,877
 Fue sin querer. Lo siento.
 Hola, me llamo Woody,
 
-252
+249
 00:16:14,034 --> 00:16:16,003
-y este es el cuarto de Andy.
+y este es
+el cuarto de Andy.
 
-253
-00:16:16,243 --> 00:16:17,719
-Era todo lo que quería decir.
+250
+00:16:16,131 --> 00:16:17,837
+Era todo lo que
+quería decir.
 
-254
-00:16:17,922 --> 00:16:20,523
+251
+00:16:17,922 --> 00:16:20,578
 Y además
 que ha habido una… confusión.
 
-255
-00:16:20,735 --> 00:16:23,024
+252
+00:16:20,735 --> 00:16:23,022
 Este es mi lugar,
 ¿sabes? La cama esta…
 
-256
-00:16:23,185 --> 00:16:25,840
-¿Policía local? ¡Ya era tiempo!
+253
+00:16:23,107 --> 00:16:24,872
+¿Policía local?
+¡Ya era tiempo!
+
+254
+00:16:24,957 --> 00:16:26,075
 Soy Buzz Lightyear,
 
-257
-00:16:25,950 --> 00:16:28,536
+255
+00:16:26,160 --> 00:16:28,808
 guardián espacial,
 Unidad Protección Universo.
 
-258
-00:16:28,646 --> 00:16:30,263
+256
+00:16:28,893 --> 00:16:30,658
 Mi nave se estrelló por error.
 
-259
+257
 00:16:30,927 --> 00:16:32,599
 Sí, fue un error.
 
-260
+258
 00:16:32,691 --> 00:16:34,956
 Porque verás
 que esta cama es mi lugar.
 
-261
-00:16:35,182 --> 00:16:36,869
+259
+00:16:35,041 --> 00:16:36,987
 Tengo que reparar
-mis turbo propulsores.
+mis turbopropulsores.
 
-262
-00:16:36,971 --> 00:16:39,822
-¿Todavía usas combustible fósil
-o ya descubriste fusión cristálica?
+260
+00:16:37,072 --> 00:16:39,839
+¿Todavía usas combustible fósil o
+ya descubriste fusión cristálica?
 
-263
-00:16:39,924 --> 00:16:41,659
+261
+00:16:39,924 --> 00:16:41,722
 Bueno, verás…
 tenemos la AA.
 
-264
+262
 00:16:42,205 --> 00:16:43,205
 ¡Cuidado!
 
-265
+263
 00:16:43,354 --> 00:16:44,354
 ¿Quién está ahí?
 
-266
+264
 00:16:44,690 --> 00:16:46,651
 ¡No dispares! Somos amigos.
 
-267
-00:16:46,870 --> 00:16:48,511
-- ¿Conoces a esos entes?
-- ¡Sí!
+265
+00:16:46,870 --> 00:16:48,521
+-¿Conoces a esos entes?
+-¡Sí!
 
-268
+266
 00:16:48,940 --> 00:16:50,456
 ¡Son juguetes de Andy!
 
-269
-00:16:50,768 --> 00:16:52,315
-Está bien, señores, pueden subir.
+267
+00:16:50,699 --> 00:16:52,584
+Está bien, señores,
+pueden subir.
 
-270
+268
 00:16:53,263 --> 00:16:55,590
 Soy Buzz Lightyear. Vengo en paz.
 
-271
+269
 00:16:56,122 --> 00:16:59,419
 ¡Ay, qué bueno
 que no eres un dinosaurio!
 
-272
+270
 00:17:00,494 --> 00:17:04,135
 Gracias. Y gracias a todos
 por su gentil bienvenida.
 
-273
+271
 00:17:04,455 --> 00:17:06,963
-- Oye, ¿para qué es este botón?
-- Ya verás.
+-Oye, ¿para qué es este botón?
+-Ya verás.
 
-274
-00:17:07,786 --> 00:17:09,528
+272
+00:17:07,699 --> 00:17:10,052
 <i>"Misión secreta
 en espacio no explorado."</i>
 
-275
-00:17:10,568 --> 00:17:12,998
+273
+00:17:10,568 --> 00:17:13,199
 Oye, Woody tiene algo así,
 pero es un hilo.
 
-276
-00:17:13,293 --> 00:17:15,253
-Suena como si
-lo hubiera arrollado un auto.
+274
+00:17:13,293 --> 00:17:15,764
+Suena como si lo hubiera
+arrollado un auto.
 
-277
-00:17:15,323 --> 00:17:18,401
-Ah sí, no como este.
+275
+00:17:15,849 --> 00:17:18,686
+No como este.
 Es un sistema de sonido de calidad.
 
-278
-00:17:18,461 --> 00:17:20,539
-Debe ser
-con alambres de cobre, ¿no?
+276
+00:17:18,771 --> 00:17:20,830
+Debe ser con alambres
+de cobre, ¿no?
 
-279
-00:17:20,727 --> 00:17:23,781
-Eh, y… ¿de dónde eres?
+277
+00:17:21,132 --> 00:17:23,781
+Y ¿de dónde eres?
 ¿De Singapur? ¿De Hong Kong?
 
-280
+278
 00:17:23,953 --> 00:17:28,047
 Oh, no. En realidad mi sector está
 en el Cuadrante Gama del Sector 4.
 
-281
-00:17:28,852 --> 00:17:30,000
-Como miembro de la 'elite'…
-
-282
-00:17:30,102 --> 00:17:32,703
+279
+00:17:28,668 --> 00:17:31,084
+Como miembro de la elite
 de la Unidad de Protección
-del Cuerpo de Guardianes del Espacio,
 
-283
-00:17:32,781 --> 00:17:36,771
+280
+00:17:31,169 --> 00:17:32,821
+del Cuerpo de
+Guardianes del Espacio,
+
+281
+00:17:32,906 --> 00:17:37,212
 protejo a la galaxia de la amenaza
 de invasión del malvado Emperador Zurg,
 
+282
+00:17:37,297 --> 00:17:39,738
+¡enemigo jurado
+de la Alianza Galáctica!
+
+283
+00:17:40,508 --> 00:17:42,508
+¿En serio?
+Yo soy de Playskool.
+
 284
-00:17:36,873 --> 00:17:39,646
-¡enemigo jurado de la Alianza Galáctica!
+00:17:42,593 --> 00:17:45,021
+Y yo de Mattel.
+Bueno, en realidad no.
 
 285
-00:17:40,508 --> 00:17:42,313
-¿En serio? Yo soy de Playskool.
+00:17:45,106 --> 00:17:48,442
+Soy de una empresa pequeña
+que fue absorbida para evitar bancarrota.
 
 286
-00:17:42,462 --> 00:17:45,016
-Y yo de Mattel…
-bueno, en realidad no.
+00:17:48,527 --> 00:17:50,292
+Parece que nunca
+hubieran visto
 
 287
-00:17:45,106 --> 00:17:46,222
-Soy de una empresa pequeña
+00:17:50,377 --> 00:17:52,430
+-un juguete nuevo.
+-¡Claro, míralo!
 
 288
-00:17:46,261 --> 00:17:48,231
-que fue absorbida
-para evitar bancarrota.
-
-289
-00:17:48,527 --> 00:17:50,714
-¡Parece que nunca
-hubieran visto un juguete nuevo!
-
-290
-00:17:50,916 --> 00:17:52,338
-¡Claro, míralo!
-
-291
-00:17:52,439 --> 00:17:55,236
+00:17:52,515 --> 00:17:55,236
 Tiene más cosas encima
 que una navaja suiza.
 
-292
-00:17:57,064 --> 00:17:59,658
+289
+00:17:56,976 --> 00:17:59,792
 ¡Mucho cuidado! No querrían
 estar cerca si se dispara mi láser.
 
-293
-00:17:59,877 --> 00:18:03,143
+290
+00:17:59,877 --> 00:18:03,128
 ¿Tu láser?
 ¿Por qué tú no tienes láser, Woody?
 
-294
+291
 00:18:03,213 --> 00:18:04,385
 ¡No es un láser!
 
-295
-00:18:04,782 --> 00:18:06,157
-¡Es una lucecita que parpadea!
+292
+00:18:04,782 --> 00:18:06,268
+¡Es una lucecita
+que parpadea!
 
-296
+293
 00:18:06,353 --> 00:18:08,017
-- ¿Qué tiene?
-- Envidia.
+-¿Qué tiene?
+-Envidia.
 
-297
+294
 00:18:08,149 --> 00:18:09,392
 ¡Bien, se acabó!
 
-298
-00:18:09,501 --> 00:18:12,658
+295
+00:18:09,501 --> 00:18:12,705
 Sí, estamos impresionados
 con el juguete nuevo de Andy.
 
-299
+296
 00:18:12,790 --> 00:18:15,306
-- ¿Juguete?
-- JU-GUE-TE. ¡Juguete!
+-¿Juguete?
+-JU-GUE-TE. ¡Juguete!
+
+297
+00:18:15,400 --> 00:18:19,464
+Disculpa, creo que el término
+que estás buscando es Guardián Espacial.
+
+298
+00:18:19,549 --> 00:18:21,197
+El término
+que estoy buscando
+
+299
+00:18:21,282 --> 00:18:23,869
+no lo diré porque hay
+juguetes prescolares.
 
 300
-00:18:15,400 --> 00:18:19,376
-Disculpa, creo que el término
-que estás buscando es: Guardián Espacial.
-
-301
-00:18:19,462 --> 00:18:21,056
-El término que estoy buscando
-
-302
-00:18:21,081 --> 00:18:23,869
-no lo diré
-porque hay juguetes preescolares.
-
-303
 00:18:23,978 --> 00:18:25,478
 Estás algo tenso, ¿eh?
 
-304
+301
 00:18:25,908 --> 00:18:28,290
 Oiga, señor Lightyear,
 por curiosidad,
 
-305
+302
 00:18:28,665 --> 00:18:31,408
 ¿un Guardián Espacial
 a qué se dedica?
 
-306
+303
 00:18:31,548 --> 00:18:33,345
 ¡No es un Guardián Espacial!
 
-307
-00:18:33,494 --> 00:18:36,548
+304
+00:18:33,494 --> 00:18:36,534
 ¡No lucha contra el mal
 ni dispara rayos láser
 
-308
+305
 00:18:36,619 --> 00:18:38,040
-- ni vuela!
-- Disculpa.
+-ni vuela!
+-Disculpa.
 
-309
-00:18:39,902 --> 00:18:43,269
+306
+00:18:39,902 --> 00:18:43,262
 ¡Vaya! ¡Eso sí es aerodinámico!
 ¡Qué bien!
 
-310
+307
 00:18:43,347 --> 00:18:45,057
 ¡Oh no! ¿Qué?
 
-311
+308
 00:18:45,379 --> 00:18:46,910
 Son de plástico.
 
-312
+309
 00:18:47,014 --> 00:18:48,021
 ¡No puede volar!
 
-313
-00:18:48,108 --> 00:18:49,769
-Es una amalgama
-de carbono de terilio
+310
+00:18:48,106 --> 00:18:51,282
+Es una amalgama de carbono
+de terilio y puedo volar.
 
-314
-00:18:49,801 --> 00:18:51,277
-y puedo volar.
-
-315
+311
 00:18:51,889 --> 00:18:53,334
 ¡No, no puedes!
 
-316
+312
 00:18:53,631 --> 00:18:55,530
-- ¡Sí puedo!
-- ¡No puedes!
+-¡Sí puedo!
+-¡No puedes!
+
+313
+00:18:55,616 --> 00:18:57,798
+-¡Sí!
+-¡No puedes! ¡No, no!
+
+314
+00:18:57,883 --> 00:19:00,648
+Puedo volar por el cuarto
+con los ojos cerrados.
+
+315
+00:19:00,733 --> 00:19:02,248
+Muy bien, hombre de lata.
+
+316
+00:19:02,333 --> 00:19:04,098
+-¡Pruébalo!
+-Está ben, lo haré.
 
 317
-00:18:55,616 --> 00:18:57,826
-- ¡Sí!
-- ¡No puedes! ¡No, no!
-
-318
-00:18:57,897 --> 00:19:00,350
-¡Puedo volar por el cuarto
-con los ojos cerrados!
-
-319
-00:19:00,498 --> 00:19:03,943
-- Muy bien, hombre de lata. ¡Pruébalo!
-- Está ben, lo haré.
-
-320
 00:19:04,732 --> 00:19:05,732
 Atrás, por favor.
 
-321
+318
 00:19:14,321 --> 00:19:17,258
 ¡Al infinito y más allá!
 
-322
+319
 00:19:43,654 --> 00:19:44,654
 ¡Qué tal!
 
-323
+320
 00:19:46,581 --> 00:19:49,378
 ¡Qué bien,
 volaste estupendamente!
 
-324
+321
 00:19:49,550 --> 00:19:51,050
 Encontré a mi compañero.
 
-325
+322
 00:19:51,214 --> 00:19:53,409
 ¡Gracias!
 ¡Gracias a todos! ¡Gracias!
 
-326
+323
 00:19:53,628 --> 00:19:55,018
 ¡Eso no es volar!
 
-327
+324
 00:19:55,276 --> 00:19:57,386
 Eso fue… ¡caer con estilo!
 
-328
+325
 00:19:57,675 --> 00:20:00,854
 ¡Las chicas deben perseguirte!
 ¿Puedes enseñarme?
 
-329
+326
 00:20:01,706 --> 00:20:04,182
-- ¡Caracoles, qué tipo!
-- ¡Oh, cállate!
+-¡Caracoles, qué tipo!
+-¡Oh, cállate!
 
-330
+327
 00:20:05,228 --> 00:20:08,196
 En un par de días
 todo estará como antes, ya verán.
 
-331
-00:20:09,907 --> 00:20:12,422
+328
+00:20:09,892 --> 00:20:12,481
 Les demostraré
 que sigo siendo el consentido.
 
-332
+329
 00:20:13,986 --> 00:20:17,086
 <i>Yo vivía muy bien y con lujos,</i>
 
-333
+330
 00:20:17,219 --> 00:20:18,813
 <i>todo poseía.</i>
 
-334
+331
 00:20:21,149 --> 00:20:25,735
 <i>No tenía que desear
 pues todo fue de mi elección.</i>
 
-335
+332
 00:20:28,118 --> 00:20:32,782
 <i>Pero sin avisar,
 como bomba aterriza un intruso.</i>
 
-336
+333
 00:20:35,482 --> 00:20:39,794
 <i>Mi vida tranquila
 de pronto comienza a cambiar.</i>
 
-337
+334
 00:20:42,934 --> 00:20:47,848
 <i>Cambios extraños que hay en mí.</i>
 
-338
+335
 00:20:50,011 --> 00:20:54,190
 <i>Cambios.</i>
 
-339
+336
 00:20:57,011 --> 00:21:01,753
 <i>Cambios extraños que hay en mí.</i>
 
-340
+337
 00:21:02,503 --> 00:21:04,503
 <i>Y no hay duda alguna.</i>
 
-341
+338
 00:21:10,483 --> 00:21:14,319
 <i>Me quedé sin una amistad,</i>
 
-342
+339
 00:21:14,873 --> 00:21:16,819
 <i>mis amigos ya no están.</i>
 
-343
+340
 00:21:17,654 --> 00:21:21,921
 <i>Y el remedio
 que me queda es aguantar.</i>
 
-344
+341
 00:21:24,671 --> 00:21:28,702
 <i>Fui temido (¡temido!)
 y respetado (¡respetado!),</i>
 
-345
+342
 00:21:29,341 --> 00:21:30,950
 <i>¡Pero se acabó!</i>
 
-346
+343
 00:21:31,942 --> 00:21:36,286
 <i>Y perdí el amor
 de quien he amado yo.</i>
 
-347
-00:21:38,006 --> 00:21:42,536
+344
+00:21:38,006 --> 00:21:42,484
 <i>Quiero contarte
 de los cambios</i>
 
-348
+345
 00:21:42,569 --> 00:21:44,343
 <i>extraños que hay en mí.</i>
 
-349
+346
 00:21:46,564 --> 00:21:50,867
 <i>Cambios.</i>
 
-350
+347
 00:21:53,726 --> 00:21:58,468
 <i>Cambios extraños que hay en mí.</i>
 
-351
+348
 00:21:59,211 --> 00:22:01,211
 <i>Y no hay duda alguna.</i>
 
-352
+349
 00:22:04,386 --> 00:22:08,618
 <i>Cambios.</i>
 
-353
+350
 00:22:19,226 --> 00:22:20,226
 ¡Por fin!
 
-354
-00:22:22,282 --> 00:22:23,282
-¿Quién tiene mi sombrero?
+351
+00:22:22,282 --> 00:22:23,694
+¿Quién tiene
+mi sombrero?
 
-355
+352
 00:22:23,891 --> 00:22:26,650
 ¡Hola, soy Woody!
 ¡Todos fuera de la cama!
 
-356
+353
 00:22:28,811 --> 00:22:29,811
 ¡Dame eso!
 
-357
-00:22:30,144 --> 00:22:32,136
+354
+00:22:30,144 --> 00:22:32,203
 <i>Escuchen, lagarto
 y perro estirable.</i>
 
-358
-00:22:33,121 --> 00:22:35,426
+355
+00:22:33,121 --> 00:22:35,474
 <i>Parece que me han aceptado
 en su cultura.</i>
 
-359
+356
 00:22:35,605 --> 00:22:38,582
 Su jefe Andy escribió
 su nombre en mi pie.
 
-360
+357
 00:22:38,676 --> 00:22:41,003
 ¡Wow! ¡Con tinta indeleble!
 
-361
+358
 00:22:41,738 --> 00:22:44,691
 Bueno, tengo que ir
 a reparar mi nave.
 
-362
-00:22:47,951 --> 00:22:50,649
-- No dejes que te afecte, Woody.
-- ¿Qué cosa?
+359
+00:22:47,951 --> 00:22:52,681
+-No dejes que te afecte, Woody.
+-¿Qué cosa? No sé de qué hablas. ¿Quién?
 
-363
-00:22:50,682 --> 00:22:52,623
- No sé de qué hablas. ¿Quién?
-
-364
-00:22:52,716 --> 00:22:55,602
+360
+00:22:52,766 --> 00:22:55,554
 Entiende que Andy
-se emocionó con Buzz
+se emocionó con Buzz.
 
-365
+361
 00:22:55,639 --> 00:22:59,162
 pero tú sabes que siempre
 tendrá un lugar especial para ti.
 
-366
+362
 00:22:59,263 --> 00:23:00,912
 ¡Sí, como el desván!
 
-367
+363
 00:23:01,591 --> 00:23:03,240
 ¡Ah, está bien! ¡Se acabó!
 
-368
-00:23:04,638 --> 00:23:06,271
-Cinta unidireccional para unir.
+364
+00:23:04,638 --> 00:23:06,438
+Cinta unidireccional
+para unir.
 
-369
-00:23:06,427 --> 00:23:07,904
+365
+00:23:06,523 --> 00:23:07,904
 Buzz quiere más cinta.
 
-370
+366
 00:23:11,275 --> 00:23:15,486
 Oye, lata de sardinas:
 no te acerques a Andy, ¡es mío!
 
-371
+367
 00:23:15,595 --> 00:23:18,251
 ¡Y nadie me lo puede quitar a mí!
 
-372
-00:23:18,439 --> 00:23:21,306
+368
+00:23:18,439 --> 00:23:21,677
 ¿De qué estás hablándome?
 ¿Dónde está la cinta adhesiva?
 
-373
+369
 00:23:24,104 --> 00:23:27,966
 Y otra cosa: ¡deja de jugar
 al hombre del espacio!
 
-374
-00:23:28,291 --> 00:23:29,291
+370
+00:23:28,291 --> 00:23:29,356
 ¡Me pone nervioso!
 
+371
+00:23:29,441 --> 00:23:31,030
+¿Quieres presentar
+una queja
+
+372
+00:23:31,115 --> 00:23:34,077
+-al Comando Estelar?
+-¡Ay, ay, una queja, claro!
+
+373
+00:23:34,259 --> 00:23:36,024
+¿Quieres que
+me ponga rudo, eh?
+
+374
+00:23:36,205 --> 00:23:39,330
+-Ni siquiera lo pienses, vaquero.
+-¡Ah! ¿Me amenazas?
+
 375
-00:23:29,557 --> 00:23:31,783
-¿Quieres presentar una queja
-al Comando Estelar?
-
-376
-00:23:31,831 --> 00:23:35,838
-¡Ay, ay, ay, una queja, claro!
-¿Quieres que me ponga rudo, eh?
-
-377
-00:23:36,010 --> 00:23:39,330
-- Ni siquiera lo pienses, vaquero.
-- ¡Ah! ¿Me amenazas?
-
-378
 00:23:51,606 --> 00:23:53,012
 El aire no es tóxico.
 
+376
+00:23:53,395 --> 00:23:55,058
+¿Cómo te atreves
+a abrir el casco
+
+377
+00:23:55,143 --> 00:23:57,021
+de un espacial en un
+planeta no explorado?
+
+378
+00:23:57,106 --> 00:23:59,053
+¡Mis globos oculares
+pudieron haber saltado
+
 379
-00:23:53,395 --> 00:23:56,965
-¿Cómo te atreves a abrir el casco
-de un espacial en un planeta no explorado?
+00:23:59,138 --> 00:24:00,138
+de sus cuencas!
 
 380
-00:23:57,106 --> 00:23:59,864
-¡Mis globos oculares
-pudieron haber saltado de sus cuencas!
-
-381
 00:24:01,372 --> 00:24:05,325
 ¿En serio crees
 que tú eres Buzz Lightyear?
 
-382
-00:24:06,254 --> 00:24:08,770
+381
+00:24:06,254 --> 00:24:08,731
 ¡Todo este tiempo creí
 que era teatro!
 
-383
+382
 00:24:08,816 --> 00:24:12,482
 ¡Muchachos, miren,
 es el verdadero Buzz Lightyear!
 
+383
+00:24:12,582 --> 00:24:15,254
+-Oye, ¿te estás burlando?
+-¡Oh, no, no!
+
 384
-00:24:12,582 --> 00:24:13,879
-Oye, ¿te estás burlando?
+00:24:15,339 --> 00:24:17,339
+¡Mira, un extraterrestre!
+-¿Dónde?
 
 385
-00:24:13,942 --> 00:24:15,314
-¡Oh, no, no, no!
-
-386
-00:24:15,339 --> 00:24:17,134
-- ¡Mira, un extraterrestre!
-- ¡¿Dónde?!
-
-387
 00:24:30,905 --> 00:24:31,905
 ¡Es Sid!
 
-388
-00:24:33,875 --> 00:24:35,367
-¿No se fue de campamento?
+386
+00:24:33,875 --> 00:24:35,287
+¿No se fue
+de campamento?
 
-389
-00:24:35,421 --> 00:24:37,515
+387
+00:24:35,372 --> 00:24:37,667
 Lo habrán expulsado antes,
 como siempre.
 
-390
-00:24:37,593 --> 00:24:40,179
+388
+00:24:37,752 --> 00:24:40,179
 ¡Oh no! ¡Qué terrible!
 
-391
-00:24:40,355 --> 00:24:43,652
-<i>¡Acabaré contigo, jaja!</i>
+389
+00:24:40,288 --> 00:24:43,622
+<i>¡Acabaré contigo!</i>
 ¡Toma, toma!
 
-392
+390
 00:24:43,707 --> 00:24:45,004
 ¿Quién es esta vez?
 
-393
+391
 00:24:45,340 --> 00:24:47,769
 No, no alcanzo a ver.
 ¿Dónde está Lenny?
 
-394
-00:24:47,965 --> 00:24:49,003
+392
+00:24:47,916 --> 00:24:49,037
 ¡Aquí estoy, Woody!
 
-395
+393
 00:24:49,207 --> 00:24:51,996
 ¡Oh no!
 ¡No puedo ver esto de nuevo!
 
-396
+394
 00:24:53,160 --> 00:24:55,652
 ¡Oh no! ¡Es un soldadito!
 
-397
-00:24:56,349 --> 00:24:57,099
+395
+00:24:56,263 --> 00:24:57,263
 ¿Qué pasa?
 
-398
-00:24:57,209 --> 00:25:01,060
+396
+00:24:57,348 --> 00:25:01,060
 Nada que te interese,
 hombre del espacio, ¡solo juguetes!
 
-399
-00:25:01,177 --> 00:25:02,459
-Voy a echar un vistazo.
+397
+00:25:01,177 --> 00:25:02,472
+Voy a echar
+un vistazo.
 
-400
-00:25:03,187 --> 00:25:05,391
+398
+00:25:03,187 --> 00:25:06,191
 ¿Por qué el soldado está atado
 al aparato explosivo?
 
-401
+399
 00:25:06,368 --> 00:25:08,579
 Por eso: ¡por Sid!
 
-402
+400
 00:25:09,782 --> 00:25:11,062
 Es muy peludo.
 
-403
+401
 00:25:11,149 --> 00:25:13,524
 No, no, no.
 Ese es Scud, tonto.
 
-404
+402
 00:25:13,633 --> 00:25:15,045
 ¡Ese es Sid!
 
-405
-00:25:16,993 --> 00:25:18,204
+403
+00:25:16,993 --> 00:25:18,189
 ¿Ese niño feliz?
 
-406
-00:25:18,274 --> 00:25:19,649
+404
+00:25:18,274 --> 00:25:19,642
 ¡No es un niño feliz!
 
-407
+405
 00:25:19,727 --> 00:25:22,976
 Tortura juguetes…
 ¡por diversión!
 
-408
+406
 00:25:26,281 --> 00:25:28,241
 ¡Tenemos que hacer algo, rápido!
 
-409
-00:25:29,093 --> 00:25:31,827
-- ¿Qué estás haciendo? ¡Baja de ahí!
-- Voy a darle una lección.
+407
+00:25:29,024 --> 00:25:32,265
+-¿Qué estás haciendo? ¡Baja de ahí!
+-Voy a darle una lección.
 
-410
-00:25:32,257 --> 00:25:35,804
+408
+00:25:32,350 --> 00:25:35,804
 Sí, claro, adelante.
 Derrítelo con tu láser.
 
-411
-00:25:36,406 --> 00:25:40,694
-- ¡Cuidado con mi láser, es muy peligroso!
-- ¡Lo está encendiendo! ¡Lo encendió!
+409
+00:25:36,154 --> 00:25:38,791
+¡Cuidado con mi láser,
+es muy peligroso!
 
-412
+410
+00:25:38,876 --> 00:25:40,818
+Lo está encendiendo,
+¡lo encendió!
+
+411
 00:25:41,468 --> 00:25:42,468
 ¡Al suelo!
 
-413
+412
 00:25:42,851 --> 00:25:43,851
 ¡Cuidado!
 
-414
+413
 00:25:46,394 --> 00:25:51,691
 <i>¡Se fue! ¡Se acabó!
 ¡Qué bonito! ¿Viste eso Scud?</i>
 
-415
-00:25:53,723 --> 00:25:54,692
-¡Pude detenerlo!
+414
+00:25:53,723 --> 00:25:54,723
+Pude detenerlo.
 
-416
+415
 00:25:55,247 --> 00:25:58,403
 Buzz, me hubiera gustado
 verte intentarlo.
 
-417
-00:25:58,872 --> 00:26:00,551
-Claro, te verías mejor como cráter.
+416
+00:25:58,795 --> 00:26:00,795
+Claro, te verías mejor
+como cráter.
 
-418
+417
 00:26:01,208 --> 00:26:03,505
 Entre más rápido nos mudemos, mejor.
 
-419
+418
 00:26:11,810 --> 00:26:14,451
 <i>¡Al infinito y más allá!</i>
 
+419
+00:26:16,287 --> 00:26:17,905
+Tanto empacar
+me dio hambre.
+
 420
-00:26:16,403 --> 00:26:17,903
-¡Tanto empacar me dio hambre!
+00:26:18,021 --> 00:26:20,897
+¿Qué te parece si vamos
+a cenar a… Pizza Planeta?
 
 421
-00:26:18,021 --> 00:26:20,911
-¿Qué te parece
-si vamos a cenar a… Pizza Planeta?
-
-422
 00:26:20,982 --> 00:26:23,615
 ¿Pizza Planeta? ¡Genial!
 
-423
+422
 00:26:23,919 --> 00:26:26,099
 Lávate las manos
 y yo voy por Molly.
 
-424
+423
 00:26:26,880 --> 00:26:29,794
-<i>- ¿Llevo juguetes?
-- Que solo sea un juguete.</i>
+<i>-¿Llevo juguetes?
+-Que solo sea un juguete.</i>
 
-425
+424
 00:26:30,185 --> 00:26:31,458
 <i>¿Solo uno?</i>
 
-426
+425
 00:26:31,591 --> 00:26:32,903
 ¿Un juguete?
 
-427
+426
 00:26:38,975 --> 00:26:39,975
 ¿Me llevará a mí?
 
-428
+427
 00:26:44,125 --> 00:26:45,508
 ¿"No cuentes con ello"?
 
-429
+428
 00:27:07,338 --> 00:27:11,087
 ¡Buzz, Buzz!
 ¡Buzz Lightyear, Buzz Lightyear!
 
-430
-00:27:11,197 --> 00:27:13,408
-- ¡Tenemos problemas!
-- ¿Cómo? ¿Dónde?
+429
+00:27:11,197 --> 00:27:13,370
+-¡Tenemos problemas!
+-¿Cómo? ¿Dónde?
 
-431
-00:27:13,455 --> 00:27:16,205
+430
+00:27:13,455 --> 00:27:16,182
 ¡Allá abajo, allá!
 ¡Un juguete indefenso
 
-432
+431
 00:27:16,267 --> 00:27:19,041
-- está atrapado, Buzz!
-- ¡No perdamos tiempo!
+-está atrapado, Buzz!
+-¡No perdamos tiempo!
 
-433
+432
 00:27:26,309 --> 00:27:27,309
 No veo nada.
 
-434
+433
 00:27:27,832 --> 00:27:29,371
 Está ahí, ¡sigue buscando!
 
-435
-00:27:29,692 --> 00:27:30,739
+434
+00:27:29,692 --> 00:27:30,751
 ¿Qué clase de ju…?
 
-436
+435
 00:27:49,574 --> 00:27:51,489
 ¡Cuidado! ¡Buzz!
 
-437
+436
 00:27:53,607 --> 00:27:56,990
 No lo veo en la entrada.
 Creo que cayó en el patio de Sid.
 
-438
+437
 00:27:57,107 --> 00:27:58,576
 ¡Ay, Buzz!
 
-439
-00:28:01,341 --> 00:28:03,826
+438
+00:28:01,292 --> 00:28:04,015
 ¡Esperen todos!
-Control quiere decirnos algo.
+¡Control quiere decirnos algo!
 
-440
+439
 00:28:04,242 --> 00:28:05,352
 ¿Qué pasa, amigo?
 
-441
+440
 00:28:05,657 --> 00:28:07,743
 Dice que no fue un accidente.
 
-442
-00:28:08,047 --> 00:28:09,164
+441
+00:28:08,047 --> 00:28:09,142
 ¿De qué hablas?
 
-443
-00:28:09,227 --> 00:28:10,880
-Al pobre astronauta lo empujaron.
+442
+00:28:09,227 --> 00:28:11,169
+¡Al pobre astronauta
+lo empujaron!
 
-444
+443
 00:28:11,723 --> 00:28:12,833
 ¡Y fue Woody!
 
-445
-00:28:14,286 --> 00:28:17,489
+444
+00:28:14,264 --> 00:28:17,451
 ¡Un momento! No creerán
 que eché a Buzz por la ventana.
 
-446
-00:28:17,536 --> 00:28:19,450
+445
+00:28:17,536 --> 00:28:19,419
 ¿Verdad que no?
 ¡Tío Papa, diles!
 
-447
-00:28:19,489 --> 00:28:22,419
+446
+00:28:19,504 --> 00:28:21,152
 ¡Señor Cara de Papa para ti,
-asesino, traicionero y malo!
+
+447
+00:28:21,237 --> 00:28:24,600
+-asesino, traicionero y malo!
+-No, no. ¡Fue un accidente!
 
 448
-00:28:22,451 --> 00:28:27,320
-No, no, no. Fue un accidente,
-en serio, vamos, ¡tienen que creerme!
+00:28:24,685 --> 00:28:27,383
+En serio, ¡vamos,
+tienen que creerme!
 
 449
 00:28:27,531 --> 00:28:28,742
 Te creemos, Woody.
 
 450
-00:28:30,250 --> 00:28:31,250
+00:28:30,094 --> 00:28:31,094
 ¿Verdad, Rex?
 
 451
@@ -2041,50 +2069,51 @@ No… no me gustan
 las discusiones.
 
 452
-00:28:33,750 --> 00:28:35,399
+00:28:33,692 --> 00:28:35,398
 ¿Dónde está tu honor, basura?
 
 453
-00:28:35,453 --> 00:28:37,265
+00:28:35,483 --> 00:28:37,265
 ¡Eres una completa vergüenza!
 
 454
-00:28:37,406 --> 00:28:39,102
+00:28:37,350 --> 00:28:39,406
 ¡No te mereces
 el respeto de nadie!
 
 455
-00:28:39,250 --> 00:28:42,148
-No querías que Buzz
-fuera otro consentido, ¿eh Woody?
+00:28:39,491 --> 00:28:42,493
+No querías que Buzz fuera
+otro consentido ¿eh Woody?
 
 456
-00:28:42,461 --> 00:28:44,336
+00:28:42,578 --> 00:28:44,108
 No querías aceptar
 el hecho de que Buzz
 
 457
-00:28:44,361 --> 00:28:46,172
+00:28:44,193 --> 00:28:46,172
 pudiera ser el nuevo
-juguetefavorito.
+juguete favorito.
 
 458
-00:28:46,618 --> 00:28:47,688
+00:28:46,618 --> 00:28:47,854
 ¡Te deshiciste de él!
 
 459
-00:28:48,023 --> 00:28:50,617
+00:28:48,023 --> 00:28:50,613
 ¿Qué tal si Andy
 empieza a jugar conmigo, eh?
 
 460
-00:28:50,836 --> 00:28:52,648
+00:28:50,698 --> 00:28:52,665
 ¿Vas a echarme
 por la ventana también?
 
 461
 00:28:52,750 --> 00:28:54,625
-No hay que darle la oportunidad.
+No hay que darle
+la oportunidad.
 
 462
 00:28:55,078 --> 00:28:57,336
@@ -2092,7 +2121,7 @@ No hay que darle la oportunidad.
 ¡Acaben con él!
 
 463
-00:28:58,091 --> 00:28:59,687
+00:28:57,996 --> 00:28:59,702
 ¡Vamos a colgarlo de su hilo!
 
 464
@@ -2100,7 +2129,7 @@ No hay que darle la oportunidad.
 ¡Que no escape! ¡Atrápenlo!
 
 465
-00:29:02,255 --> 00:29:04,106
+00:29:02,224 --> 00:29:04,123
 ¡No, no, no!
 ¡Esperen, por favor!
 
@@ -2129,9 +2158,9 @@ Mamá, ¿dónde quedó Buzz?
 Mamá, no lo encuentro.
 
 472
-00:29:24,173 --> 00:29:26,141
+00:29:24,173 --> 00:29:26,127
 <i>Bueno, trae otro juguete,
-anda, ¡corre!</i>
+¡anda!</i>
 
 473
 00:29:26,212 --> 00:29:27,844
@@ -2142,7 +2171,7 @@ Ah, está bien.
 No encontré a mi Buzz.
 
 475
-00:29:35,297 --> 00:29:36,727
+00:29:35,297 --> 00:29:36,705
 ¡Sé que lo dejé allí!
 
 476
@@ -2175,20 +2204,20 @@ se vació el barril.
 
 482
 00:30:20,384 --> 00:30:23,916
-- ¿Ayudo a poner gasolina?
-- ¡Claro, hasta te dejaré conducir!
+-¿Ayudo a poner gasolina?
+-¡Claro, hasta te dejaré conducir!
 
 483
 00:30:24,025 --> 00:30:25,955
-- ¿Sí?
-- ¡Claro! Cuando tengas 16.
+-¿Sí?
+-¡Claro! Cuando tengas 16.
 
 484
 00:30:26,056 --> 00:30:27,806
 Ja-ja, ¡qué graciosa!
 
 485
-00:30:28,126 --> 00:30:30,988
+00:30:28,126 --> 00:30:30,928
 ¡Ah, genial!
 ¿Cómo voy a convencer a todos
 
@@ -2209,11 +2238,12 @@ de que fue un accidente?
 ¡Estás vivo! ¡Ah, qué bueno!
 
 490
-00:30:44,361 --> 00:30:45,775
-¡Ya me salvé, ya me salvé!
+00:30:44,361 --> 00:30:45,906
+¡Ya me salvé,
+ya me salvé!
 
 491
-00:30:45,994 --> 00:30:47,072
+00:30:45,994 --> 00:30:47,120
 Andy te encontrará,
 
 492
@@ -2230,47 +2260,49 @@ que esto solamente fue un gran error!
 ¿Eh? ¿Amigo? ¿Amigo…?
 
 495
-00:30:56,713 --> 00:30:59,846
+00:30:56,696 --> 00:30:59,873
 Solo quiero decirte que,
 aunque trataste de eliminarme,
 
 496
-00:30:59,901 --> 00:31:02,971
+00:30:59,958 --> 00:31:03,220
 la venganza no es un concepto
 que practicamos en mi planeta.
 
 497
-00:31:03,033 --> 00:31:04,166
+00:31:03,305 --> 00:31:04,266
 ¡Oh, qué bueno!
 
 498
 00:31:04,752 --> 00:31:07,666
-- Pero no estamos en mi planeta, ¿verdad?
-- No…
+-Pero no estamos en mi planeta, ¿verdad?
+-No…
 
 499
 00:31:15,484 --> 00:31:16,976
 ¡Está bien! ¡Vamos!
 
 500
-00:31:17,273 --> 00:31:18,672
-¿Quieres pelear contra mí?
+00:31:17,273 --> 00:31:18,744
+¿Quieres pelear
+contra mí?
 
 501
 00:31:26,024 --> 00:31:27,883
-<i>¡Buzz-Buzz-Buzz Lightyear al rescate!</i>
+<i>¡Buzz Lightyear
+al rescate!</i>
 
 502
 00:31:28,804 --> 00:31:31,210
-<i>- ¿Y ahora?
-- ¡Pizza Planeta, sí!</i>
+<i>-¿Y ahora?
+-¡Pizza Planeta, sí!</i>
 
 503
 00:31:34,546 --> 00:31:35,546
 ¡Andy!
 
 504
-00:31:44,803 --> 00:31:46,639
+00:31:44,747 --> 00:31:46,867
 ¡No se da cuenta
 de que no estoy ahí!
 
@@ -2283,2546 +2315,2607 @@ de que no estoy ahí!
 ¡Soy un jugueteperdido!
 
 507
-00:31:59,197 --> 00:32:00,564
-Bitácora de Buzz Lightyear:
+00:31:59,134 --> 00:32:02,249
+Bitácora de Buzz Lightyear.
+El comisario local y yo estamos
 
 508
-00:32:00,619 --> 00:32:03,216
-el comisario local y yo estamos
-en un enorme abastecimiento
+00:32:02,334 --> 00:32:04,145
+en un enorme bastecimiento
+de combustible.
 
 509
-00:32:03,241 --> 00:32:04,970
-- de combustible.
-- ¡Tú!
+00:32:04,230 --> 00:32:05,230
+¡Tú!
 
 510
 00:32:26,234 --> 00:32:30,038
-- Según mi navecomputadora…
-- ¡Cállate! ¡Cállate, tonto!
+-Según mi navecomputadora…
+-¡Cállate! ¡Cállate, tonto!
 
 511
-00:32:30,226 --> 00:32:31,890
+00:32:30,123 --> 00:32:31,947
 Comisario, tienes que calmarte.
 
 512
-00:32:31,992 --> 00:32:33,492
-¡No es el momento de calmarme!
+00:32:32,032 --> 00:32:33,738
+¡No es el momento
+de calmarme!
 
 513
-00:32:33,718 --> 00:32:36,835
-¡Estoy perdido, Andy no está,
-se van a mudar de la casa en dos días
+00:32:33,823 --> 00:32:35,412
+Estoy perdido,
+Andy no está, se van
 
 514
-00:32:36,898 --> 00:32:39,147
-- y es tu culpa!
-- ¿Mi… mi culpa?
+00:32:35,497 --> 00:32:36,901
+a mudar de la casa
+en dos días
 
 515
-00:32:39,234 --> 00:32:41,335
+00:32:36,986 --> 00:32:39,147
+-y es tu culpa!
+-¿Mi… mi culpa?
+
+516
+00:32:39,234 --> 00:32:41,282
 De no haberme echado
 por la ventana, nada…
 
-516
-00:32:41,367 --> 00:32:42,616
+517
+00:32:41,367 --> 00:32:42,582
 ¡Ah, cómo no!
 
-517
-00:32:42,667 --> 00:32:46,073
-¡Pero si tú no hubieras llegado en tu tonta
-navecita de cartón para quitarme
-
 518
-00:32:46,112 --> 00:32:48,963
-- todo lo que era importante para mí!
-- ¡No me hables de lo importante!
+00:32:42,667 --> 00:32:44,011
+¡Pero si tú
+no hubieras llegado
 
 519
-00:32:49,019 --> 00:32:52,019
+00:32:44,096 --> 00:32:45,803
+en tu tonta navecita
+de cartón
+
+520
+00:32:45,888 --> 00:32:47,628
+para quitarme todo lo que
+era importante para mí!
+
+521
+00:32:47,713 --> 00:32:48,934
+No me hables
+de lo importante.
+
+522
+00:32:49,019 --> 00:32:52,374
 ¡Por ti, la seguridad de todo
 el universo está en peligro!
 
-520
-00:32:52,245 --> 00:32:54,628
-¡¿Qué?! ¿De qué estás hablando?
+523
+00:32:52,459 --> 00:32:54,699
+¿Qué?
+¿De qué estás hablando?
 
-521
-00:32:54,784 --> 00:32:56,753
+524
+00:32:54,784 --> 00:32:56,707
 Ubicado en la orilla
 de la galaxia,
 
-522
-00:32:56,792 --> 00:32:58,953
-¡el emperador Zurg
+525
+00:32:56,792 --> 00:32:58,908
+el emperador Zurg
 ha estado fabricando en secreto
 
-523
-00:32:58,993 --> 00:33:02,386
+526
+00:32:58,993 --> 00:33:02,472
 un arma con la capacidad destructiva
-para aniquilar todo el planeta!
+¡para aniquilar todo el planeta!
 
-524
-00:33:02,557 --> 00:33:06,573
+527
+00:33:02,557 --> 00:33:06,793
 Solo yo tengo información que revela
 la única falla de esa horrenda arma.
 
-525
-00:33:06,862 --> 00:33:10,002
-Y tú, amigo mío, eres responsable
-de demorar mi reunión
+528
+00:33:06,878 --> 00:33:08,761
+Y tú, amigo mío,
+eres responsable
 
-526
-00:33:10,041 --> 00:33:11,377
+529
+00:33:08,846 --> 00:33:11,435
+de demorar mi reunión
 con el Comando Estelar.
 
-527
-00:33:12,893 --> 00:33:16,198
+530
+00:33:12,893 --> 00:33:16,160
 ¡Tú eres un juguete!
 
-528
-00:33:16,245 --> 00:33:18,659
+531
+00:33:16,245 --> 00:33:18,730
 ¡No eres el verdadero
 Buzz Lightyear!
 
-529
+532
 00:33:18,815 --> 00:33:23,510
 ¡Eres un personaje ficticio,
 eres un juguete para niños!
 
-530
+533
 00:33:24,291 --> 00:33:28,705
 Tú eres un triste y extraño hombrecillo
 y te tengo lástima. Adiós.
 
-531
+534
 00:33:29,299 --> 00:33:31,627
 ¿Ah sí?
 ¡Pues vete al cuerno, demente!
 
-532
-00:33:32,947 --> 00:33:34,697
-"Reunión con el Comando Estelar."
+535
+00:33:32,930 --> 00:33:34,731
+Reunión con el
+Comando Estelar.
 
-533
+536
 00:33:36,320 --> 00:33:38,851
-<i>- Oye, amigo.
-- ¿Me hablas a mí?</i>
+<i>-Oye, amigo.
+-¿Me hablas a mí?</i>
 
-534
+537
 00:33:39,091 --> 00:33:41,231
 "Pizza Planeta"… ¡Andy!
 
-535
-00:33:43,184 --> 00:33:43,762
-Oh no…
-
-536
-00:33:44,661 --> 00:33:46,395
-No puedo entrar a su cuarto
-sin Buzz.
-
-537
-00:33:47,692 --> 00:33:50,567
-- ¡Buzz! ¡Buzz, regresa!
-- ¡No fastidies!
-
 538
+00:33:43,184 --> 00:33:44,184
+¡Oh no!
+
+539
+00:33:44,569 --> 00:33:46,687
+No puedo entrar
+a su cuarto sin Buzz.
+
+540
+00:33:47,692 --> 00:33:50,567
+-¡Buzz! ¡Buzz, regresa!
+-¡No fastidies!
+
+541
 00:33:51,083 --> 00:33:53,637
 ¡No, Buzz!
 ¡Tienes que regresar!
 
-539
+542
 00:33:55,911 --> 00:33:57,668
 ¡Encontré una nave espacial!
 
-540
+543
 00:33:59,895 --> 00:34:01,598
 ¡Es una nave espacial, Buzz!
 
-541
-00:34:03,975 --> 00:34:07,350
-<i>¡Vamos amigo, date prisa!
-¡Las pizzas se me están enfriando!</i>
-
-542
-00:34:07,631 --> 00:34:10,475
-<i>- ¿Bulevar Cortante, dijiste?
-- Sí, sí, sí, al este.</i>
-
-543
-00:34:10,906 --> 00:34:12,632
-¿Estás seguro
-de que el carguero especial
-
 544
-00:34:12,663 --> 00:34:15,248
-regresa al puerto de origen
-en cunato entregue las provisiones?
+00:34:03,975 --> 00:34:05,484
+<i>¡Vamos amigo,
+date prisa!</i>
 
 545
-00:34:15,296 --> 00:34:17,319
-Ajá, y cuando lleguemos
+00:34:05,569 --> 00:34:07,515
+<i>¡Las pizzas se me
+están enfriando!</i>
 
 546
-00:34:17,366 --> 00:34:20,108
+00:34:07,631 --> 00:34:10,475
+<i>-¿Bulevar Cortante, dijiste?
+-Sí, sí, al este.</i>
+
+547
+00:34:10,906 --> 00:34:12,839
+¿Estás seguro de que
+el carguero especial regresa
+
+548
+00:34:12,924 --> 00:34:15,211
+al puerto de origen
+en cunato entregue las provisiones?
+
+549
+00:34:15,296 --> 00:34:17,281
+Ajá, y cuando lleguemos
+
+550
+00:34:17,366 --> 00:34:20,368
 podremos encontrar el modo
 de enviarte a tu planeta.
 
-547
-00:34:20,899 --> 00:34:23,602
-- ¡Entonces vamos a abordar!
-- ¡No, no, no, espera! ¡Buzz!
+551
+00:34:20,895 --> 00:34:23,837
+-Entonces ¡vamos a abordar!
+-¡No, no, espera, Buzz!
 
-548
-00:34:24,571 --> 00:34:26,610
-¡Subamos atrás
- nadie nos verá ahí!!
+552
+00:34:24,548 --> 00:34:26,556
+Subamos atrás,
+nadie nos verá ahí!.
 
-549
-00:34:26,641 --> 00:34:28,487
+553
+00:34:26,641 --> 00:34:28,434
 Negativo.
 No hay cinturones de seguridad
 
-550
+554
 00:34:28,519 --> 00:34:30,722
 en el área de carga,
 es más seguro en la cabina.
 
-551
+555
 00:34:31,269 --> 00:34:32,269
 Sí pero…
 
-552
-00:34:32,759 --> 00:34:34,494
+556
+00:34:32,759 --> 00:34:34,456
 ¡Buzz! ¡Buzz!
 
-553
-00:34:34,541 --> 00:34:37,733
-<i>Si sigues mis instrucciones,
-no tienes por qué perderte.</i>
+557
+00:34:34,541 --> 00:34:36,130
+<i>Si siguesmis instrucciones,</i>
 
-554
-00:34:37,788 --> 00:34:38,944
-<i>Es muy fácil llegar.</i>
+558
+00:34:36,215 --> 00:34:38,980
+<i>no tienes por qué perderte.
+Es muy fácil llegar.</i>
 
-555
-00:34:39,010 --> 00:34:41,002
-<i>- Perfecto, entendí claramente.</i>
-- ¡Buzz!
-
-556
+559
 00:34:45,702 --> 00:34:47,084
 <i>¡Que tengas buen viaje!</i>
 
-557
-00:34:48,389 --> 00:34:51,639
-<i>Muchas gracias. ¡Cuando quieras
-una pizza, cuenta conmigo, ¿de acuerdo?</i>
+560
+00:34:48,307 --> 00:34:49,307
+<i>Muchas gracias.</i>
 
-558
-00:34:51,686 --> 00:34:52,709
+561
+00:34:49,392 --> 00:34:51,687
+<i>cuando quieras una
+pizza cuenta conmigo.</i>
+
+562
+00:34:51,772 --> 00:34:53,015
 <i>¡Lo tomaré en cuenta!</i>
 
-559
-00:34:53,162 --> 00:34:55,905
-Más seguro en la cabina
-que en la sección de carga, ¡qué tonto!
+563
+00:34:53,100 --> 00:34:56,709
+Más seguro en la cabina que en
+la sección de carga ¡qué tonto!
 
-560
+564
 00:35:21,049 --> 00:35:24,541
 <i>Próximo despegue
 a las T menos 20 minutos y contando.</i>
 
-561
+565
 00:35:29,973 --> 00:35:31,341
 <i>Permiso para abordar.</i>
 
-562
-00:35:37,772 --> 00:35:38,522
+566
+00:35:37,772 --> 00:35:38,772
 ¿Comisario?
 
-563
-00:35:40,115 --> 00:35:41,303
+567
+00:35:40,115 --> 00:35:41,220
 ¡Ah, ahí estás!
 
-564
-00:35:42,615 --> 00:35:45,240
+568
+00:35:42,615 --> 00:35:45,362
 Ahora lo interesante
 es que no nos descubran.
 
-565
+569
 00:35:47,209 --> 00:35:49,998
 ¡Bien pensado, Woody!
 Me gusta tu ingenio.
 
-566
+570
 00:35:52,323 --> 00:35:55,182
 <i>Pueden pasar.
 Permiso para abordar.</i>
 
-567
-00:35:55,296 --> 00:35:56,046
+571
+00:35:55,296 --> 00:35:56,296
 ¡Ahora!
 
-568
-00:35:56,577 --> 00:35:58,358
-¡Rápido, comisario,
-la compuerta se cierra!
+572
+00:35:56,490 --> 00:35:58,500
+¡Rápido, comisario, la
+compuerta se cierra!
 
-569
+573
 00:36:05,873 --> 00:36:07,615
-- ¡Ten más cuidado!
-- ¡Perdón!
+-¡Ten más cuidado!
+-¡Perdón!
 
-570
+574
 00:36:12,251 --> 00:36:17,087
 <i>¡Hay muchos juegos nuevos, mamá!
 Déjame probar uno y nos iremos a casa.</i>
 
-571
+575
 00:36:24,254 --> 00:36:26,137
 ¡Qué plataforma!
 
-572
+576
 00:36:26,512 --> 00:36:27,512
 ¡Muy bien, Woody!
 
-573
+577
 00:36:33,000 --> 00:36:36,047
 ¡Toma! ¡Toma!
 
-574
-00:36:36,242 --> 00:36:39,328
-Mamá, ¿puedo jugar al hoyo negro?
-¡Por favor, por favor!
+578
+00:36:36,242 --> 00:36:39,481
+<i>Mamá, ¿puedo jugar al hoyo negro?
+¡Por favor, por favor!</i>
 
-575
-00:36:40,380 --> 00:36:42,590
+579
+00:36:40,380 --> 00:36:42,545
 Tenemos que encontrar una nave
 que vaya al Sector 19…
 
-576
-00:36:42,630 --> 00:36:43,887
-¡No, espera Buzz! ¡Por aquí!
+580
+00:36:42,630 --> 00:36:44,117
+¡No, espera Buzz!
+¡Por aquí!
 
-577
-00:36:44,770 --> 00:36:46,270
+581
+00:36:44,770 --> 00:36:46,327
 Una nave espacial,
 ¡la acabo de ver!
 
-578
-00:36:46,583 --> 00:36:47,684
+582
+00:36:46,538 --> 00:36:47,730
 ¿De hiperpropulsión?
 
-579
+583
 00:36:48,801 --> 00:36:50,371
 Propulsión hiperactiva y…
 
-580
+584
 00:36:50,950 --> 00:36:53,106
 y eh… astro… ¡pasto!
 
-581
+585
 00:36:53,805 --> 00:36:56,641
 ¿Dónde está? No la veo…
 ¡Oh, una nave!
 
-582
+586
 00:36:59,954 --> 00:37:01,359
 Ahora, Buzz: prepárate…
 
-583
+587
 00:37:01,969 --> 00:37:02,969
 y…
 
-584
-00:37:03,969 --> 00:37:05,915
+588
+00:37:03,878 --> 00:37:06,585
 ahora, cuando diga "ya"
 saltamos a la carriola…
 
-585
+589
 00:37:13,621 --> 00:37:15,144
 ¡Esto no puede pasarme!
 
-586
+590
 00:37:25,259 --> 00:37:27,032
 ¡Un extraño! ¡De fuera!
 
-587
-00:37:28,992 --> 00:37:33,358
+591
+00:37:28,992 --> 00:37:33,352
 ¡Saludos! Soy Buzz Lightyear,
 ¡vengo en paz!
 
-588
-00:37:33,686 --> 00:37:34,999
-¡Dinos cómo es tu planeta!
-
-589
-00:37:44,760 --> 00:37:46,572
-<i>Es una emergencia intergaláctica.</i>
-
-590
-00:37:46,637 --> 00:37:48,777
-Necesito confiscar su nave.
-
-591
-00:37:48,996 --> 00:37:50,137
-¿Quién está a cargo?
-
 592
-00:37:51,637 --> 00:37:54,020
-¡La Garra!
+00:37:33,686 --> 00:37:35,157
+¡Dinos cómo es
+tu planeta!
 
 593
+00:37:44,760 --> 00:37:46,643
+<i>Es una emergencia
+intergaláctica.</i>
+
+594
+00:37:46,728 --> 00:37:48,777
+<i>Necesito confiscar su nave.</i>
+
+595
+00:37:48,956 --> 00:37:50,147
+¿Quién está a cargo?
+
+596
+00:37:51,637 --> 00:37:54,112
+¡La Garra!
+
+597
 00:37:56,619 --> 00:37:59,909
 Es nuestro amo.
 Dice quién se queda y quién se va.
 
-594
+598
 00:38:00,174 --> 00:38:01,487
 ¡Esto es inaudito!
 
-595
+599
 00:38:01,580 --> 00:38:03,838
 Oye, <i>bozo</i>, ¿tienes cerebro ahí?
 
-596
+600
 00:38:05,208 --> 00:38:08,817
 ¡Toma, toma!
 ¡Ah, qué porquería!
 
-597
+601
 00:38:09,919 --> 00:38:10,919
 ¡Abajo!
 
-598
-00:38:13,499 --> 00:38:14,762
-¿Qué pasa, Woody? Iba a…
+602
+00:38:13,499 --> 00:38:14,617
+¿Qué te pasa, Woody?
+Iba a…
 
-599
-00:38:14,787 --> 00:38:17,069
-¡Tú decidiste
-subirte a esta porquería de…!
+603
+00:38:14,702 --> 00:38:17,179
+Tú decidiste subirte
+a esta porquería de…
 
-600
-00:38:17,115 --> 00:38:19,421
+604
+00:38:17,264 --> 00:38:19,317
 La Garra, se mueve.
 
-601
+605
 00:38:24,723 --> 00:38:26,176
 ¡He sido elegido!
 
-602
+606
 00:38:27,161 --> 00:38:30,114
 ¡Adiós, amigos!
 ¡Me voy a un lugar mejor!
 
-603
+607
 00:38:30,489 --> 00:38:31,825
 ¡Te atrapé!
 
-604
+608
 00:38:34,514 --> 00:38:37,420
 ¿Un Buzz Lightyear?
 ¡No puede ser!
 
-605
+609
 00:38:54,052 --> 00:38:55,052
 <i>¡Sí!</i>
 
-606
+610
 00:38:55,356 --> 00:38:56,527
 ¡Buzz! ¡No!
 
-607
+611
 00:38:58,807 --> 00:38:59,807
 ¡Oye!
 
-608
+612
 00:39:02,377 --> 00:39:04,377
 ¡Lo escogieron! ¡Debe irse!
 
-609
+613
 00:39:05,213 --> 00:39:08,682
 ¡Basta, basta!
 ¡Fanáticos, basta! ¡No!
 
-610
+614
 00:39:12,558 --> 00:39:14,714
 ¡Muy bien, premios dobles!
 
-611
+615
 00:39:17,651 --> 00:39:20,401
 Vamos a casa a jugar.
 
-612
-00:39:34,958 --> 00:39:37,034
+616
+00:39:34,958 --> 00:39:36,974
 Comisario, puedo ver
 tu casa desde aquí.
 
-613
-00:39:37,059 --> 00:39:38,096
+617
+00:39:37,059 --> 00:39:38,083
 Ya vas a llegar.
 
-614
+618
 00:39:38,168 --> 00:39:41,663
-- ¡Viene el nirvana! ¡El portal místico!
-- ¡Te quieres callar!
+-¡Viene el nirvana! ¡El portal místico!
+-¡Te quieres callar!
 
-615
-00:39:41,874 --> 00:39:43,327
+619
+00:39:41,770 --> 00:39:43,360
 No entienden nada, ¿verdad?
 
-616
-00:39:43,445 --> 00:39:46,281
+620
+00:39:43,445 --> 00:39:44,982
 Si entramos a casa de Sid,
+
+621
+00:39:45,067 --> 00:39:46,365
 ¡nunca saldremos!
 
-617
+622
 00:39:48,034 --> 00:39:51,081
 <i>¡Ey, Scud, ven acá,
 tengo algo para ti!</i>
 
-618
-00:39:52,644 --> 00:39:54,425
-- ¡Quietos!
-- <i>¡Mira qué bonito!</i>
+623
+00:39:52,644 --> 00:39:54,403
+-¡Quietos!
+-<i>¡Mira qué bonito!</i>
 
-619
-00:39:54,488 --> 00:39:56,214
+624
+00:39:54,488 --> 00:39:56,184
 <i>¡Puedes triturarlo!</i>
 
-620
+625
 00:39:56,269 --> 00:39:58,839
 <i>Listo… listo… ¡ahora!</i>
 
-621
-00:40:00,451 --> 00:40:03,489
-- Hannah… ¡Oye Hannah!
-- ¿Qué?
-
-622
-00:40:03,677 --> 00:40:05,755
-- ¿Llegó el cartero con mi paquete?
-- No sé.
-
-623
-00:40:05,794 --> 00:40:09,223
-- ¿Cómo que no sabes?
-- ¡No lo sé!
-
-624
-00:40:09,544 --> 00:40:11,685
-- ¡Oh no, Hannah!
-- ¿Qué?
-
-625
-00:40:11,990 --> 00:40:13,529
-- ¡Mira a Janie!
-- ¿Qué?
-
 626
-00:40:13,701 --> 00:40:15,458
-- ¡Está enferma!
-- ¡No es cierto!
+00:40:00,451 --> 00:40:03,489
+-Hannah… ¡Oye Hannah!
+-¿Qué?
 
 627
-00:40:15,600 --> 00:40:18,490
-- ¡No la toques! ¡Oye, dámela!
-- Tengo que hacerle una auscultación.
+00:40:03,677 --> 00:40:05,709
+-¿Llegó el cartero con mi paquete?
+-No sé.
 
 628
+00:40:05,794 --> 00:40:09,223
+-¿Cómo que no sabes?
+-¡No lo sé!
+
+629
+00:40:09,544 --> 00:40:11,685
+-¡Oh no, Hannah!
+-¿Qué?
+
+630
+00:40:11,990 --> 00:40:13,529
+-¡Mira a Janie!
+-¿Qué?
+
+631
+00:40:13,701 --> 00:40:15,467
+-¡Está enferma!
+-¡No es cierto!
+
+632
+00:40:15,600 --> 00:40:18,577
+<i>-¡No la toques! ¡Oye, dámela!
+-Tengo que hacerle una auscultación.</i>
+
+633
 00:40:18,662 --> 00:40:19,959
 ¡A su cuarto no!
 
-629
+634
 00:40:21,877 --> 00:40:24,642
 ¡Una operación espectacular!
 
-630
-00:40:26,666 --> 00:40:28,296
+635
+00:40:26,666 --> 00:40:28,289
 <i>¡Sid, dame mi muñeca!</i>
 
-631
+636
 00:40:28,374 --> 00:40:31,335
 Vamos a ver.
 ¡Hay que prepararla!
 
-632
+637
 00:40:32,781 --> 00:40:34,234
 Paciente lista.
 
-633
+638
 00:40:35,755 --> 00:40:40,411
 Nadie ha hecho un trasplante
 doble de cerebro con puenteo.
 
-634
+639
 00:40:41,677 --> 00:40:44,286
 ¡Le pondremos esta cabeza!
 
-635
-00:40:44,567 --> 00:40:47,083
+640
+00:40:44,495 --> 00:40:47,378
 Dudo mucho que haya ido
 a la facultad de medicina.
 
-636
+641
 00:40:49,372 --> 00:40:51,122
 ¡Doctor, lo logró!
 
-637
+642
 00:40:51,856 --> 00:40:54,138
-- <i>¡Te voy a acusar!</i>
-- ¡Hannah…!
+-<i>¡Te voy a acusar!</i>
+-¡Hannah…!
 
-638
+643
 00:40:55,153 --> 00:40:56,575
 ¿Janie ya está mejor?
 
-639
+644
 00:40:57,828 --> 00:40:59,938
 <i>¡Mamá, mira lo que hizo Sid!</i>
 
-640
+645
 00:41:00,172 --> 00:41:03,352
 ¡No es cierto!
 ¡Lo que te diga no es cierto!
 
-641
+646
 00:41:16,354 --> 00:41:17,354
 Vamos a morir.
 
-642
-00:41:17,830 --> 00:41:18,830
+647
+00:41:17,830 --> 00:41:18,948
 ¡Yo me voy de aquí!
 
-643
+648
 00:41:23,026 --> 00:41:24,026
 ¡Cerrado!
 
-644
-00:41:25,464 --> 00:41:26,627
-Tiene que haber otra salida.
+649
+00:41:25,392 --> 00:41:26,985
+Tiene que haber
+otra salida.
 
-645
+650
 00:41:39,952 --> 00:41:42,209
 ¿Buzz…? ¿Fuiste tú?
 
-646
+651
 00:41:51,755 --> 00:41:53,528
 ¡Ah, hola pequeñito!
 
-647
-00:41:54,364 --> 00:41:56,376
-Ven acá,
-¿por dónde puedo salir, eh?
+652
+00:41:54,364 --> 00:41:56,424
+Ven acá, ¿por dónde
+puedo salir, eh?
 
-648
+653
 00:42:25,653 --> 00:42:29,176
 ¡Bu-Bu-Buzz!
 
-649
+654
 00:42:40,995 --> 00:42:42,182
 ¡Son caníbales!
 
-650
-00:42:46,183 --> 00:42:49,495
-<i>¡Mayday, mayday!</i> ¡Comando Estelar,
+655
+00:42:46,028 --> 00:42:49,676
+<i>¡Mayday, mayday,</i> Comando Estelar,
 contesten, envíen refuerzos!
 
-651
-00:42:49,761 --> 00:42:51,199
+656
+00:42:49,761 --> 00:42:51,341
 ¡Comando Estelar!
 ¿Me escuchan?
 
-652
+657
 00:42:52,559 --> 00:42:54,785
 Cambié mi láser
 de golpear a matar.
 
-653
-00:42:55,035 --> 00:42:58,707
-¡Ah qué bien! ¡Y si alguien nos ataca,
+658
+00:42:55,035 --> 00:42:56,035
+¡Ah qué bien!
+
+659
+00:42:56,120 --> 00:42:59,063
+¡Y si alguien nos ataca,
 los matamos con lucecitas!
 
-654
+660
 00:43:02,783 --> 00:43:06,189
 ¡Muchachos, ya lo encontré!
 ¿Buzz, eres tú?
 
-655
+661
 00:43:07,658 --> 00:43:11,517
 ¡Bigotes! ¡Vete de aquí,
 interfieres con mi rescate!
 
-656
+662
 00:43:14,025 --> 00:43:15,392
 ¡Mira, ahí están!
 
-657
-00:43:21,180 --> 00:43:23,774
-<i>- Mamá, ¿has visto a Woody?
-- ¿Dónde lo dejaste, hijo?</i>
+663
+00:43:21,134 --> 00:43:24,136
+<i>-Mamá, ¿has visto a Woody?
+-¿Dónde lo dejaste, hijo?</i>
 
-658
+664
 00:43:24,375 --> 00:43:25,507
 <i>¡Lo dejé aquí!</i>
 
-659
-00:43:25,757 --> 00:43:28,196
+665
+00:43:25,757 --> 00:43:28,406
 <i>Tiene que estar ahí,
 tienes que buscarlo bien.</i>
 
-660
+666
 00:43:28,500 --> 00:43:30,844
 <i>No está, mamá.
 ¡Woody no está!</i>
 
-661
+667
 00:43:31,335 --> 00:43:33,436
 ¡Oh! ¿Woody no está?
 
-662
-00:43:33,546 --> 00:43:35,686
+668
+00:43:33,546 --> 00:43:35,539
 ¡Sí, el muy cobarde
 se escondió!
 
-663
-00:43:35,819 --> 00:43:37,546
+669
+00:43:35,624 --> 00:43:37,675
 ¿Eh, eh?
 ¡Te dije que era culpable!
 
-664
+670
 00:43:37,760 --> 00:43:40,752
 ¡Quién diría que era capaz
 de semejante atrocidad!
 
-665
+671
 00:43:43,627 --> 00:43:46,385
 ¡Oh, Slink!
 ¡Espero que esté bien!
 
-666
+672
 00:43:49,651 --> 00:43:54,308
 ¡Ah, un sobreviviente!
 ¿Dónde está la base rebelde? ¡Habla!
 
-667
+673
 00:43:56,726 --> 00:43:58,617
 Veo que tu voluntad es fuerte.
 
-668
+674
 00:44:00,688 --> 00:44:03,481
 Bien, tengo métodos
 para hacerte hablar.
 
-669
+675
 00:44:13,731 --> 00:44:16,794
 ¿Dónde están tus amigos?
 ¡Dilo ya!
 
-670
+676
 00:44:17,857 --> 00:44:19,802
 <i>¡Sid, tus Pop Tarts
 están listos!</i>
 
-671
+677
 00:44:20,092 --> 00:44:21,459
 ¡Oh, fantástico!
 
-672
+678
 00:44:33,528 --> 00:44:34,528
 ¿Estás bien?
 
-673
-00:44:35,262 --> 00:44:38,005
+679
+00:44:35,262 --> 00:44:38,255
 Te felicito, Comisario.
 Otro hubiera hablado con esa tortura.
 
-674
+680
 00:44:39,552 --> 00:44:41,294
 Espero que no sea permanente.
 
-675
-00:44:41,903 --> 00:44:43,359
+681
+00:44:41,903 --> 00:44:43,329
 No hay noticias
 del Comando Estelar,
 
-676
-00:44:43,414 --> 00:44:45,669
-- no estamos lejos del puerto.
-- ¡La puerta!
+682
+00:44:43,414 --> 00:44:45,826
+-no estamos lejos del puerto.
+-¡La puerta!
 
-677
-00:44:46,196 --> 00:44:47,641
-¡Está abierta! ¡Somos libres!
+683
+00:44:46,115 --> 00:44:47,704
+¡Está abierta,
+somos libres!
 
-678
-00:44:47,789 --> 00:44:50,547
-- ¡Woody no sabes lo que hay allá!
-- Te diré lo que… ¡Ah!
+684
+00:44:47,789 --> 00:44:50,968
+-¡Woody no sabes lo que hay allá!
+-Te diré lo que… ¡Ah!
 
-679
-00:44:52,750 --> 00:44:53,750
+685
+00:44:52,659 --> 00:44:53,749
 ¡Nos van a comer, Buzz!
 
-680
-00:44:53,775 --> 00:44:55,822
-- ¡Haz algo, rápido!
-- ¡Cubre tus ojos!
+686
+00:44:53,834 --> 00:44:55,952
+-¡Haz algo, rápido!
+-¡Cubre tus ojos!
 
-681
-00:44:58,796 --> 00:45:00,507
+687
+00:44:58,796 --> 00:45:00,469
 No funciona.
 Lo recargué antes de salir,
 
-682
-00:45:00,554 --> 00:45:03,312
-- debería durar más.
-- ¡No seas tonto, tú eres un juguete!
+688
+00:45:00,554 --> 00:45:03,289
+-debería durar más.
+-¡No seas tonto, tú eres un juguete!
 
-683
-00:45:03,374 --> 00:45:04,710
+689
+00:45:03,374 --> 00:45:04,845
 ¡Usa tu acción de karate!
 
-684
+690
 00:45:05,587 --> 00:45:09,029
-- ¡Fuera! ¡Todos fuera de aquí! ¡Largo!
-- ¡Oye ¿cómo haces eso? ¡Basta!
+¡Fuera, fuera!
+¡Todos fuera de aquí! ¡Largo!
 
-685
-00:45:09,576 --> 00:45:11,588
-- ¡Atrás, caníbales, atrás!
-- ¡Woody, basta!
+691
+00:45:09,576 --> 00:45:11,535
+-¡Atrás, caníbales, atrás!
+-¡Woody, basta!
 
-686
-00:45:11,620 --> 00:45:14,045
+692
+00:45:11,620 --> 00:45:14,095
 Lo siento, amigos,
 pero se canceló la cena.
 
-687
+693
 00:45:15,129 --> 00:45:16,980
 ¡No hay como el hogar!
 
-688
-00:45:18,534 --> 00:45:19,534
+694
+00:45:18,534 --> 00:45:19,829
 ¡No hay como el hogar!
 
-689
-00:45:34,639 --> 00:45:39,077
-- Otro truco de esos y harás que nos maten.
-- No me digas lo que tengo que hacer.
+695
+00:45:34,581 --> 00:45:36,713
+Otro truco de esos
+y harás que nos maten.
 
-690
+696
+00:45:36,798 --> 00:45:39,223
+¡No me digas lo que
+tengo que hacer!
+
+697
 00:45:58,004 --> 00:46:04,489
-<i>"¡Ajúa! ¡Arre, compañero !
+<i>"¡Ajúa! ¡Arre, compañero!
 ¡Tenemos que avanzar con la caravana!"</i>
 
-691
+698
 00:46:07,820 --> 00:46:08,820
 ¡Separémonos!
 
-692
-00:46:31,275 --> 00:46:33,891
+699
+00:46:31,230 --> 00:46:34,018
 <i>¡Atención, Buzz Lightyear!
 ¡Adelante, Buzz Lightyear!</i>
 
-693
-00:46:34,103 --> 00:46:36,876
+700
+00:46:34,103 --> 00:46:37,045
 <i>Aquí Comando Estelar.
 ¿Buzz Lightyear, me escuchas?</i>
 
-694
-00:46:37,134 --> 00:46:39,470
-<i>¡Buzz Lightyear aquí!
-¡Escucho claramente!</i>
+701
+00:46:37,130 --> 00:46:39,483
+<i>¡Buzz Lightyear aquí,
+escucho claramente!</i>
 
-695
-00:46:39,618 --> 00:46:42,259
+702
+00:46:39,568 --> 00:46:42,229
 <i>Buzz Lightyear,
 ¡el planeta Tierra necesita ayuda!</i>
 
-696
+703
 00:46:42,314 --> 00:46:43,314
 <i>¡Allá voy!</i>
 
-697
-00:46:44,454 --> 00:46:49,009
-<i>¡El superhéroe más grande del mundo!
-¡El juguete más sensacional del universo!</i>
+704
+00:46:44,454 --> 00:46:46,715
+<i>¡El superhéroe más
+grande del mundo!</i>
 
-698
-00:46:49,051 --> 00:46:51,559
+705
+00:46:46,800 --> 00:46:48,966
+<i>¡El juguete más
+sensacional del universo!</i>
+
+706
+00:46:49,051 --> 00:46:51,694
 <i>¡Buzz lo tiene todo!
-¡Comunicador de muñeca!</i>
+Comunicador de muñeca.</i>
 
-699
-00:46:52,051 --> 00:46:53,231
-<i>¡Atención, Buzz Lightyear!</i>
+707
+00:46:52,021 --> 00:46:53,201
+<i>¡Atención,
+Buzz Lightyear!</i>
 
-700
+708
 00:46:53,286 --> 00:46:54,403
 <i>¡Golpe de karate!</i>
 
-701
-00:46:55,115 --> 00:46:57,756
-<i>- ¡Luz parpadeante de láser!
-- ¡Dio en el blanco!</i>
+709
+00:46:55,012 --> 00:46:57,718
+<i>-¡Luz parpadeante de láser!
+-¡Dio en el blanco!</i>
 
-702
+710
 00:46:57,802 --> 00:46:59,763
 <i>¡Simulador multifrase de voz!</i>
 
-703
-00:47:00,146 --> 00:47:04,170
+711
+00:47:00,146 --> 00:47:04,132
 <i>"Misión secreta en espacio
 no explorado, ¡vamos!"</i>
 
-704
+712
 00:47:04,217 --> 00:47:06,935
 <i>Y lo mejor:
 ¡alas de alta presión!</i>
 
-705
+713
 00:47:09,551 --> 00:47:11,137
 <i>No es un juguete volador.</i>
 
-706
-00:47:11,450 --> 00:47:14,465
+714
+00:47:11,450 --> 00:47:14,687
 <i>¡Compren su Buzz Lightyear
 y salven una galaxia cercana!</i>
 
-707
+715
 00:47:16,481 --> 00:47:19,645
 <i>Disponible en todas las tiendas
 Al's Toy en el área.</i>
 
-708
-00:47:27,156 --> 00:47:34,464
-<i>Por galaxias navegar,
-más allá del sol.</i>
+716
+00:47:27,156 --> 00:47:31,720
+<i>Por galaxias navegar,</i>
 
-709
+717
+00:47:31,805 --> 00:47:34,548
+<i>más allá del sol.</i>
+
+718
 00:47:36,222 --> 00:47:42,831
 <i>En barco de plata voy,
 el sueño terminó.</i>
 
-710
-00:47:44,271 --> 00:47:51,334
+719
+00:47:44,271 --> 00:47:49,236
 <i>Y por fin ya comprendí
-quién soy y lo que hago aquí.</i>
+quién soy</i>
 
-711
+720
+00:47:49,321 --> 00:47:51,334
+<i>y lo que hago aquí.</i>
+
+721
 00:47:51,427 --> 00:47:54,162
 <i>(¡Eres un juguete,
 no puedes volar!)</i>
 
-712
+722
 00:47:56,333 --> 00:48:00,310
 <i>No navegaré</i>
 
-713
+723
 00:48:01,209 --> 00:48:05,083
 <i>nunca más.</i>
 
-714
+724
 00:48:09,568 --> 00:48:16,255
 <i>No puedo creer
 que de volar no tenga el poder…</i>
 
-715
+725
 00:48:16,873 --> 00:48:21,537
 <i>ni los cielos cruzar,
 como un ave volar…</i>
 
-716
-00:48:22,240 --> 00:48:24,981
+726
+00:48:22,240 --> 00:48:24,952
 <i>¡Y volar!</i>
 
-717
+727
 00:48:25,037 --> 00:48:27,614
 ¡Al infinito y más allá!
 
-718
+728
 00:48:43,895 --> 00:48:47,044
 <i>No podré</i>
 
-719
+729
 00:48:47,801 --> 00:48:50,223
 <i>navegar</i>
 
-720
+730
 00:48:51,106 --> 00:48:56,387
 <i>nunca más.</i>
 
-721
+731
 00:49:08,427 --> 00:49:11,849
 ¡Mamá!
 ¿Has visto a mi muñeca Sally?
 
-722
+732
 00:49:12,357 --> 00:49:13,723
 <i>¿Qué dijiste, hija?</i>
 
-723
+733
 00:49:15,200 --> 00:49:16,646
 ¡Olvídalo!
 
-724
-00:49:24,489 --> 00:49:25,794
+734
+00:49:24,434 --> 00:49:25,906
 No hay moros en la costa.
 
-725
-00:49:26,482 --> 00:49:27,536
-Buzz, ¿dónde estás?
+735
+00:49:26,486 --> 00:49:27,545
+Buzz,
+¿dónde estás?
 
-726
-00:49:27,630 --> 00:49:29,771
+736
+00:49:27,630 --> 00:49:29,960
 <i>"Misión secreta
 en espacio no explorado, ¡vamos!"</i>
 
-727
+737
 00:49:31,271 --> 00:49:34,724
 <i>¿Ah sí?
 ¡Oye, qué interesante!</i>
 
-728
-00:49:35,661 --> 00:49:37,818
+738
+00:49:35,621 --> 00:49:37,818
 ¿Quiere un poco de té,
 señora Nesbitt?
 
-729
-00:49:39,419 --> 00:49:42,450
+739
+00:49:39,419 --> 00:49:42,446
 <i>¡Qué bueno que pudo visitarnos
 aunque fuera tarde!</i>
 
-730
+740
 00:49:42,531 --> 00:49:43,593
 ¡Oh no!
 
-731
+741
 00:49:43,859 --> 00:49:46,125
 <i>¡Qué bonito sombrero,
 señora Nesbitt!</i>
 
-732
+742
 00:49:46,508 --> 00:49:48,477
 ¡Le queda muy bien a su cabeza!
 
-733
+743
 00:49:49,586 --> 00:49:52,801
-- ¡Hannah, Hannah!
-- ¿Mamá?
+-¡Hannah, Hannah!
+-¿Mamá?
 
-734
+744
 00:49:53,438 --> 00:49:56,141
 Disculpen, señoras,
 no tardaré.
 
-735
+745
 00:49:59,395 --> 00:50:00,535
 ¿Qué quieres, mamá?
 
-736
+746
 00:50:01,832 --> 00:50:02,989
 <i>Mamá, ¿dónde estás?</i>
 
-737
+747
 00:50:03,653 --> 00:50:05,973
 ¡Buzz, oye, Buzz!
 ¿Estás bien?
 
-738
+748
 00:50:06,231 --> 00:50:12,332
 ¡Ya… no queda nada!
 ¡Adiós, hasta pronto, hasta nunca!
 
-739
-00:50:12,428 --> 00:50:16,193
-- ¿Pero qué te ocurrió?
-- Primero defiendes toda la galaxia
+749
+00:50:12,428 --> 00:50:16,171
+-¿Pero qué te ocurrió?
+-Primero defiendes toda la galaxia
 
-740
+750
 00:50:16,256 --> 00:50:21,011
-y de pronto estás… estás
-tomando una taza de té con…
+y de pronto estás…
+estás tomando una taza de té con…
 
-741
+751
 00:50:21,480 --> 00:50:24,316
 María Antonieta
 y su hermanita.
 
-742
-00:50:25,441 --> 00:50:28,037
+752
+00:50:25,441 --> 00:50:27,991
 Creo que ya has tomado
 demasiado té por hoy.
 
-743
+753
 00:50:28,076 --> 00:50:31,128
-- Vamos a sacarte de aquí, Buzz.
-- ¡¿No lo entiendes?!
+-Vamos a sacarte de aquí, Buzz.
+-¿No lo entiendes?
 
-744
+754
 00:50:31,277 --> 00:50:35,214
 ¿Ves este sombrero?
 ¡Soy la señora Nesbitt!
 
-745
+755
 00:50:36,367 --> 00:50:37,820
 ¡Contrólate, Buzz!
 
-746
+756
 00:50:42,117 --> 00:50:45,711
 Perdón. Tienes razón,
 estoy un poco deprimido, eso es todo.
 
-747
+757
 00:50:46,876 --> 00:50:48,188
 Puedo salir de esto.
 
-748
-00:50:48,946 --> 00:50:51,563
-- ¡Soy un fracaso, mírame!
-- ¡Cállate!
+758
+00:50:48,946 --> 00:50:51,517
+-¡Soy un fracaso, mírame!
+-¡Cállate!
 
-749
+759
 00:50:51,602 --> 00:50:54,618
 ¡Ni siquiera puedo salir
 volando por la ventana!
 
-750
-00:50:55,134 --> 00:50:58,180
+760
+00:50:55,134 --> 00:50:58,182
 Pero… el sombrero no está mal,
 ¡dime que el sombrero me queda!
 
-751
-00:50:58,267 --> 00:50:59,461
+761
+00:50:58,267 --> 00:50:59,424
 El mandil es demasiado
 
-752
+762
 00:50:59,509 --> 00:51:02,579
-- pero el sombrero sí me queda.
-- ¡Por la ventana, Buzz, eres un genio!
+-pero el sombrero sí me queda.
+-¡Por la ventana, Buzz, eres un genio!
 
-753
+763
 00:51:03,774 --> 00:51:08,188
-- ¡Vamos! Por acá, ¡ven!
-- ¡Años de entrenamiento desperdiciados!
+-¡Vamos! Por acá, ¡ven!
+-¡Años de entrenamiento desperdiciados!
 
-754
+764
 00:51:08,907 --> 00:51:10,571
 ¡Ja, ja! B3.
 
-755
+765
 00:51:10,829 --> 00:51:12,720
-Fallaste. G6.
+¡Fallaste! G6.
 
-756
+766
 00:51:13,024 --> 00:51:17,063
-- ¡Lo hundiste! ¿Estás espiando?
-- ¡Ah, no seas llorón y paga!
+-¡Lo hundiste! ¿Estás espiando?
+-¡Ah, no seas llorón y paga!
 
-757
-00:51:17,530 --> 00:51:19,547
+767
+00:51:17,326 --> 00:51:19,503
 No, no, la oreja no,
 ¡la nariz, vamos!
 
-758
+768
 00:51:19,595 --> 00:51:20,915
 ¡Has ganado 3 de 5!
 
-759
+769
 00:51:22,585 --> 00:51:24,248
 ¡Muchachos, muchachos!
 
-760
-00:51:25,037 --> 00:51:26,037
+770
+00:51:25,008 --> 00:51:26,008
 ¡Oigan!
 
-761
-00:51:26,093 --> 00:51:29,139
-- ¡Patatas fritas, es Woody!
-- Está en el cuarto del sádico.
+771
+00:51:26,093 --> 00:51:29,446
+-¡Patatas fritas, es Woody!
+-Está en el cuarto del sádico.
 
-762
+772
 00:51:30,620 --> 00:51:33,612
-- ¡Amigos, es Woody!
-- ¿Woody?
+-¡Amigos, es Woody!
+-¿Woody?
 
-763
-00:51:34,097 --> 00:51:35,628
+773
+00:51:34,097 --> 00:51:35,803
 ¡Vamos a salir de aquí, Buzz!
 
-764
-00:51:36,628 --> 00:51:37,136
-¿Buzz?
-
-765
+774
 00:51:42,651 --> 00:51:43,651
 ¡Woody!
 
-766
-00:51:44,839 --> 00:51:46,503
+775
+00:51:44,839 --> 00:51:46,558
 ¡Qué gusto verlos,
 no se imaginan!
 
-767
-00:51:46,542 --> 00:51:49,104
-- ¡Sabía que ibas a regresar!
-- ¿Qué estás haciendo allá?
+776
+00:51:46,643 --> 00:51:49,152
+-¡Sabía que ibas a regresar!
+-¿Qué estás haciendo allá?
 
-768
-00:51:49,237 --> 00:51:51,441
+777
+00:51:49,237 --> 00:51:51,532
 Es una larga historia,
 luego les cuento.
 
-769
+778
 00:51:51,776 --> 00:51:53,347
 ¡Tomen, atrapen esto!
 
-770
-00:51:55,479 --> 00:51:57,292
-- ¡La tengo, Woody!
-- ¡La tiene, Woody!
+779
+00:51:55,393 --> 00:51:57,340
+-¡La tengo, Woody!
+-¡La tiene, Woody!
 
-771
-00:51:57,425 --> 00:52:00,292
+780
+00:51:57,425 --> 00:52:00,339
 ¡Genial, te felicito Slinky!
 Ahora, átala a algo.
 
-772
+781
 00:52:00,424 --> 00:52:02,112
 ¡Alto, alto, alto!
 ¡Tengo otra idea!
 
-773
-00:52:02,237 --> 00:52:03,331
-¡Lo dejaremos caer!
+782
+00:52:02,237 --> 00:52:03,316
+Lo dejaremos caer.
 
-774
-00:52:03,401 --> 00:52:06,330
-- ¿Qué haces?
-- Tienen mala memoria, ¿verdad?
+783
+00:52:03,401 --> 00:52:06,362
+-¿Qué haces?
+-Tienen mala memoria, ¿verdad?
 
-775
-00:52:06,447 --> 00:52:08,494
+784
+00:52:06,447 --> 00:52:08,472
 ¿Acaso olvidaron
 lo que le hizo a Buzz?
 
-776
+785
 00:52:08,557 --> 00:52:12,190
-- ¿Y ahora quieren dejar que regrese?
-- ¡No! ¡No, no, no! Te…
+-¿Y ahora quieren dejar que regrese?
+-¡No! No, no. Te…
 
-777
+786
 00:52:12,612 --> 00:52:14,510
 ¡Te aseguro que te equivocas!
 
-778
-00:52:14,643 --> 00:52:18,112
-- ¡Buzz está bien! ¡Buzz está aquí conmigo!
-- ¡Eres un mentiroso!
+787
+00:52:14,595 --> 00:52:15,815
+¡Buzz está bien!
 
-779
-00:52:18,151 --> 00:52:20,807
+788
+00:52:15,900 --> 00:52:18,066
+-Buzz está aquí conmigo.
+-¡Eres un mentiroso!
+
+789
+00:52:18,151 --> 00:52:20,773
 ¡No, Cara de Papa!
-Buzz, ven acá,
+Buzz, ven acá.
 
-780
-00:52:20,858 --> 00:52:23,646
+790
+00:52:20,858 --> 00:52:23,763
 dile a los juguetes que no…
 que no estás muerto.
 
-781
+791
 00:52:26,991 --> 00:52:27,991
 ¡Un segundo!
 
-782
-00:52:28,249 --> 00:52:30,124
+792
+00:52:28,139 --> 00:52:30,317
 Buzz, ¿quieres subir
 y darme una mano?
 
-783
-00:52:33,799 --> 00:52:35,955
+793
+00:52:33,630 --> 00:52:35,925
 Buzz, eres un payaso,
 ¡esto es en serio!
 
-784
+794
 00:52:36,010 --> 00:52:39,658
-<i>- ¡Oye, Woody, dónde estás?
-- ¡Miente, Buzz no está!</i>
+<i>-¡Oye, Woody, dónde estás?
+-¡Miente, Buzz no está!</i>
 
-785
+795
 00:52:41,605 --> 00:52:46,113
 ¡Hola! Buzz, por qué no saludas
 a los muchachos de allá.
 
-786
-00:52:46,254 --> 00:52:49,957
+796
+00:52:46,254 --> 00:52:49,919
 "Hola, muchachos.
 ¡Al infinito y más allá!"
 
-787
-00:52:50,004 --> 00:52:51,988
-- ¡Miren eso, es Buzz!
-- ¡Está bien!
+797
+00:52:50,004 --> 00:52:51,946
+-¡Miren eso, es Buzz!
+-¡Está bien!
 
-788
-00:52:52,019 --> 00:52:55,300
-Sí. Oye, Buzz, vamos a enseñarles
-nuestro nuevo saludo secreto
+798
+00:52:52,031 --> 00:52:54,443
+Oye Buzz, vamos
+a enseñarles nuestro nuevo
 
-789
-00:52:55,340 --> 00:52:56,621
+799
+00:52:54,528 --> 00:52:56,621
+saludo secreto
 de mejores amigos.
 
-790
+800
 00:52:56,933 --> 00:52:58,238
 ¡Dame cinco, amigo!
 
-791
-00:52:58,387 --> 00:52:59,581
+801
+00:52:58,387 --> 00:52:59,552
 Algo anda mal.
 
-792
-00:52:59,637 --> 00:53:01,511
+802
+00:52:59,637 --> 00:53:01,514
 ¿Lo vieron?
 Somos amigos, muchachos.
 
-793
-00:53:01,551 --> 00:53:02,566
+803
+00:53:01,599 --> 00:53:02,614
 ¿Verdad, Buzz?
 
-794
-00:53:02,699 --> 00:53:04,379
+804
+00:53:02,699 --> 00:53:04,582
 "¡Claro que sí!
 ¡Dame un abrazo!"
 
-795
-00:53:06,035 --> 00:53:07,207
+805
+00:53:06,035 --> 00:53:07,169
 ¡Es tan cariñoso!
 
-796
-00:53:07,254 --> 00:53:08,777
+806
+00:53:07,254 --> 00:53:08,794
 ¿Ven? Sí es Buzz.
 
-797
+807
 00:53:08,879 --> 00:53:11,754
-- Ahora ata las luces, Cara de Papa.
-- ¡Un momento!
+-Ahora ata las luces, Cara de Papa.
+-¡Un momento!
 
-798
-00:53:12,098 --> 00:53:14,120
-- ¿Qué quieres hacernos pensar?
-- ¡Nada!
+808
+00:53:12,098 --> 00:53:14,276
+-¿Qué quieres hacernos pensar?
+-¡Nada!
 
-799
-00:53:18,828 --> 00:53:20,757
-- ¡Ay, qué asco!
-- ¡Asesino!
+809
+00:53:18,663 --> 00:53:20,719
+-¡Ay, qué asco!
+-¡Asesino!
 
-800
-00:53:20,804 --> 00:53:23,046
-- ¡No, no es lo que creen!
-- ¡Eres un asesino!
+810
+00:53:20,804 --> 00:53:23,000
+-¡No es lo que creen!
+-¡Eres un asesino!
 
-801
-00:53:23,085 --> 00:53:25,288
-- ¡Por favor, se los juro!
-- ¡Que decida el jurado!
+811
+00:53:23,085 --> 00:53:25,297
+-¡Por favor, se los juro!
+-¡Que decida el jurado!
 
-802
-00:53:25,335 --> 00:53:27,734
+812
+00:53:25,382 --> 00:53:27,781
 ¡Ojalá te arranque Sid
 tu disco de voz!
 
-803
-00:53:28,062 --> 00:53:32,921
-¡No, no, no se vayan! ¡Regresen!
-¡Ayúdenos, no saben cómo es aquí!
+813
+00:53:28,062 --> 00:53:30,601
+¡No, no, no se vayan!
+¡Regresen!
 
-804
-00:53:32,982 --> 00:53:36,177
-- ¡Ah, ya vámonos de aquí!
-- Terminó la función, ciudadanos,
+814
+00:53:30,686 --> 00:53:32,897
+¡Ayúdenos, no saben
+cómo es aquí!
 
-805
-00:53:36,209 --> 00:53:37,349
+815
+00:53:32,982 --> 00:53:36,118
+-¡Ya vámonos de aquí!
+-Terminó la función, ciudadanos,
+
+816
+00:53:36,209 --> 00:53:37,342
 vuelvan a lo suyo.
 
-806
+817
 00:53:37,427 --> 00:53:39,599
 <i>¡Vuelvan! ¡Slinky!</i>
 
-807
+818
 00:53:39,748 --> 00:53:41,193
 ¡Slinky, espera!
 
-808
+819
 00:53:41,310 --> 00:53:43,170
 <i>¡Por favor, escúchame!</i>
 
-809
+820
 00:53:43,877 --> 00:53:45,697
 <i>¡No! ¡Regresen!</i>
 
-810
+821
 00:53:47,604 --> 00:53:49,681
 ¡Slinky!
 
-811
+822
 00:54:00,250 --> 00:54:02,976
 ¡Váyanse!
 ¡Mugrosos, asquerosos!
 
-812
+823
 00:54:04,624 --> 00:54:06,530
 ¡Atrás, atrás, caníbales!
 
-813
-00:54:11,348 --> 00:54:14,028
+824
+00:54:11,348 --> 00:54:14,054
 ¡Todavía está vivo
 y no dejaré que se lo coman!
 
-814
+825
 00:54:14,325 --> 00:54:16,098
 ¡Caníbales! ¡Fuera!
 
-815
+826
 00:54:19,647 --> 00:54:21,397
 ¡Oye! ¡Te repararon!
 
-816
-00:54:25,413 --> 00:54:27,085
+827
+00:54:25,413 --> 00:54:27,055
 ¡Pero son caníbales!
 
-817
-00:54:27,140 --> 00:54:28,928
-¡Los vimos comerse
-a otros juguetes!
+828
+00:54:27,140 --> 00:54:29,140
+Los vimos comerse
+a otros juguetes.
 
-818
+829
 00:54:37,426 --> 00:54:40,356
 Ah… ¡perdón!
 Creí que iban a… Bueno…
 
-819
+830
 00:54:40,981 --> 00:54:43,481
 Creí que… que iban
 a comerse a mi amigo.
 
-820
+831
 00:54:43,615 --> 00:54:45,974
 ¡No, no, esperen! ¿Qué pasa?
 
-821
+832
 00:54:46,201 --> 00:54:48,528
-<i>- ¿Sid?
-- ¡Ahora no, ma, estoy jugando!</i>
+<i>-¿Sid?
+-¡Ahora no, ma, estoy jugando!</i>
 
-822
+833
 00:54:48,646 --> 00:54:51,787
 ¡Sid! ¡Buzz, Buzz!
 ¡Levántate, vamos!
 
-823
+834
 00:54:52,966 --> 00:54:54,841
 ¡Si te dejo, no me eches
 la culpa! ¡Allá tú!
 
-824
+835
 00:54:58,167 --> 00:55:00,581
 ¡Llegó! ¡Por fin llegó!
 
-825
+836
 00:55:04,337 --> 00:55:05,587
 <i>"EL GRANDE"</i>
 
-826
-00:55:08,737 --> 00:55:11,361
+837
+00:55:08,737 --> 00:55:11,331
 "EXTREMADAMENTE PELIGROSO,
 
-827
+838
 00:55:11,416 --> 00:55:13,861
 MANTENGA FUERA
 DEL ALCANCE DE LOS NIÑOS."
 
-828
+839
 00:55:15,049 --> 00:55:17,877
 ¡Fantástico!
 ¿Qué voy a volar?
 
-829
+840
 00:55:18,651 --> 00:55:21,962
 ¡Claro! ¿Dónde está
 ese muñeco vaquero cobarde?
 
-830
+841
 00:55:35,857 --> 00:55:36,857
 ¡Sí!
 
-831
+842
 00:55:37,990 --> 00:55:40,818
 ¡Podré poner
 a este astronauta en órbita!
 
-832
+843
 00:55:57,224 --> 00:55:58,473
 ¡Oh no!
 
-833
+844
 00:56:01,790 --> 00:56:03,150
 ¡Chispas!
 
-834
+845
 00:56:09,729 --> 00:56:11,619
 Les habla Sid Phillips:
 
-835
+846
 00:56:11,713 --> 00:56:15,658
 El despegue ha sido demorado
 debido al mal tiempo en la plataforma.
 
-836
+847
 00:56:16,227 --> 00:56:19,384
 Mañana será… soleado.
 
-837
+848
 00:56:21,053 --> 00:56:22,412
 <i>Dulce sueños.</i>
 
-838
-00:56:27,689 --> 00:56:30,931
+849
+00:56:27,689 --> 00:56:31,026
 <i>Busqué en todas partes, hijo,
 pero solamente encontré tu sombrero.</i>
 
-839
+850
 00:56:31,111 --> 00:56:33,274
-Pero ¿y si
-nos vamos sin ellos?
+Pero ¿y si nos vamos
+sin ellos?
 
-840
-00:56:33,689 --> 00:56:36,087
+851
+00:56:33,680 --> 00:56:36,057
 No te preocupes, mi cielo,
 verás que encontrarás
 
-841
-00:56:36,142 --> 00:56:38,806
-a Woody y a Buzz
-antes de que nos vayamos mañana.
+852
+00:56:36,142 --> 00:56:38,966
+a Woody y a Buzz antes de
+que nos vayamos mañana.
 
-842
-00:56:46,607 --> 00:56:48,021
-¡Necesito aire!
+853
+00:56:46,607 --> 00:56:47,980
+<i>¡Necesito aire!</i>
 
-843
-00:56:49,107 --> 00:56:51,013
-- ¡Quieres dejar de moverte!
-- ¡Lo siento!
+854
+00:56:49,107 --> 00:56:51,053
+-¡Quieres dejar de moverte!
+-¡Lo siento!
 
-844
+855
 00:56:51,138 --> 00:56:53,851
 Es que me pongo muy nervioso
 antes de viajar.
 
-845
-00:56:54,508 --> 00:56:56,968
+856
+00:56:54,508 --> 00:56:56,938
 ¡No sé por qué me tocaste
 como compañero de mudanza!
 
-846
+857
 00:56:57,023 --> 00:56:58,398
 Ya todos tenían compañero.
 
-847
+858
 00:57:05,873 --> 00:57:06,873
 ¡Oh, Woddy!
 
-848
+859
 00:57:08,115 --> 00:57:11,677
 Si tan solo supieras
 que Andy te ha echado de menos.
 
-849
+860
 00:57:26,620 --> 00:57:27,620
 ¡Oye, Buzz!
 
-850
-00:57:34,447 --> 00:57:37,423
+861
+00:57:34,400 --> 00:57:37,696
 <i>¡Oye, ven acá a ver si puedes
 quitarme la caja de encima!</i>
 
-851
-00:57:41,149 --> 00:57:42,297
-¡Vamos Buzz! No puedo…
+862
+00:57:41,094 --> 00:57:42,359
+¡Vamos Buzz!
+No puedo…
 
-852
-00:57:43,829 --> 00:57:45,477
-Buzz, no puedo hacerlo sin ti.
+863
+00:57:43,829 --> 00:57:45,554
+Buzz, no puedo
+hacerlo sin ti.
 
-853
-00:57:47,158 --> 00:57:48,158
+864
+00:57:47,158 --> 00:57:48,226
 Necesito tu ayuda.
 
-854
-00:57:49,713 --> 00:57:50,674
+865
+00:57:49,713 --> 00:57:50,713
 No puedo.
 
-855
-00:57:51,440 --> 00:57:52,689
+866
+00:57:51,440 --> 00:57:52,853
 No puedo ayudar a nadie.
 
-856
+867
 00:57:53,025 --> 00:57:54,213
 <i>¡Claro que sí, Buzz!</i>
 
-857
-00:57:54,510 --> 00:57:55,807
+868
+00:57:54,459 --> 00:57:55,871
 ¡Puedes sacarme de aquí!
 
-858
-00:57:55,956 --> 00:57:59,072
+869
+00:57:55,956 --> 00:57:59,167
 Luego te quito el cohete
 ¡y nos escapamos a la casa de Andy!
 
-859
+870
 00:57:59,252 --> 00:58:02,424
 Casa de Andy, casa de Sid…
 ¿Cuál es la diferencia?
 
-860
-00:58:02,971 --> 00:58:05,393
+871
+00:58:02,971 --> 00:58:05,417
 ¡Oh, Buzz!
 ¡Fue dura la caída!
 
-861
-00:58:05,502 --> 00:58:06,869
+872
+00:58:05,502 --> 00:58:06,927
 ¡No estás pensando bien!
 
-862
+873
 00:58:07,012 --> 00:58:10,152
 Sí, Woody. Por primera vez
 pienso con claridad.
 
-863
-00:58:10,652 --> 00:58:13,410
+874
+00:58:10,652 --> 00:58:13,442
 Tenías razón en todo.
 No soy un guardián del espacio.
 
-864
-00:58:13,473 --> 00:58:17,175
+875
+00:58:13,527 --> 00:58:17,348
 Soy un juguete insignificante
 hecho en Taiwán.
 
-865
-00:58:17,707 --> 00:58:18,793
+876
+00:58:17,707 --> 00:58:18,747
 ¡Oye, no, espera!
 
-866
+877
 00:58:18,832 --> 00:58:22,527
 ¡Ser juguete es mucho mejor
 que ser un guardián del espacio!
 
-867
+878
 00:58:22,648 --> 00:58:24,656
-- Sí, claro…
-- ¡Sí, es en serio!
+-Sí, claro…
+-¡Sí, es en serio!
 
-868
+879
 00:58:24,992 --> 00:58:28,390
 Mira, en esa casa hay un niño
 que cree que eres lo máximo.
 
-869
-00:58:28,523 --> 00:58:30,570
+880
+00:58:28,523 --> 00:58:30,704
 <i>Y no es porque eres
 un guardián del espacio,</i>
 
-870
+881
 00:58:30,789 --> 00:58:34,304
 <i>sino porque eres un juguete,
-eres su juguete.</i>
+¡eres su juguete!</i>
 
-871
-00:58:34,422 --> 00:58:36,430
+882
+00:58:34,422 --> 00:58:36,476
 ¿Y Andy para qué
 me querría a mí?
 
-872
+883
 00:58:36,561 --> 00:58:39,092
 <i>¿Por qué te querría Andy a ti?
 ¡Mírate!</i>
 
-873
+884
 00:58:39,592 --> 00:58:41,209
 ¡Eres un <i>Buzz Lightyear!</i>
 
-874
-00:58:41,920 --> 00:58:44,732
+885
+00:58:41,907 --> 00:58:44,790
 <i>¡Cualquier juguete daría
 lo que fuera para ser tú!</i>
 
-875
-00:58:44,788 --> 00:58:47,100
+886
+00:58:44,875 --> 00:58:47,100
 ¡Tienes alas,
 brillas en la oscuridad!
 
-876
-00:58:47,202 --> 00:58:48,202
+887
+00:58:47,202 --> 00:58:48,227
 ¡Hablas!
 
-877
-00:58:48,264 --> 00:58:51,732
-¡Tu casco hace esa… esa…
-shhh cosa!
+888
+00:58:48,312 --> 00:58:51,732
+Tu casco hace esa… esa…
+¡shhh cosa!
 
-878
+889
 00:58:52,271 --> 00:58:54,256
 ¡Eres un juguete fantástico!
 
-879
+890
 00:58:58,161 --> 00:58:59,926
 De hecho,
 demasiado fantástico.
 
-880
+891
 00:59:01,575 --> 00:59:02,575
 ¿Por qué…?
 
-881
-00:59:03,161 --> 00:59:04,864
+892
+00:59:03,161 --> 00:59:04,903
 ¿Qué ventaja tiene
 un juguete como yo
 
-882
-00:59:04,895 --> 00:59:07,294
+893
+00:59:04,988 --> 00:59:07,459
 contra una figura
 <i>Buzz Lightyear</i> en acción?
 
-883
-00:59:08,337 --> 00:59:09,572
-Lo único que sé hacer es…
+894
+00:59:08,337 --> 00:59:09,749
+Lo único
+que sé hacer es…
 
-884
-00:59:10,986 --> 00:59:12,993
-<i>"¡Hay una serpiente en mi bota!"</i>
+895
+00:59:10,986 --> 00:59:13,075
+<i>"¡Hay una serpienteen mi bota!"</i>
 
-885
-00:59:15,509 --> 00:59:17,485
+896
+00:59:15,438 --> 00:59:17,791
 ¿Por qué iba a querer Andy
 jugar conmigo…
 
-886
-00:59:17,994 --> 00:59:19,009
-<i>teniéndote a ti?</i>
+897
+00:59:17,994 --> 00:59:19,195
+teniéndote a ti?
 
-887
-00:59:21,361 --> 00:59:23,634
+898
+00:59:21,361 --> 00:59:23,892
 Yo soy el que debería
 estar atado al cohete.
 
-888
+899
 00:59:47,751 --> 00:59:49,938
 Oye, Buzz: olvídame.
 
-889
-00:59:51,074 --> 00:59:52,699
+900
+00:59:51,034 --> 00:59:52,917
 Tienes que salir
 mientras puedas.
 
-890
-01:00:05,400 --> 01:00:08,032
-- ¡Buzz! ¿Qué haces? Creí que…
-- Vamos, comisario.
+901
+01:00:05,273 --> 01:00:07,979
+-Buzz. ¿Qué haces? Creí que…
+-Vamos, comisario.
 
-891
-01:00:08,064 --> 01:00:09,704
+902
+01:00:08,064 --> 01:00:09,651
 Hay un niño en esa casa
 que nos necesita.
 
-892
-01:00:09,736 --> 01:00:11,298
+903
+01:00:09,736 --> 01:00:11,345
 ¡Ayúdame a sacarte de aquí!
 
-893
+904
 01:00:12,509 --> 01:00:13,509
 ¡Sí, señor!
 
-894
-01:00:16,479 --> 01:00:17,947
+905
+01:00:16,479 --> 01:00:17,964
 ¡Muy bien, Buzz! ¡Eso es!
 
-895
-01:00:24,549 --> 01:00:25,689
+906
+01:00:24,549 --> 01:00:25,844
 Woody, ¡es la mudanza!
 
-896
-01:00:26,502 --> 01:00:28,002
+907
+01:00:26,502 --> 01:00:28,208
 ¡Hay que salir de aquí ahora!
 
-897
+908
 01:00:33,676 --> 01:00:34,676
 ¡Eso es!
 
-898
+909
 01:00:37,004 --> 01:00:38,004
 ¡Muy bien!
 
-899
+910
 01:00:39,421 --> 01:00:40,780
 Buzz, ¡estoy afuera!
 
-900
+911
 01:00:40,913 --> 01:00:42,100
 Falta… poco.
 
-901
+912
 01:00:47,453 --> 01:00:49,310
 Quiero montar el pony.
 
-902
+913
 01:00:55,226 --> 01:00:56,491
 Woody, ¿estás bien?
 
-903
+914
 01:00:58,827 --> 01:01:00,585
 Estoy bien, ¡de primera!
 
-904
+915
 01:01:11,212 --> 01:01:12,360
 ¡Ah sí!
 
-905
+916
 01:01:13,086 --> 01:01:14,391
 ¡Hora de despegue!
 
-906
+917
 01:01:18,905 --> 01:01:21,373
 ¡Al infinito y más allá!
 
-907
+918
 01:01:29,749 --> 01:01:32,147
 ¡Quieto! ¡Fuera, fuera!
 ¡Quieto!
 
-908
-01:01:34,335 --> 01:01:36,382
+919
+01:01:34,296 --> 01:01:36,591
 ¿Ahora qué hago?
 ¡Piensa, Woody, piensa!
 
-909
+920
 01:01:37,108 --> 01:01:38,108
 ¿Qué…?
 
-910
+921
 01:01:40,412 --> 01:01:41,412
 ¡Oigan!
 
-911
-01:01:42,545 --> 01:01:44,849
-¡No, no, no!
-¡Esperen, esperen! ¡Escuchen!
+922
+01:01:42,545 --> 01:01:44,811
+¡No, no!
+¡Esperen, escuchen!
 
-912
+923
 01:01:44,896 --> 01:01:46,740
 ¡Hay un buen juguete
 allá abajo!
 
-913
-01:01:47,295 --> 01:01:49,357
+924
+01:01:47,356 --> 01:01:49,592
 ¡Y va a volar en pedazos
 en un momento!
 
-914
+925
 01:01:49,677 --> 01:01:51,005
 ¡Y solo por culpa mía!
 
-915
-01:01:51,607 --> 01:01:52,607
+926
+01:01:51,607 --> 01:01:52,666
 ¡Hay que salvarlo!
 
-916
-01:01:53,341 --> 01:01:54,990
+927
+01:01:53,341 --> 01:01:55,145
 Y… necesito ayuda.
 
-917
+928
 01:02:03,270 --> 01:02:05,708
-Buzz… Es mi amigo.
+Buzz. Es mi amigo.
 
-918
+929
 01:02:07,129 --> 01:02:08,519
 Es el único que tengo.
 
-919
+930
 01:02:22,986 --> 01:02:23,986
 ¡Gracias!
 
-920
+931
 01:02:24,416 --> 01:02:26,025
 Bien. Ya sé qué hacer.
 
-921
-01:02:26,658 --> 01:02:28,135
+932
+01:02:26,658 --> 01:02:28,306
 Habrá que romper las reglas.
 
-922
-01:02:28,690 --> 01:02:30,720
+933
+01:02:28,670 --> 01:02:30,971
 Pero si funciona,
 nos ayudará a todos.
 
-923
+934
 01:02:42,975 --> 01:02:45,163
 <i>Houston a Control.
 Adelante Control.</i>
 
-924
+935
 01:02:45,866 --> 01:02:48,350
 <i>La plataforma
 está en construcción.</i>
 
-925
-01:02:50,796 --> 01:02:53,280
+936
+01:02:50,786 --> 01:02:53,375
 Ahora, escuchen:
 necesito al Niño Bomba aquí,
 
-926
+937
 01:02:53,460 --> 01:02:54,460
 al Pato acá,
 
-927
+938
 01:02:54,921 --> 01:02:57,397
 Piernas, tú con Pato.
 
-928
-01:02:58,516 --> 01:03:00,703
+939
+01:02:58,454 --> 01:03:01,102
 Patineta y yo esperamos
 la señal, ¿de acuerdo?
 
-929
+940
 01:03:02,211 --> 01:03:04,289
 Y ahora… ¡vámonos!
 
-930
+941
 01:03:25,446 --> 01:03:26,681
 ¡Cuerda a la Rana!
 
-931
+942
 01:03:48,811 --> 01:03:50,006
 Esperen la señal.
 
-932
+943
 01:04:06,346 --> 01:04:07,346
 ¡Ya!
 
-933
+944
 01:04:11,463 --> 01:04:12,463
 ¡Listo, vámonos!
 
-934
+945
 01:04:15,361 --> 01:04:16,362
 ¡Ahora!
 
-935
+946
 01:04:17,655 --> 01:04:19,046
 ¡Ya voy, ya voy!
 
-936
+947
 01:04:28,312 --> 01:04:29,312
 ¡Ay!
 
-937
+948
 01:04:29,398 --> 01:04:30,492
 ¡Scud!
 
-938
+949
 01:04:34,540 --> 01:04:35,540
 ¡Perro tonto!
 
-939
+950
 01:04:43,999 --> 01:04:44,999
 ¡Contrapeso!
 
-940
+951
 01:04:49,731 --> 01:04:53,113
 <i>Control de la misión,
 ¿está lista la construcción?</i>
 
-941
+952
 01:04:53,317 --> 01:04:56,152
 <i>Ah, sí señor.
 Todo conectado al alambre guía,</i>
 
-942
-01:04:56,293 --> 01:04:58,410
+953
+01:04:56,274 --> 01:04:58,600
 <i>estamos moviendo
 la palanca de arranque.</i>
 
-943
-01:04:58,685 --> 01:05:00,379
+954
+01:04:58,685 --> 01:05:00,473
 <i>Conteo empezará
 en un momento.</i>
 
-944
+955
 01:05:00,558 --> 01:05:01,558
 <i>¡Alerta!"</i>
 
-945
+956
 01:05:02,778 --> 01:05:03,778
 ¡Andando!
 
-946
+957
 01:05:04,599 --> 01:05:07,545
 <i>¡Oye, ma!
 ¿Dónde están los fósforos?</i>
 
-947
-01:05:07,756 --> 01:05:09,154
+958
+01:05:07,756 --> 01:05:09,100
 <i>¡Ah no, olvídalo,
 aquí están!</i>
 
-948
+959
 01:05:09,185 --> 01:05:11,201
 ¡Woody! ¡Genial!
 ¡Ayúdame con esto!
 
-949
-01:05:11,896 --> 01:05:13,591
-- ¿Qué?
-- ¡Tranquilízate!
+960
+01:05:11,947 --> 01:05:13,546
+-¿Qué?
+-¡Tranquilízate!
 
-950
+961
 01:05:13,631 --> 01:05:15,053
 ¡Todo está bajo control!
 
-951
-01:05:16,921 --> 01:05:18,203
+962
+01:05:16,866 --> 01:05:18,266
 Woody, ¿qué estás haciendo?
 
-952
+963
 01:05:18,351 --> 01:05:20,335
 <i>Houston, ¡sistemas listos!</i>
 
-953
+964
 01:05:20,421 --> 01:05:22,187
 <i>Permiso para lanzamiento.</i>
 
-954
+965
 01:05:23,327 --> 01:05:25,772
 ¡Oye! ¿Cómo llegaste aquí?
 
-955
+966
 01:05:27,312 --> 01:05:30,132
 Ah, en fin,
 más tarde te voy a asar.
 
-956
+967
 01:05:34,070 --> 01:05:35,953
 <i>Houston, ¿podemos despegar?</i>
 
-957
+968
 01:05:36,953 --> 01:05:41,786
 Afirmativo, permiso concedido,
-confirmado a T menos 10 segundos.
+confirmado a T menos diez segundos.
 
-958
+969
 01:05:43,685 --> 01:05:44,912
 Y contando.
 
-959
+970
 01:05:45,389 --> 01:05:50,802
 Diez, nueve, ocho
 siete, seis, cinco,
 
-960
+971
 01:05:50,888 --> 01:05:53,912
 cuatro, tres, dos, uno…
 
-961
+972
 01:05:54,038 --> 01:05:57,365
 <i>"¡Manos arriba, gusano!"</i>
 
-962
+973
 01:05:58,835 --> 01:06:02,116
 <i>¡En este pueblo
 ya no cabemos los dos!</i>
 
-963
+974
 01:06:02,249 --> 01:06:03,249
 ¿Qué?
 
-964
-01:06:03,976 --> 01:06:06,515
+975
+01:06:03,976 --> 01:06:06,508
 <i>"¡Alguien envenenó
 el abrevadero!"</i>
 
-965
+976
 01:06:06,593 --> 01:06:07,898
 ¡Está roto!
 
-966
+977
 01:06:08,382 --> 01:06:10,593
 <i>¿Quién dices
 que está roto, mocoso?</i>
 
-967
+978
 01:06:11,443 --> 01:06:15,310
 <i>¡Así es. Estoy hablando
 contigo, Sid Phillips!</i>
 
-968
+979
 01:06:15,404 --> 01:06:16,404
 ¿Qué?
 
-969
+980
 01:06:16,763 --> 01:06:18,974
 <i>No nos gusta
 que nos vuelen, Sid.</i>
 
-970
-01:06:19,601 --> 01:06:21,913
+981
+01:06:19,601 --> 01:06:21,906
 <i>¡Ni nos aplasten,
 ni nos destruyan!</i>
 
-971
+982
 01:06:21,991 --> 01:06:24,945
-- ¿A quiénes?
-<i>- ¡A nosotros tus juguetes!</i>
+-¿A quiénes?
+<i>-¡A nosotros tus juguetes!</i>
 
-972
+983
 01:06:55,802 --> 01:07:00,162
 <i>¡Desde ahora,
 vas a cuidar mucho tus juguetes!</i>
 
-973
+984
 01:07:00,334 --> 01:07:04,177
 <i>Porque si no,
 ¡lo vamos a saber, Sid!</i>
 
-974
+985
 01:07:05,232 --> 01:07:11,131
 <i>Los juguetes
 podemos ver todo.</i>
 
-975
+986
 01:07:12,850 --> 01:07:14,771
 ¡Juega bonito, Sid!
 
-976
+987
 01:07:21,229 --> 01:07:23,471
 ¡Lo logramos,
 lo logramos!
 
-977
+988
 01:07:24,104 --> 01:07:25,104
 ¡Sí!
 
-978
+989
 01:07:25,252 --> 01:07:27,143
 ¡Mis juguetes están vivos!
 
-979
+990
 01:07:27,823 --> 01:07:29,627
 Muñeca bonita.
 
-980
-01:07:38,339 --> 01:07:40,542
-¡Muy bien, muchachos, muy bien!
+991
+01:07:38,339 --> 01:07:40,512
+¡Muy bien, muchachos,
+muy bien!
 
-981
+992
 01:07:40,597 --> 01:07:43,074
 ¡Eso de salir del suelo
 fue genial!
 
-982
+993
 01:07:43,378 --> 01:07:44,378
 Woody.
 
-983
+994
 01:07:46,574 --> 01:07:47,574
 Gracias.
 
-984
+995
 01:07:49,680 --> 01:07:51,375
 <i>Digan todos, "¡adiós, casa!"</i>
 
-985
-01:07:51,516 --> 01:07:52,516
-Woody, ¡el camión!
+996
+01:07:51,516 --> 01:07:53,548
+-Woody, ¡el camión!
+<i>-¡Adiós, casa!</i>
 
-986
-01:07:52,548 --> 01:07:53,548
-<i>¡Adiós, casa!</i>
-
-987
+997
 01:07:56,759 --> 01:07:57,782
 ¡Adiós, gracias!
 
-988
+998
 01:08:02,066 --> 01:08:03,066
 ¡Rápido!
 
-989
-01:08:08,378 --> 01:08:09,511
+999
+01:08:08,378 --> 01:08:09,673
 ¡Sigue, yo te alcanzo!
 
-990
+1000
 01:08:31,899 --> 01:08:32,899
 ¡Vamos!
 
-991
+1001
 01:08:48,496 --> 01:08:49,574
 ¡Tú puedes, salta!
 
-992
+1002
 01:08:55,330 --> 01:08:56,330
 ¡Lo hice!
 
-993
+1003
 01:09:01,065 --> 01:09:04,978
 ¡Suéltame, perro, suéltame!
 ¡Vete de aquí, roñoso! ¡Suelta!
 
-994
-01:09:05,401 --> 01:09:06,463
-- ¡No!
-- ¡No te sueltes!
+1004
+01:09:05,401 --> 01:09:06,637
+-¡No!
+-¡No te sueltes!
 
-995
+1005
 01:09:07,893 --> 01:09:10,533
 ¡No, no! ¡No puedo hacerlo!
 
-996
+1006
 01:09:11,249 --> 01:09:13,366
 ¡Cuida mucho a Andy
 por mí, Buzz!
 
-997
+1007
 01:09:13,686 --> 01:09:14,686
 ¡No!
 
-998
+1008
 01:09:45,379 --> 01:09:47,551
-- ¿Ya llegamos? ¿Tan pronto?
-- ¡Woody!
+-¿Ya llegamos? ¿Tan pronto?
+-¡Woody!
 
-999
+1009
 01:09:48,231 --> 01:09:49,231
 ¿Qué pasó?
 
-1000
+1010
 01:09:51,036 --> 01:09:53,048
 ¿Qué sucede?
 ¿Qué se está llevando?
 
-1001
+1011
 01:09:53,158 --> 01:09:54,767
 ¡Ajá, aquí estás!
 
-1002
+1012
 01:09:55,345 --> 01:09:56,798
-¡Oigan, qué hace?!
+Oigan, ¿qué hace?
 
-1003
+1013
 01:10:00,073 --> 01:10:01,730
 ¡Lo hizo otra vez!
 
-1004
+1014
 01:10:13,379 --> 01:10:14,379
 ¡Atrápenlo!
 
-1005
+1015
 01:10:23,711 --> 01:10:25,133
 ¡No! ¡No, no!
 
-1006
+1016
 01:10:39,946 --> 01:10:41,696
 ¡Cerdo abajo!
 
-1007
-01:11:08,513 --> 01:11:10,201
+1017
+01:11:08,513 --> 01:11:10,147
 ¡Recibirá su castigo!
 
-1008
+1018
 01:11:10,232 --> 01:11:12,357
 ¡Hay que ayudarlo! ¡No, no!
 
-1009
+1019
 01:11:12,904 --> 01:11:14,685
 ¡Arrójenlo por la borda!
 
-1010
+1020
 01:11:14,771 --> 01:11:16,537
 ¡Suéltenme! ¡No!
 
-1011
-01:11:29,311 --> 01:11:30,654
+1021
+01:11:29,311 --> 01:11:30,664
 ¡Gracias por recogerme!
 
-1012
+1022
 01:11:31,108 --> 01:11:32,108
 ¡Cuidado!
 
-1013
-01:11:35,876 --> 01:11:37,516
+1023
+01:11:35,876 --> 01:11:37,876
 ¡Ahora vamos
 a alcanzar ese camión!
 
-1014
-01:11:45,266 --> 01:11:48,336
+1024
+01:11:45,266 --> 01:11:48,298
 ¡Miren, es Woody!
 ¡Se acerca a toda velocidad!
 
-1015
+1025
 01:11:48,383 --> 01:11:49,993
 ¡Y Buzz viene con él!
 
-1016
+1026
 01:11:54,775 --> 01:11:57,431
 ¡Sí, es Buzz!
 ¡Woody dijo la verdad!
 
-1017
+1027
 01:11:58,108 --> 01:12:01,085
-- ¡Qué hemos hecho!
-- ¡Mi complejo de culpa!
+-¡Qué hemos hecho!
+-¡Mi complejo de culpa!
 
-1018
+1028
 01:12:01,280 --> 01:12:02,374
 ¡Estamos llegando!
 
-1019
+1029
 01:12:04,811 --> 01:12:06,162
 ¡Rocky, la rampa!
 
-1020
+1030
 01:12:08,702 --> 01:12:09,835
 ¡Vamos, de prisa!
 
-1021
+1031
 01:12:13,429 --> 01:12:14,429
 ¡Cuidado!
 
-1022
-01:12:17,078 --> 01:12:18,476
+1032
+01:12:17,078 --> 01:12:18,493
 ¡Rápido, agarra mi cola!
 
-1023
+1033
 01:12:24,422 --> 01:12:25,984
 ¡Así se hace, Slink!
 
-1024
-01:12:30,063 --> 01:12:31,063
+1034
+01:12:29,928 --> 01:12:31,048
 ¡Más rápido, Woody!
 
-1025
-01:12:31,133 --> 01:12:32,820
-- ¡Más rápido!
-- ¡Las baterías se acaban!
+1035
+01:12:31,133 --> 01:12:33,035
+-¡Más rápido!
+-¡Las baterías se acaban!
 
-1026
+1036
 01:12:41,512 --> 01:12:46,574
 <i>Hakuna matata,
 una forma de ser.</i>
 
-1027
+1037
 01:12:51,032 --> 01:12:55,048
-- ¡No puedo sujetarme mucho tiempo!
-- ¡Slinky, aguanta!
+-¡No puedo sujetarme mucho tiempo!
+-¡Slinky, aguanta!
 
-1028
+1038
 01:13:10,681 --> 01:13:11,681
 ¡Oh no!
 
-1029
+1039
 01:13:14,855 --> 01:13:16,042
 ¡Woody, el cohete!
 
-1030
+1040
 01:13:16,730 --> 01:13:17,730
 ¡El fósforo!
 
-1031
+1041
 01:13:18,175 --> 01:13:19,175
 ¡Sí!
 
-1032
+1042
 01:13:19,355 --> 01:13:20,643
 ¡Gracias, Sid!
 
-1033
+1043
 01:13:28,382 --> 01:13:30,497
 ¡Oh no! ¡No, no! ¡No!
 
-1034
+1044
 01:13:30,591 --> 01:13:32,107
 ¡No!
 
-1035
+1045
 01:13:50,815 --> 01:13:53,338
-- ¿Qué estás haciendo?
-- ¡No te muevas, Buzz!
+-¿Qué estás haciendo?
+-¡No te muevas, Buzz!
 
-1036
+1046
 01:13:56,546 --> 01:13:57,546
 ¡Lo hiciste!
 
-1037
-01:13:57,976 --> 01:13:59,256
+1047
+01:13:57,976 --> 01:13:59,388
 Siguiente parada: ¡Andy!
 
-1038
+1048
 01:13:59,788 --> 01:14:01,780
-¡Momento! Encendí el cohete…
+¡Momento!
+¡Encendí el cohete!
 
-1039
+1049
 01:14:02,280 --> 01:14:04,960
 ¡Los cohetes estallan!
 
-1040
-01:14:13,810 --> 01:14:17,154
+1050
+01:14:13,810 --> 01:14:17,028
 Amigos, debí aguantar
 un poco más.
 
-1041
-01:14:17,208 --> 01:14:19,123
+1051
+01:14:17,113 --> 01:14:19,290
 ¡Woody y Buzz vienen
 a toda velocidad!
 
-1042
+1052
 01:14:40,186 --> 01:14:43,577
-- ¡Aquí es cuando estallamos!
-- ¡No lo creo!
+-¡Aquí es cuando estallamos!
+-¡No lo creo!
 
-1043
+1053
 01:14:55,277 --> 01:14:57,511
 Oye, Buzz, ¡estás volando!
 
-1044
+1054
 01:14:57,612 --> 01:15:00,925
 No estoy volando,
 ¡estoy cayendo con estilo!
 
-1045
+1055
 01:15:03,804 --> 01:15:07,734
 ¡Al infinito y más allá!
 
-1046
+1056
 01:15:14,046 --> 01:15:17,757
-- Buzz, ¡el camión se quedó atrás!
-- No le apunté al camión.
+-Buzz, ¡el camión se quedó atrás!
+-No le apunté al camión.
 
-1047
+1057
 01:15:26,077 --> 01:15:28,233
-<i>- ¿Qué pasa?</i>
-- ¡Woody y Buzz!
+<i>-¿Qué pasa?</i>
+-¡Woody y Buzz!
 
-1048
-01:15:28,374 --> 01:15:29,444
-<i>¿Ya los encontraste?</i>
+1058
+01:15:28,374 --> 01:15:30,468
+<i>¿Ya los encontraste?
+¿Dónde estaban?</i>
 
-1049
-01:15:29,469 --> 01:15:31,695
-<i>- ¿Dónde estaban?</i>
-- ¡Aquí, en el auto!
+1059
+01:15:30,553 --> 01:15:31,656
+¡Aquí, en el auto!
 
-1050
+1060
 01:15:31,741 --> 01:15:34,413
 <i>¡Lo ves! ¿Qué te dije?
 Aquí los dejaste.</i>
 
-1051
+1061
 01:15:44,409 --> 01:15:47,706
-- ¿Cuál puedo abrir primero?
-- Deja que Molly abra uno.
+-¿Cuál puedo abrir primero?
+-Deja que Molly abra uno.
 
-1052
+1062
 01:15:54,268 --> 01:15:57,487
-<i>- Incienso, aquí Mirra.</i>
-- ¡Atención, empieza el suspenso!
+<i>-Incienso, aquí Mirra.</i>
+-¡Atención, empieza el suspenso!
 
-1053
+1063
 01:15:58,034 --> 01:15:59,252
 ¡Ya es hora!
 
-1054
+1064
 01:16:02,213 --> 01:16:05,494
 ¡Oye, Betty! Debe haber
 otro modo de atraer mi atención.
 
-1055
+1065
 01:16:05,729 --> 01:16:07,471
 Feliz Navidad, comisario.
 
-1056
+1066
 01:16:09,180 --> 01:16:10,875
 Ah, oye ¿qué no es muérdago?
 
-1057
+1067
 01:16:14,289 --> 01:16:17,406
 Tal vez tenga
 otro dinosaurio, un comehojas.
 
-1058
+1068
 01:16:17,500 --> 01:16:20,469
 ¡Así puedo ser yo
 el depredador dominante!
 
-1059
+1069
 01:16:20,813 --> 01:16:22,211
 ¡Un momento! ¡Silencio!
 
-1060
-01:16:22,571 --> 01:16:24,149
+1070
+01:16:22,571 --> 01:16:24,277
 <i>El primer regalo de Molly es…</i>
 
-1061
-01:16:24,664 --> 01:16:27,438
-<i>¡Señora Cara de Papa,
-repito, Señora cara de Papa!</i>
+1071
+01:16:24,628 --> 01:16:27,511
+<i>¡Señora Cara de Papa, repito,
+Señora Cara de Papa!</i>
 
-1062
+1072
 01:16:28,633 --> 01:16:29,844
 ¡Qué suerte de papa!
 
-1063
+1073
 01:16:30,243 --> 01:16:31,578
 ¡Me voy a afeitar!
 
-1064
-01:16:37,061 --> 01:16:39,170
-<i>Adelante Incienso,
-aquí Mirra.</i>
+1074
+01:16:37,061 --> 01:16:39,140
+<i>Adelante Incienso, aquí Mirra.</i>
 
-1065
+1075
 01:16:39,225 --> 01:16:40,623
 <i>Andy está abriendo su…</i>
 
-1066
-01:16:41,973 --> 01:16:45,465
+1076
+01:16:41,973 --> 01:16:45,443
 ¡Buzz! <i>Buzz Lightyear</i>,
 ¡no estarás preocupado!
 
-1067
+1077
 01:16:45,528 --> 01:16:48,949
 ¿Yo? ¡No, no! No, no, no.
 
-1068
+1078
 01:16:49,614 --> 01:16:51,449
 <i>…una caja grande, pero…</i>
 
-1069
+1079
 01:16:52,114 --> 01:16:54,379
-- ¿Y tú?¡
-- ¡Vamos, Buzz!
+-¿Y tú?¡
+-¡Vamos, Buzz!
 
-1070
+1080
 01:16:54,809 --> 01:16:58,731
 ¿Qué podría recibir Andy
 que fuera peor que tú?
 
-1071
+1081
 01:17:00,090 --> 01:17:03,996
-<i>¿¡Qué es, qué es?
-¡Wow, un perrito!</i>
+<i>¿Qué es, qué es?¡Wow, un perrito!</i>
 

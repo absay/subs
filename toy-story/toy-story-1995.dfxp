@@ -1,0 +1,1100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for toy-story-1995</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:58.318" end="00:00:59.836" region="bottomCenter">¡Quieto todo el mundo!</p>
+      <p xml:id="p2" begin="00:01:00.528" end="00:01:03.294" region="bottomCenter">¡Es un asalto!<br/>¡Que nadie se mueva!</p>
+      <p xml:id="p3" begin="00:01:04.622" end="00:01:06.229" region="bottomCenter">¡Ahora vacía<br/>la caja fuerte!</p>
+      <p xml:id="p4" begin="00:01:08.271" end="00:01:10.737" region="bottomCenter">¡Uy, mucho dinero!</p>
+      <p xml:id="p5" begin="00:01:11.652" end="00:01:14.380" region="bottomCenter">¡Basta, basta, malvada papa!</p>
+      <p xml:id="p6" begin="00:01:14.464" end="00:01:17.242" region="bottomCenter">¡Silencio, Betty,<br/>o tus ovejas serán zalea!</p>
+      <p xml:id="p7" begin="00:01:17.364" end="00:01:22.731" region="bottomCenter">¡Ay no! ¡Oh no! ¡Mis ovejas!<br/>¡Que alguien me ayude!</p>
+      <p xml:id="p8" begin="00:01:29.341" end="00:01:32.031" region="bottomCenter"><span tts:fontStyle="italic">"¡Manos en alto!"</span></p>
+      <p xml:id="p9" begin="00:01:32.211" end="00:01:34.280" region="bottomCenter">¡Oh no! ¡El comisario Woody!</p>
+      <p xml:id="p10" begin="00:01:34.851" end="00:01:37.028" region="bottomCenter">¡Vengo a detenerte,<br/>pelota tuerta!</p>
+      <p xml:id="p11" begin="00:01:37.711" end="00:01:39.869" region="bottomCenter">¡Oh, no te metas conmigo!</p>
+      <p xml:id="p12" begin="00:01:40.033" end="00:01:41.533" region="bottomCenter">¿Te vas a rendir o no?</p>
+      <p xml:id="p13" begin="00:01:41.899" end="00:01:45.139" region="bottomCenter">Confía en mí, comisario:<br/>traigo a mi perro de ataque.</p>
+      <p xml:id="p14" begin="00:01:45.289" end="00:01:48.363" region="bottomCenter">¡No tengas pendiente,<br/>también traigo a mi dinosaurio!</p>
+      <p xml:id="p15" begin="00:01:48.447" end="00:01:49.959" region="bottomCenter">¡Ya verás lo que te hace!</p>
+      <p xml:id="p16" begin="00:01:51.895" end="00:01:53.121" region="bottomCenter">¡Cuidado, comisario!</p>
+      <p xml:id="p17" begin="00:01:53.213" end="00:01:56.846" region="bottomCenter">¡Te irás a la cárcel, amigo!<br/>¡Despídete de la salsa picante!</p>
+      <p xml:id="p18" begin="00:02:06.238" end="00:02:08.123" region="bottomCenter">¡Fuiste el héroe<br/>de nuevo, Woody!</p>
+      <p xml:id="p19" begin="00:02:08.666" end="00:02:11.102" region="bottomCenter"><span tts:fontStyle="italic">"Eres mi alguacil preferido."</span></p>
+      <p xml:id="p20" begin="00:02:11.194" end="00:02:13.344" region="bottomCenter"><span tts:fontStyle="italic">Yo soy tu amigo fiel.</span></p>
+      <p xml:id="p21" begin="00:02:15.581" end="00:02:17.483" region="bottomCenter"><span tts:fontStyle="italic">Yo soy tu amigo fiel.</span></p>
+      <p xml:id="p22" begin="00:02:17.718" end="00:02:19.608" region="bottomCenter">¡Vamos, hay que<br/>reunir el ganado!</p>
+      <p xml:id="p23" begin="00:02:19.696" end="00:02:23.815" region="bottomCenter"><span tts:fontStyle="italic">Y si un díatú te encuentras lejos,</span></p>
+      <p xml:id="p24" begin="00:02:23.941" end="00:02:26.709" region="bottomCenter"><span tts:fontStyle="italic">muy lejosde tu lindo hogar,</span></p>
+      <p xml:id="p25" begin="00:02:26.824" end="00:02:30.719" region="bottomCenter">-¡A montar, vaquero!<br/><span tts:fontStyle="italic">-Cierra los ojos y recuerda que</span></p>
+      <p xml:id="p26" begin="00:02:30.840" end="00:02:33.774" region="bottomCenter"><span tts:fontStyle="italic">yo soy tu amigo fiel.</span></p>
+      <p xml:id="p27" begin="00:02:35.008" end="00:02:37.761" region="bottomCenter"><span tts:fontStyle="italic">Sí, yo soy tu amigo fiel.</span></p>
+      <p xml:id="p28" begin="00:02:37.933" end="00:02:39.156" region="bottomCenter">¡Ey, vaquero!</p>
+      <p xml:id="p29" begin="00:02:39.852" end="00:02:43.202" region="bottomCenter"><span tts:fontStyle="italic">Tal vez hay seres</span><br/><span tts:fontStyle="italic">más inteligentes,</span></p>
+      <p xml:id="p30" begin="00:02:43.286" end="00:02:45.556" region="bottomCenter"><span tts:fontStyle="italic">más fuertesy grandes también.</span></p>
+      <p xml:id="p31" begin="00:02:45.674" end="00:02:47.288" region="bottomCenter">¡Vamos, Woody!<br/><span tts:fontStyle="italic">¡Ja! Tal vez.</span></p>
+      <p xml:id="p32" begin="00:02:47.890" end="00:02:53.023" region="bottomCenter"><span tts:fontStyle="italic">Ninguno de ellos</span><br/><span tts:fontStyle="italic">te querrá como yo a ti,</span></p>
+      <p xml:id="p33" begin="00:02:53.227" end="00:02:55.273" region="bottomCenter"><span tts:fontStyle="italic">mi fiel amigo.</span></p>
+      <p xml:id="p34" begin="00:02:55.713" end="00:03:02.113" region="bottomCenter"><span tts:fontStyle="italic">Nuestra gran amistad</span><br/><span tts:fontStyle="italic">el tiempo no borrará.</span></p>
+      <p xml:id="p35" begin="00:03:04.008" end="00:03:07.640" region="bottomCenter"><span tts:fontStyle="italic">Ya lo verás, no terminará.</span></p>
+      <p xml:id="p36" begin="00:03:08.773" end="00:03:10.769" region="bottomCenter"><span tts:fontStyle="italic">Yo soy tu amigo fiel.</span></p>
+      <p xml:id="p37" begin="00:03:11.059" end="00:03:12.074" region="bottomCenter">¡Fantástico!</p>
+      <p xml:id="p38" begin="00:03:12.158" end="00:03:14.362" region="bottomCenter"><span tts:fontStyle="italic">Sí, yo soy tu amigo fiel.</span></p>
+      <p xml:id="p39" begin="00:03:14.481" end="00:03:15.481" region="bottomCenter">¡Genial!</p>
+      <p xml:id="p40" begin="00:03:16.891" end="00:03:19.344" region="bottomCenter"><span tts:fontStyle="italic">Yo soy tu amigo fiel.</span></p>
+      <p xml:id="p41" begin="00:03:19.584" end="00:03:21.836" region="bottomCenter"><span tts:fontStyle="italic">-¿Qué te parece?</span><br/><span tts:fontStyle="italic">-¡Es fantástico, mamá!</span></p>
+      <p xml:id="p42" begin="00:03:21.930" end="00:03:23.906" region="bottomCenter"><span tts:fontStyle="italic">¡Qué bueno</span><br/><span tts:fontStyle="italic">que te gustó, hijo!</span></p>
+      <p xml:id="p43" begin="00:03:24.023" end="00:03:26.115" region="bottomCenter"><span tts:fontStyle="italic">¡Justamente lo que</span><br/><span tts:fontStyle="italic">te había pedido!</span></p>
+      <p xml:id="p44" begin="00:03:26.222" end="00:03:28.492" region="bottomCenter">¡Wow, Woody va a<br/>estar feliz con esto!</p>
+      <p xml:id="p45" begin="00:03:30.927" end="00:03:33.115" region="bottomCenter">¿Podemos dejarlo así<br/>hasta la mudanza?</p>
+      <p xml:id="p46" begin="00:03:33.215" end="00:03:34.743" region="bottomCenter">¡Sí, por supuesto que sí!</p>
+      <p xml:id="p47" begin="00:03:34.828" end="00:03:37.572" region="bottomCenter">Ve por Molly, tus amigos<br/>vendrán en un momento.</p>
+      <p xml:id="p48" begin="00:03:38.183" end="00:03:39.536" region="bottomCenter">¡Habrá fiesta, Woody!</p>
+      <p xml:id="p49" begin="00:03:49.097" end="00:03:50.097" region="bottomCenter">Hola, señorita.</p>
+      <p xml:id="p50" begin="00:03:54.657" end="00:03:56.629" region="bottomCenter"><span tts:fontStyle="italic">"Alguien envenenó</span><br/><span tts:fontStyle="italic">el abrevadero."</span></p>
+      <p xml:id="p51" begin="00:03:57.875" end="00:04:00.144" region="bottomCenter">Vamos, Molly.<br/>¡Ya pesas mucho!</p>
+      <p xml:id="p52" begin="00:04:00.820" end="00:04:02.007" region="bottomCenter"><span tts:fontStyle="italic">¡Hasta luego, Woody!</span></p>
+      <p xml:id="p53" begin="00:04:10.559" end="00:04:13.387" region="bottomCenter">¡Qué barbaridad!<br/>¿La fiesta de cumpleaños es hoy?</p>
+      <p xml:id="p54" begin="00:04:15.569" end="00:04:18.094" region="bottomCenter">¡Ya, muchachos!<br/>¡No hay moros en la costa!</p>
+      <p xml:id="p55" begin="00:04:25.641" end="00:04:29.227" region="bottomCenter">"Tres años o más", dice mi caja.<br/>¡"Tres años o más"!</p>
+      <p xml:id="p56" begin="00:04:29.321" end="00:04:31.851" region="bottomCenter">No estoy para que<br/>una bebé me esté babeando.</p>
+      <p xml:id="p57" begin="00:04:44.166" end="00:04:46.673" region="bottomCenter">¡Ey, mira Hamm!<br/>¡Soy Picasso!</p>
+      <p xml:id="p58" begin="00:04:46.763" end="00:04:47.939" region="bottomCenter">No entiendo.</p>
+      <p xml:id="p59" begin="00:04:48.641" end="00:04:50.039" region="bottomCenter">Cerdo inculto.</p>
+      <p xml:id="p60" begin="00:04:50.452" end="00:04:52.338" region="bottomCenter">¿Y tú qué miras<br/>disco de <span tts:fontStyle="italic">hockey?</span></p>
+      <p xml:id="p61" begin="00:04:57.060" end="00:04:59.951" region="bottomCenter">-Sargento, ¿has visto a Slinky?<br/>-¡Negativo, señor!</p>
+      <p xml:id="p62" begin="00:05:00.153" end="00:05:02.442" region="bottomCenter">Gracias, Sargento.<br/>Descansa.</p>
+      <p xml:id="p63" begin="00:05:04.215" end="00:05:05.558" region="bottomCenter">¡Oye, Slinky!</p>
+      <p xml:id="p64" begin="00:05:05.734" end="00:05:06.794" region="bottomCenter">Aquí estoy, Woody.</p>
+      <p xml:id="p65" begin="00:05:07.395" end="00:05:08.514" region="bottomCenter">Me tocan las rojas.</p>
+      <p xml:id="p66" begin="00:05:08.715" end="00:05:10.576" region="bottomCenter">-No… Slinky…<br/>-Está bien,</p>
+      <p xml:id="p67" begin="00:05:10.660" end="00:05:13.367" region="bottomCenter">-juega las rojas si quieres.<br/>-Ahora no, Slinky…</p>
+      <p xml:id="p68" begin="00:05:13.451" end="00:05:15.748" region="bottomCenter">-Tengo malas noticias.<br/>-¿Malas noticias?</p>
+      <p xml:id="p69" begin="00:05:17.692" end="00:05:20.340" region="bottomCenter">Reúne a todos para una junta<br/>y ponte contento.</p>
+      <p xml:id="p70" begin="00:05:20.731" end="00:05:21.731" region="bottomCenter">¡Contento!</p>
+      <p xml:id="p71" begin="00:05:22.886" end="00:05:25.202" region="bottomCenter">Hay junta, muchachos,<br/>preparen el podio.</p>
+      <p xml:id="p72" begin="00:05:30.760" end="00:05:31.760" region="bottomCenter">Oye, pantalla…</p>
+      <p xml:id="p73" begin="00:05:32.042" end="00:05:33.042" region="bottomCenter">¡Desenfunda!</p>
+      <p xml:id="p74" begin="00:05:35.799" end="00:05:38.629" region="bottomCenter">¡Otra vez me ganaste!<br/>Estuviste practicando, ¿eh?</p>
+      <p xml:id="p75" begin="00:05:38.726" end="00:05:40.791" region="bottomCenter">¡Las perillas más rápidas<br/>del Oeste!</p>
+      <p xml:id="p76" begin="00:05:40.876" end="00:05:43.121" region="bottomCenter">Hay junta de concejo,<br/>muchachos, vamos.</p>
+      <p xml:id="p77" begin="00:05:44.359" end="00:05:46.225" region="bottomCenter">¿Dónde estará mi…? ¡Ah!</p>
+      <p xml:id="p78" begin="00:05:46.604" end="00:05:48.782" region="bottomCenter">¿Quién cambió<br/>mi pizarra de lugar, eh?</p>
+      <p xml:id="p79" begin="00:05:50.814" end="00:05:52.050" region="bottomCenter">Ah, ¿cómo estás, Rex?</p>
+      <p xml:id="p80" begin="00:05:52.899" end="00:05:54.759" region="bottomCenter">¿Te asusté? Dime la verdad.</p>
+      <p xml:id="p81" begin="00:05:54.861" end="00:05:56.863" region="bottomCenter">Eh, sí.<br/>Casi me asustaste esta vez.</p>
+      <p xml:id="p82" begin="00:05:57.303" end="00:06:00.352" region="bottomCenter">¡Quiero ser espantoso,<br/>pero no lo siento!</p>
+      <p xml:id="p83" begin="00:06:00.478" end="00:06:02.587" region="bottomCenter">Parece que solamente soy molesto.</p>
+      <p xml:id="p84" begin="00:06:04.813" end="00:06:05.836" region="bottomCenter">¡Hola, Betty!</p>
+      <p xml:id="p85" begin="00:06:06.387" end="00:06:09.039" region="bottomCenter">Quería darte las gracias,<br/>Woody, por salvarme.</p>
+      <p xml:id="p86" begin="00:06:09.127" end="00:06:11.228" region="bottomCenter">Ah, bueno, no fue… nada.</p>
+      <p xml:id="p87" begin="00:06:12.032" end="00:06:16.420" region="bottomCenter">¿Qué te parece si consigo a alguien<br/>que vigile las ovejas esta noche?</p>
+      <p xml:id="p88" begin="00:06:17.097" end="00:06:19.375" region="bottomCenter">Eh, bueno, sí…<br/>es que… bueno…</p>
+      <p xml:id="p89" begin="00:06:19.751" end="00:06:20.751" region="bottomCenter">Recuerda:</p>
+      <p xml:id="p90" begin="00:06:21.641" end="00:06:23.868" region="bottomCenter">yo no pongo bloques.</p>
+      <p xml:id="p91" begin="00:06:25.065" end="00:06:27.248" region="bottomCenter">¡Vamos, vamos,<br/>los pequeños al frente!</p>
+      <p xml:id="p92" begin="00:06:27.488" end="00:06:28.807" region="bottomCenter">¡Yo enfrente para ver!</p>
+      <p xml:id="p93" begin="00:06:29.566" end="00:06:31.097" region="bottomCenter">Woody, ¡ya estamos listos!</p>
+      <p xml:id="p94" begin="00:06:37.195" end="00:06:38.335" region="bottomCenter">Gracias Mico.</p>
+      <p xml:id="p95" begin="00:06:38.843" end="00:06:40.914" region="bottomCenter">¿Listo…?<br/>¡No, no, más atrás!</p>
+      <p xml:id="p96" begin="00:06:42.039" end="00:06:43.392" region="bottomCenter">Ahí está bien, gracias.</p>
+      <p xml:id="p97" begin="00:06:45.140" end="00:06:47.562" region="bottomCenter">Hola, probando…<br/>¿me escuchan? ¿Está mejor?</p>
+      <p xml:id="p98" begin="00:06:47.658" end="00:06:51.013" region="bottomCenter">¿Me escuchan bien todos?<br/>Los de arriba, ¿me escuchan bien?</p>
+      <p xml:id="p99" begin="00:06:51.098" end="00:06:53.983" region="bottomCenter">Está bien.<br/>Lo primero en la agenda es…</p>
+      <p xml:id="p100" begin="00:06:54.808" end="00:06:57.591" region="bottomCenter">¡Ah sí! ¿Ya escogieron<br/>compañero de mudanza?</p>
+      <p xml:id="p101" begin="00:06:57.676" end="00:07:00.178" region="bottomCenter">¿Qué? ¿Mudanza?<br/>¡No hablas en serio!</p>
+      <p xml:id="p102" begin="00:07:00.263" end="00:07:01.591" region="bottomCenter">No sabía<br/>que deberíamos</p>
+      <p xml:id="p103" begin="00:07:01.676" end="00:07:04.209" region="bottomCenter">-tener un compañero<br/>-¿Hay que ir de la mano?</p>
+      <p xml:id="p104" begin="00:07:04.623" end="00:07:07.162" region="bottomCenter">Ya, ya. ¿Creen que<br/>es una broma todo esto?</p>
+      <p xml:id="p105" begin="00:07:07.273" end="00:07:08.685" region="bottomCenter">Nos queda solo<br/>una semana</p>
+      <p xml:id="p106" begin="00:07:08.770" end="00:07:09.829" region="bottomCenter">antes de mudarnos.</p>
+      <p xml:id="p107" begin="00:07:09.914" end="00:07:12.091" region="bottomCenter">No quiero que se queden<br/>juguetes aquí.</p>
+      <p xml:id="p108" begin="00:07:12.176" end="00:07:15.233" region="bottomCenter">Un compañero,<br/>si no lo tienen, ¡consíganlo!</p>
+      <p xml:id="p109" begin="00:07:15.893" end="00:07:18.643" region="bottomCenter">Lo segundo es eh…<br/>ah, sí, sí.</p>
+      <p xml:id="p110" begin="00:07:18.756" end="00:07:22.376" region="bottomCenter">La junta del martes de datos<br/>de desgaste de plásticos fue,</p>
+      <p xml:id="p111" begin="00:07:22.461" end="00:07:25.747" region="bottomCenter">creo yo, todo un éxito.<br/>Gracias al Señor Deletreador</p>
+      <p xml:id="p112" begin="00:07:25.832" end="00:07:28.009" region="bottomCenter">aquí presente, por presidir la junta.</p>
+      <p xml:id="p113" begin="00:07:28.094" end="00:07:29.389" region="bottomCenter">Muchas gracias, señor.</p>
+      <p xml:id="p114" begin="00:07:30.410" end="00:07:33.738" region="bottomCenter">Muy bien, ah…<br/>Sí sí, un pequeño dato más.</p>
+      <p xml:id="p115" begin="00:07:33.965" end="00:07:37.024" region="bottomCenter">Adelantaron para hoy<br/>la fiesta de cumpleaños de Andy.</p>
+      <p xml:id="p116" begin="00:07:38.453" end="00:07:41.375" region="bottomCenter">¿Será hoy esa fiesta?<br/>¡Debería ser en una semana!</p>
+      <p xml:id="p117" begin="00:07:41.460" end="00:07:44.343" region="bottomCenter">¿Qué pasa aquí?<br/>¿Se ha vuelto loca su mamá, o qué?</p>
+      <p xml:id="p118" begin="00:07:44.428" end="00:07:47.826" region="bottomCenter">Bueno, es obvio quiso<br/>hacerle la fiesta antes de mudarse.</p>
+      <p xml:id="p119" begin="00:07:48.069" end="00:07:50.069" region="bottomCenter">Si yo no me preocupo,<br/>Uds. tampoco.</p>
+      <p xml:id="p120" begin="00:07:50.154" end="00:07:52.866" region="bottomCenter">Woody no se preocupa porque ha sido<br/>el consentido de Andy</p>
+      <p xml:id="p121" begin="00:07:52.951" end="00:07:55.879" region="bottomCenter">-desde kínder.<br/>-¡Ya, ya, señor Cara de Papa!</p>
+      <p xml:id="p122" begin="00:07:56.074" end="00:07:59.527" region="bottomCenter">Si Woody dice que está bien,<br/>entonces eso basta para mí.</p>
+      <p xml:id="p123" begin="00:07:59.903" end="00:08:02.015" region="bottomCenter">Woody nunca nos ha engañado.</p>
+      <p xml:id="p124" begin="00:08:02.132" end="00:08:03.241" region="bottomCenter">¡Vamos, muchachos,</p>
+      <p xml:id="p125" begin="00:08:03.326" end="00:08:05.670" region="bottomCenter">cada cumpleaños<br/>y Navidad es igual!</p>
+      <p xml:id="p126" begin="00:08:05.755" end="00:08:08.050" region="bottomCenter">¿Qué tal si Andy recibe<br/>otro dinosaurio?</p>
+      <p xml:id="p127" begin="00:08:08.135" end="00:08:11.910" region="bottomCenter">¡Uno malo! No creo que pueda tolerar<br/>ese tipo de rechazo.</p>
+      <p xml:id="p128" begin="00:08:12.001" end="00:08:14.102" region="bottomCenter">¡No van a sustituir a nadie!</p>
+      <p xml:id="p129" begin="00:08:14.321" end="00:08:16.680" region="bottomCenter">Estamos hablando<br/>de Andy, recuerden.</p>
+      <p xml:id="p130" begin="00:08:17.404" end="00:08:20.234" region="bottomCenter">No importa cuánto juegue<br/>con nosotros, lo que…</p>
+      <p xml:id="p131" begin="00:08:23.445" end="00:08:27.212" region="bottomCenter">Lo que importa es que estemos aquí<br/>para Andy cuando nos necesite.</p>
+      <p xml:id="p132" begin="00:08:27.297" end="00:08:31.710" region="bottomCenter">-Para eso nos hacen ¿no es cierto?<br/>-Perdóname, no quisiera interrumpir pero…</p>
+      <p xml:id="p133" begin="00:08:31.795" end="00:08:34.377" region="bottomCenter">¡Ya llegaron!<br/>¡Invitados por la derecha!</p>
+      <p xml:id="p134" begin="00:08:34.611" end="00:08:35.670" region="bottomCenter">¡Por favor, calma!</p>
+      <p xml:id="p135" begin="00:08:36.486" end="00:08:37.486" region="bottomCenter">¡No, no, mucha…!</p>
+      <p xml:id="p136" begin="00:08:40.126" end="00:08:41.369" region="bottomCenter">Se levanta la sesión.</p>
+      <p xml:id="p137" begin="00:08:41.454" end="00:08:43.790" region="bottomCenter">¡Miren! ¿Ya vieron cuántos regalos?</p>
+      <p xml:id="p138" begin="00:08:43.954" end="00:08:45.689" region="bottomCenter">¡No puedo ver nada!</p>
+      <p xml:id="p139" begin="00:08:49.619" end="00:08:52.400" region="bottomCenter">Sí, señor. Muchos acabaremos<br/>en la basura.</p>
+      <p xml:id="p140" begin="00:08:52.604" end="00:08:54.553" region="bottomCenter">¿Hay algo en forma<br/>de dinosaurio?</p>
+      <p xml:id="p141" begin="00:08:54.638" end="00:08:57.030" region="bottomCenter">¡No seas tonto,<br/>todos están en sus cajas!</p>
+      <p xml:id="p142" begin="00:08:57.115" end="00:08:58.503" region="bottomCenter">¡Pero hay unas grandes!</p>
+      <p xml:id="p143" begin="00:08:58.847" end="00:09:00.733" region="bottomCenter">¡Miren, ahí hay una<br/>más chiquita!</p>
+      <p xml:id="p144" begin="00:09:07.560" end="00:09:09.036" region="bottomCenter">¡Ya basta! ¡Calma!</p>
+      <p xml:id="p145" begin="00:09:09.849" end="00:09:13.053" region="bottomCenter">¿Si les mando las tropas<br/>se podrían calmar?</p>
+      <p xml:id="p146" begin="00:09:13.138" end="00:09:16.614" region="bottomCenter">-¡Sí, sí, prometido!<br/>-¡Muy bien! ¡Ahorren energía!</p>
+      <p xml:id="p147" begin="00:09:16.974" end="00:09:19.309" region="bottomCenter">¡Bien, Woody,<br/>así se controla el ganado!</p>
+      <p xml:id="p148" begin="00:09:21.379" end="00:09:22.379" region="bottomCenter">Sargento:</p>
+      <p xml:id="p149" begin="00:09:22.464" end="00:09:26.645" region="bottomCenter">Coloca un puesto de vigilancia abajo,<br/>alerta roja. Ya sabes qué hacer.</p>
+      <p xml:id="p150" begin="00:09:26.730" end="00:09:27.730" region="bottomCenter">¡Sí, señor!</p>
+      <p xml:id="p151" begin="00:09:28.903" end="00:09:31.257" region="bottomCenter">Bien, muchachos,<br/>ya oyeron, alertar roja,</p>
+      <p xml:id="p152" begin="00:09:31.342" end="00:09:34.695" region="bottomCenter">estamos en alerta roja,<br/>plan Vigilancia Charly, ¡ejecuten!</p>
+      <p xml:id="p153" begin="00:09:34.780" end="00:09:36.530" region="bottomCenter">¡Vamos, vamos!</p>
+      <p xml:id="p154" begin="00:09:59.958" end="00:10:03.362" region="bottomCenter">¡Vamos, vamos niños,<br/>todos a la sala a abrir los regalos!</p>
+      <p xml:id="p155" begin="00:10:27.885" end="00:10:31.448" region="bottomCenter">Y así es como sabremos<br/>qué son los regalos.</p>
+      <p xml:id="p156" begin="00:10:31.585" end="00:10:32.585" region="bottomCenter">¡Oye!</p>
+      <p xml:id="p157" begin="00:10:38.291" end="00:10:39.291" region="bottomCenter"><span tts:fontStyle="italic">¡Atención!</span></p>
+      <p xml:id="p158" begin="00:10:39.736" end="00:10:42.400" region="bottomCenter"><span tts:fontStyle="italic">¿Quién tiene hambre?</span><br/><span tts:fontStyle="italic">Aquí viene la comida.</span></p>
+      <p xml:id="p159" begin="00:10:42.572" end="00:10:44.267" region="bottomCenter"><span tts:fontStyle="italic">Tengo sodas y salchichas.</span></p>
+      <p xml:id="p160" begin="00:10:46.294" end="00:10:49.044" region="bottomCenter">¡Qué niño!<br/>¡Le dije que recogiera todo!</p>
+      <p xml:id="p161" begin="00:10:50.314" end="00:10:52.903" region="bottomCenter">Ya deberían estar ahí,<br/>¿por qué tardan tanto?</p>
+      <p xml:id="p162" begin="00:10:52.988" end="00:10:56.201" region="bottomCenter">Oigan, es que<br/>son profesionales, los mejores.</p>
+      <p xml:id="p163" begin="00:10:56.902" end="00:10:59.058" region="bottomCenter">¡Vamos,<br/>no están tirados descansando!</p>
+      <p xml:id="p164" begin="00:11:10.542" end="00:11:12.401" region="bottomCenter">Déjame aquí, ¡vete!</p>
+      <p xml:id="p165" begin="00:11:12.511" end="00:11:15.276" region="bottomCenter">¡Un buen soldado nunca<br/>deja solo a un compañero!</p>
+      <p xml:id="p166" begin="00:11:37.422" end="00:11:38.422" region="bottomCenter"><span tts:fontStyle="italic">Tú siéntate aquí.</span></p>
+      <p xml:id="p167" begin="00:11:39.743" end="00:11:42.931" region="bottomCenter"><span tts:fontStyle="italic">No, no, Andy,</span><br/><span tts:fontStyle="italic">tú enmedio, ¡eso es!</span></p>
+      <p xml:id="p168" begin="00:11:43.971" end="00:11:45.913" region="bottomCenter"><span tts:fontStyle="italic">¿Y qué regalo</span><br/><span tts:fontStyle="italic">vas a abrir primero?</span></p>
+      <p xml:id="p169" begin="00:11:48.005" end="00:11:49.005" region="bottomCenter"><span tts:fontStyle="italic">¡Ahí están!</span></p>
+      <p xml:id="p170" begin="00:11:50.657" end="00:11:54.697" region="bottomCenter">-<span tts:fontStyle="italic">Adelante Mamá Pájaro…</span><br/>-¡Ya está, ya está! ¡Cállense, cállense!</p>
+      <p xml:id="p171" begin="00:11:55.212" end="00:11:57.330" region="bottomCenter"><span tts:fontStyle="italic">Atención: Andy abre</span><br/><span tts:fontStyle="italic">su primer regalo.</span></p>
+      <p xml:id="p172" begin="00:11:57.790" end="00:12:01.143" region="bottomCenter">¡Que sea una señora Cara de Papa,<br/>una señora Cara de Papa!</p>
+      <p xml:id="p173" begin="00:12:01.528" end="00:12:02.817" region="bottomCenter">Soñar no cuesta nada.</p>
+      <p xml:id="p174" begin="00:12:03.166" end="00:12:04.228" region="bottomCenter"><span tts:fontStyle="italic">Quita el moño,</span></p>
+      <p xml:id="p175" begin="00:12:04.416" end="00:12:06.283" region="bottomCenter"><span tts:fontStyle="italic">rompe la envoltura y es…</span></p>
+      <p xml:id="p176" begin="00:12:06.424" end="00:12:09.064" region="bottomCenter"><span tts:fontStyle="italic">¡es una lonchera!</span><br/><span tts:fontStyle="italic">¡Tenemos una lonchera!</span></p>
+      <p xml:id="p177" begin="00:12:09.806" end="00:12:10.820" region="bottomCenter">¿Una lonchera?</p>
+      <p xml:id="p178" begin="00:12:10.905" end="00:12:13.023" region="bottomCenter">-¿Una lonchera?<br/>-¿Para qué sirve eso?</p>
+      <p xml:id="p179" begin="00:12:13.108" end="00:12:14.948" region="bottomCenter"><span tts:fontStyle="italic">El segundo regalo parece ser…</span></p>
+      <p xml:id="p180" begin="00:12:15.187" end="00:12:16.483" region="bottomCenter"><span tts:fontStyle="italic">¡Sí, son sábanas!</span></p>
+      <p xml:id="p181" begin="00:12:16.574" end="00:12:18.045" region="bottomCenter">¿Quién invitó a ese niño?</p>
+      <p xml:id="p182" begin="00:12:23.170" end="00:12:25.420" region="bottomCenter">¡Oh! Queda solo uno.</p>
+      <p xml:id="p183" begin="00:12:25.521" end="00:12:27.452" region="bottomCenter"><span tts:fontStyle="italic">Atención: abre el último regalo.</span></p>
+      <p xml:id="p184" begin="00:12:27.537" end="00:12:29.490" region="bottomCenter">-¡Último regalo!<br/>-<span tts:fontStyle="italic">¡Es muy grande!</span></p>
+      <p xml:id="p185" begin="00:12:29.692" end="00:12:30.749" region="bottomCenter"><span tts:fontStyle="italic">Es un…</span></p>
+      <p xml:id="p186" begin="00:12:30.834" end="00:12:33.253" region="bottomCenter"><span tts:fontStyle="italic">¡es un juego de mesa,</span><br/><span tts:fontStyle="italic">repito, "Submarino"!</span></p>
+      <p xml:id="p187" begin="00:12:35.209" end="00:12:37.690" region="bottomCenter">-¡Muy bien!, ¿verdad?<br/>-¡Oye!, ¿qué te pasa?</p>
+      <p xml:id="p188" begin="00:12:37.775" end="00:12:39.048" region="bottomCenter">Perdón, te hice puré.</p>
+      <p xml:id="p189" begin="00:12:39.439" end="00:12:42.969" region="bottomCenter">Misión cumplida. Muy bien, muchachos,<br/>es todo, ¡vamos a casa!</p>
+      <p xml:id="p190" begin="00:12:43.228" end="00:12:45.598" region="bottomCenter">¿Qué les dije? ¿Eh?<br/>No hubo problema.</p>
+      <p xml:id="p191" begin="00:12:45.708" end="00:12:49.163" region="bottomCenter">Tú siempre tienes la razón,<br/>nunca lo dudé ni un segundo.</p>
+      <p xml:id="p192" begin="00:12:50.326" end="00:12:51.420" region="bottomCenter"><span tts:fontStyle="italic">¡Un momento!</span></p>
+      <p xml:id="p193" begin="00:12:51.701" end="00:12:53.522" region="bottomCenter"><span tts:fontStyle="italic">¿Qué tenemos aquí?</span></p>
+      <p xml:id="p194" begin="00:12:53.607" end="00:12:55.492" region="bottomCenter">¡Oigan!<br/>¡Enciendan el transmisor!</p>
+      <p xml:id="p195" begin="00:12:55.826" end="00:12:57.929" region="bottomCenter"><span tts:fontStyle="italic">¡Adelante mamá pájaro!</span></p>
+      <p xml:id="p196" begin="00:12:58.051" end="00:13:00.699" region="bottomCenter"><span tts:fontStyle="italic">¡Mamá ha sacado</span><br/><span tts:fontStyle="italic">un regalo sorpresa del clóset!</span></p>
+      <p xml:id="p197" begin="00:13:00.784" end="00:13:03.349" region="bottomCenter"><span tts:fontStyle="italic">Andy lo abre,</span><br/><span tts:fontStyle="italic">¡está muy emocionado!</span></p>
+      <p xml:id="p198" begin="00:13:04.028" end="00:13:05.028" region="bottomCenter"><span tts:fontStyle="italic">¡Es enorme!</span></p>
+      <p xml:id="p199" begin="00:13:05.583" end="00:13:08.114" region="bottomCenter">Pero uno de los niños estorba<br/>y no veo nada.</p>
+      <p xml:id="p200" begin="00:13:08.622" end="00:13:09.622" region="bottomCenter">Es un…</p>
+      <p xml:id="p201" begin="00:13:12.439" end="00:13:15.478" region="bottomCenter">¿Es un qué, un qué?</p>
+      <p xml:id="p202" begin="00:13:17.405" end="00:13:19.760" region="bottomCenter">¡Lagartija tonta,<br/>ya no sabremos qué fue!</p>
+      <p xml:id="p203" begin="00:13:19.845" end="00:13:21.228" region="bottomCenter">¡Pero qué bien, Rex!</p>
+      <p xml:id="p204" begin="00:13:21.314" end="00:13:23.138" region="bottomCenter">¡No, no, voltéalo,<br/>dale vuelta!</p>
+      <p xml:id="p205" begin="00:13:23.223" end="00:13:25.525" region="bottomCenter">¡Espera, las estás<br/>poniendo al revés!</p>
+      <p xml:id="p206" begin="00:13:25.610" end="00:13:27.674" region="bottomCenter">¡Más es positivo,<br/>menos es negativo!</p>
+      <p xml:id="p207" begin="00:13:27.759" end="00:13:29.767" region="bottomCenter">¡Oh, déjame ahí!<br/>¡Quítate!</p>
+      <p xml:id="p208" begin="00:13:32.600" end="00:13:35.310" region="bottomCenter">¡Alerta roja, alerta roja!<br/>¡Andy está subiendo!</p>
+      <p xml:id="p209" begin="00:13:35.965" end="00:13:36.965" region="bottomCenter">¡Listo!</p>
+      <p xml:id="p210" begin="00:13:37.050" end="00:13:38.521" region="bottomCenter"><span tts:fontStyle="italic">Invasión juvenil, repito,</span></p>
+      <p xml:id="p211" begin="00:13:38.606" end="00:13:40.728" region="bottomCenter"><span tts:fontStyle="italic">-reasuman posición.</span><br/>-¡Ahí viene Andy,</p>
+      <p xml:id="p212" begin="00:13:40.813" end="00:13:42.578" region="bottomCenter">rápido, a sus puestos, rápido!</p>
+      <p xml:id="p213" begin="00:13:44.459" end="00:13:46.600" region="bottomCenter">¡Mi oreja!<br/>¿Quién ha visto mi oreja?</p>
+      <p xml:id="p214" begin="00:13:46.920" end="00:13:48.906" region="bottomCenter">¡Cuidado!<br/>¡Allá voy… allá voy…!</p>
+      <p xml:id="p215" begin="00:13:56.299" end="00:13:59.041" region="bottomCenter"><span tts:fontStyle="italic">¡Vamos, vamos a jugar</span><br/><span tts:fontStyle="italic">con mi astronauta!</span></p>
+      <p xml:id="p216" begin="00:14:03.072" end="00:14:04.072" region="bottomCenter"><span tts:fontStyle="italic">¡Toma, Zurg!</span></p>
+      <p xml:id="p217" begin="00:14:06.361" end="00:14:07.460" region="bottomCenter"><span tts:fontStyle="italic">¡Vamos, muchachos!</span></p>
+      <p xml:id="p218" begin="00:14:08.979" end="00:14:11.391" region="bottomCenter"><span tts:fontStyle="italic">-¡Vamos a bajar!</span><br/><span tts:fontStyle="italic">-Andy, ¿quieren bajar ya?</span></p>
+      <p xml:id="p219" begin="00:14:11.525" end="00:14:13.616" region="bottomCenter"><span tts:fontStyle="italic">¡Hay juegos!</span><br/><span tts:fontStyle="italic">¡Tenemos premios!</span></p>
+      <p xml:id="p220" begin="00:14:27.063" end="00:14:28.195" region="bottomCenter">¿Pueden ver algo?</p>
+      <p xml:id="p221" begin="00:14:28.323" end="00:14:29.875" region="bottomCenter">¿Qué ocurre allá arriba?</p>
+      <p xml:id="p222" begin="00:14:29.960" end="00:14:32.196" region="bottomCenter">Woody, ¿quién está<br/>allá arriba contigo?</p>
+      <p xml:id="p223" begin="00:14:34.284" end="00:14:37.167" region="bottomCenter">¡Woody! Pero ¿qué estás haciendo<br/>abajo de la cama?</p>
+      <p xml:id="p224" begin="00:14:37.370" end="00:14:40.035" region="bottomCenter">Nada, nada.<br/>Creo que Andy estaba emocionado,</p>
+      <p xml:id="p225" begin="00:14:40.120" end="00:14:43.479" region="bottomCenter">eso es todo, demasiado helado<br/>y pastel, ¡fue un error!</p>
+      <p xml:id="p226" begin="00:14:43.776" end="00:14:47.182" region="bottomCenter">Pues ese error<br/>ya tomó tu lugar, Woody.</p>
+      <p xml:id="p227" begin="00:14:48.005" end="00:14:50.888" region="bottomCenter">-¿Te han reemplazado?<br/>-Oye ¿qué te dije hace rato?</p>
+      <p xml:id="p228" begin="00:14:50.973" end="00:14:52.608" region="bottomCenter">A nadie van a reemplazar.</p>
+      <p xml:id="p229" begin="00:14:52.851" end="00:14:54.819" region="bottomCenter">Ahora seamos todos amables</p>
+      <p xml:id="p230" begin="00:14:54.904" end="00:14:56.904" region="bottomCenter">y démosle<br/>a lo que esté allá arriba</p>
+      <p xml:id="p231" begin="00:14:56.989" end="00:14:58.857" region="bottomCenter">¡una buena<br/>y calurosa bienvenida</p>
+      <p xml:id="p232" begin="00:14:58.942" end="00:15:00.001" region="bottomCenter">al cuarto de Andy!</p>
+      <p xml:id="p233" begin="00:15:25.296" end="00:15:27.179" region="bottomCenter">Buzz Lightyear<br/>a Comando Estelar,</p>
+      <p xml:id="p234" begin="00:15:27.264" end="00:15:28.735" region="bottomCenter">adelante,<br/>Comando Estelar.</p>
+      <p xml:id="p235" begin="00:15:29.629" end="00:15:31.929" region="bottomCenter">Comando Estelar,<br/>adelante, ¿me escuchan?</p>
+      <p xml:id="p236" begin="00:15:32.014" end="00:15:33.309" region="bottomCenter">¿Por qué no contestan?</p>
+      <p xml:id="p237" begin="00:15:34.315" end="00:15:35.427" region="bottomCenter">¡Mi nave!</p>
+      <p xml:id="p238" begin="00:15:38.199" end="00:15:40.748" region="bottomCenter">¡Rayos!<br/>Tardaré mucho en repararla.</p>
+      <p xml:id="p239" begin="00:15:41.731" end="00:15:45.021" region="bottomCenter">Buzz Lightyear bitácora.<br/>Fecha 4072.</p>
+      <p xml:id="p240" begin="00:15:45.106" end="00:15:48.169" region="bottomCenter">Mi nave se desvió<br/>en ruta al Sector 19.</p>
+      <p xml:id="p241" begin="00:15:48.254" end="00:15:50.105" region="bottomCenter">He caído en un planeta extraño.</p>
+      <p xml:id="p242" begin="00:15:50.199" end="00:15:52.963" region="bottomCenter">El impacto tal vez<br/>me despertó del hipersueño.</p>
+      <p xml:id="p243" begin="00:15:55.792" end="00:15:58.354" region="bottomCenter">El terreno parece algo inestable.</p>
+      <p xml:id="p244" begin="00:15:59.023" end="00:16:01.376" region="bottomCenter">No sé todavía<br/>si el aire es respirable y…</p>
+      <p xml:id="p245" begin="00:16:01.461" end="00:16:04.710" region="bottomCenter">no parece haber señales<br/>de vida inteligente en ninguna parte.</p>
+      <p xml:id="p246" begin="00:16:04.795" end="00:16:05.795" region="bottomCenter">¡Hola!</p>
+      <p xml:id="p247" begin="00:16:07.423" end="00:16:09.666" region="bottomCenter">¡Ya! ¡Ya, ya!<br/>¡Te asusté!</p>
+      <p xml:id="p248" begin="00:16:10.487" end="00:16:13.877" region="bottomCenter">Fue sin querer. Lo siento.<br/>Hola, me llamo Woody,</p>
+      <p xml:id="p249" begin="00:16:14.034" end="00:16:16.003" region="bottomCenter">y este es<br/>el cuarto de Andy.</p>
+      <p xml:id="p250" begin="00:16:16.131" end="00:16:17.837" region="bottomCenter">Era todo lo que<br/>quería decir.</p>
+      <p xml:id="p251" begin="00:16:17.922" end="00:16:20.578" region="bottomCenter">Y además<br/>que ha habido una… confusión.</p>
+      <p xml:id="p252" begin="00:16:20.735" end="00:16:23.022" region="bottomCenter">Este es mi lugar,<br/>¿sabes? La cama esta…</p>
+      <p xml:id="p253" begin="00:16:23.107" end="00:16:24.872" region="bottomCenter">¿Policía local?<br/>¡Ya era tiempo!</p>
+      <p xml:id="p254" begin="00:16:24.957" end="00:16:26.075" region="bottomCenter">Soy Buzz Lightyear,</p>
+      <p xml:id="p255" begin="00:16:26.160" end="00:16:28.808" region="bottomCenter">guardián espacial,<br/>Unidad Protección Universo.</p>
+      <p xml:id="p256" begin="00:16:28.893" end="00:16:30.658" region="bottomCenter">Mi nave se estrelló por error.</p>
+      <p xml:id="p257" begin="00:16:30.927" end="00:16:32.599" region="bottomCenter">Sí, fue un error.</p>
+      <p xml:id="p258" begin="00:16:32.691" end="00:16:34.956" region="bottomCenter">Porque verás<br/>que esta cama es mi lugar.</p>
+      <p xml:id="p259" begin="00:16:35.041" end="00:16:36.987" region="bottomCenter">Tengo que reparar<br/>mis turbopropulsores.</p>
+      <p xml:id="p260" begin="00:16:37.072" end="00:16:39.839" region="bottomCenter">¿Todavía usas combustible fósil o<br/>ya descubriste fusión cristálica?</p>
+      <p xml:id="p261" begin="00:16:39.924" end="00:16:41.722" region="bottomCenter">Bueno, verás…<br/>tenemos la AA.</p>
+      <p xml:id="p262" begin="00:16:42.205" end="00:16:43.205" region="bottomCenter">¡Cuidado!</p>
+      <p xml:id="p263" begin="00:16:43.354" end="00:16:44.354" region="bottomCenter">¿Quién está ahí?</p>
+      <p xml:id="p264" begin="00:16:44.690" end="00:16:46.651" region="bottomCenter">¡No dispares! Somos amigos.</p>
+      <p xml:id="p265" begin="00:16:46.870" end="00:16:48.521" region="bottomCenter">-¿Conoces a esos entes?<br/>-¡Sí!</p>
+      <p xml:id="p266" begin="00:16:48.940" end="00:16:50.456" region="bottomCenter">¡Son juguetes de Andy!</p>
+      <p xml:id="p267" begin="00:16:50.699" end="00:16:52.584" region="bottomCenter">Está bien, señores,<br/>pueden subir.</p>
+      <p xml:id="p268" begin="00:16:53.263" end="00:16:55.590" region="bottomCenter">Soy Buzz Lightyear. Vengo en paz.</p>
+      <p xml:id="p269" begin="00:16:56.122" end="00:16:59.419" region="bottomCenter">¡Ay, qué bueno<br/>que no eres un dinosaurio!</p>
+      <p xml:id="p270" begin="00:17:00.494" end="00:17:04.135" region="bottomCenter">Gracias. Y gracias a todos<br/>por su gentil bienvenida.</p>
+      <p xml:id="p271" begin="00:17:04.455" end="00:17:06.963" region="bottomCenter">-Oye, ¿para qué es este botón?<br/>-Ya verás.</p>
+      <p xml:id="p272" begin="00:17:07.699" end="00:17:10.052" region="bottomCenter"><span tts:fontStyle="italic">"Misión secreta</span><br/><span tts:fontStyle="italic">en espacio no explorado."</span></p>
+      <p xml:id="p273" begin="00:17:10.568" end="00:17:13.199" region="bottomCenter">Oye, Woody tiene algo así,<br/>pero es un hilo.</p>
+      <p xml:id="p274" begin="00:17:13.293" end="00:17:15.764" region="bottomCenter">Suena como si lo hubiera<br/>arrollado un auto.</p>
+      <p xml:id="p275" begin="00:17:15.849" end="00:17:18.686" region="bottomCenter">No como este.<br/>Es un sistema de sonido de calidad.</p>
+      <p xml:id="p276" begin="00:17:18.771" end="00:17:20.830" region="bottomCenter">Debe ser con alambres<br/>de cobre, ¿no?</p>
+      <p xml:id="p277" begin="00:17:21.132" end="00:17:23.781" region="bottomCenter">Y ¿de dónde eres?<br/>¿De Singapur? ¿De Hong Kong?</p>
+      <p xml:id="p278" begin="00:17:23.953" end="00:17:28.047" region="bottomCenter">Oh, no. En realidad mi sector está<br/>en el Cuadrante Gama del Sector 4.</p>
+      <p xml:id="p279" begin="00:17:28.668" end="00:17:31.084" region="bottomCenter">Como miembro de la elite<br/>de la Unidad de Protección</p>
+      <p xml:id="p280" begin="00:17:31.169" end="00:17:32.821" region="bottomCenter">del Cuerpo de<br/>Guardianes del Espacio,</p>
+      <p xml:id="p281" begin="00:17:32.906" end="00:17:37.212" region="bottomCenter">protejo a la galaxia de la amenaza<br/>de invasión del malvado Emperador Zurg,</p>
+      <p xml:id="p282" begin="00:17:37.297" end="00:17:39.738" region="bottomCenter">¡enemigo jurado<br/>de la Alianza Galáctica!</p>
+      <p xml:id="p283" begin="00:17:40.508" end="00:17:42.508" region="bottomCenter">¿En serio?<br/>Yo soy de Playskool.</p>
+      <p xml:id="p284" begin="00:17:42.593" end="00:17:45.021" region="bottomCenter">Y yo de Mattel.<br/>Bueno, en realidad no.</p>
+      <p xml:id="p285" begin="00:17:45.106" end="00:17:48.442" region="bottomCenter">Soy de una empresa pequeña<br/>que fue absorbida para evitar bancarrota.</p>
+      <p xml:id="p286" begin="00:17:48.527" end="00:17:50.292" region="bottomCenter">Parece que nunca<br/>hubieran visto</p>
+      <p xml:id="p287" begin="00:17:50.377" end="00:17:52.430" region="bottomCenter">-un juguete nuevo.<br/>-¡Claro, míralo!</p>
+      <p xml:id="p288" begin="00:17:52.515" end="00:17:55.236" region="bottomCenter">Tiene más cosas encima<br/>que una navaja suiza.</p>
+      <p xml:id="p289" begin="00:17:56.976" end="00:17:59.792" region="bottomCenter">¡Mucho cuidado! No querrían<br/>estar cerca si se dispara mi láser.</p>
+      <p xml:id="p290" begin="00:17:59.877" end="00:18:03.128" region="bottomCenter">¿Tu láser?<br/>¿Por qué tú no tienes láser, Woody?</p>
+      <p xml:id="p291" begin="00:18:03.213" end="00:18:04.385" region="bottomCenter">¡No es un láser!</p>
+      <p xml:id="p292" begin="00:18:04.782" end="00:18:06.268" region="bottomCenter">¡Es una lucecita<br/>que parpadea!</p>
+      <p xml:id="p293" begin="00:18:06.353" end="00:18:08.017" region="bottomCenter">-¿Qué tiene?<br/>-Envidia.</p>
+      <p xml:id="p294" begin="00:18:08.149" end="00:18:09.392" region="bottomCenter">¡Bien, se acabó!</p>
+      <p xml:id="p295" begin="00:18:09.501" end="00:18:12.705" region="bottomCenter">Sí, estamos impresionados<br/>con el juguete nuevo de Andy.</p>
+      <p xml:id="p296" begin="00:18:12.790" end="00:18:15.306" region="bottomCenter">-¿Juguete?<br/>-JU-GUE-TE. ¡Juguete!</p>
+      <p xml:id="p297" begin="00:18:15.400" end="00:18:19.464" region="bottomCenter">Disculpa, creo que el término<br/>que estás buscando es Guardián Espacial.</p>
+      <p xml:id="p298" begin="00:18:19.549" end="00:18:21.197" region="bottomCenter">El término<br/>que estoy buscando</p>
+      <p xml:id="p299" begin="00:18:21.282" end="00:18:23.869" region="bottomCenter">no lo diré porque hay<br/>juguetes prescolares.</p>
+      <p xml:id="p300" begin="00:18:23.978" end="00:18:25.478" region="bottomCenter">Estás algo tenso, ¿eh?</p>
+      <p xml:id="p301" begin="00:18:25.908" end="00:18:28.290" region="bottomCenter">Oiga, señor Lightyear,<br/>por curiosidad,</p>
+      <p xml:id="p302" begin="00:18:28.665" end="00:18:31.408" region="bottomCenter">¿un Guardián Espacial<br/>a qué se dedica?</p>
+      <p xml:id="p303" begin="00:18:31.548" end="00:18:33.345" region="bottomCenter">¡No es un Guardián Espacial!</p>
+      <p xml:id="p304" begin="00:18:33.494" end="00:18:36.534" region="bottomCenter">¡No lucha contra el mal<br/>ni dispara rayos láser</p>
+      <p xml:id="p305" begin="00:18:36.619" end="00:18:38.040" region="bottomCenter">-ni vuela!<br/>-Disculpa.</p>
+      <p xml:id="p306" begin="00:18:39.902" end="00:18:43.262" region="bottomCenter">¡Vaya! ¡Eso sí es aerodinámico!<br/>¡Qué bien!</p>
+      <p xml:id="p307" begin="00:18:43.347" end="00:18:45.057" region="bottomCenter">¡Oh no! ¿Qué?</p>
+      <p xml:id="p308" begin="00:18:45.379" end="00:18:46.910" region="bottomCenter">Son de plástico.</p>
+      <p xml:id="p309" begin="00:18:47.014" end="00:18:48.021" region="bottomCenter">¡No puede volar!</p>
+      <p xml:id="p310" begin="00:18:48.106" end="00:18:51.282" region="bottomCenter">Es una amalgama de carbono<br/>de terilio y puedo volar.</p>
+      <p xml:id="p311" begin="00:18:51.889" end="00:18:53.334" region="bottomCenter">¡No, no puedes!</p>
+      <p xml:id="p312" begin="00:18:53.631" end="00:18:55.530" region="bottomCenter">-¡Sí puedo!<br/>-¡No puedes!</p>
+      <p xml:id="p313" begin="00:18:55.616" end="00:18:57.798" region="bottomCenter">-¡Sí!<br/>-¡No puedes! ¡No, no!</p>
+      <p xml:id="p314" begin="00:18:57.883" end="00:19:00.648" region="bottomCenter">Puedo volar por el cuarto<br/>con los ojos cerrados.</p>
+      <p xml:id="p315" begin="00:19:00.733" end="00:19:02.248" region="bottomCenter">Muy bien, hombre de lata.</p>
+      <p xml:id="p316" begin="00:19:02.333" end="00:19:04.098" region="bottomCenter">-¡Pruébalo!<br/>-Está ben, lo haré.</p>
+      <p xml:id="p317" begin="00:19:04.732" end="00:19:05.732" region="bottomCenter">Atrás, por favor.</p>
+      <p xml:id="p318" begin="00:19:14.321" end="00:19:17.258" region="bottomCenter">¡Al infinito y más allá!</p>
+      <p xml:id="p319" begin="00:19:43.654" end="00:19:44.654" region="bottomCenter">¡Qué tal!</p>
+      <p xml:id="p320" begin="00:19:46.581" end="00:19:49.378" region="bottomCenter">¡Qué bien,<br/>volaste estupendamente!</p>
+      <p xml:id="p321" begin="00:19:49.550" end="00:19:51.050" region="bottomCenter">Encontré a mi compañero.</p>
+      <p xml:id="p322" begin="00:19:51.214" end="00:19:53.409" region="bottomCenter">¡Gracias!<br/>¡Gracias a todos! ¡Gracias!</p>
+      <p xml:id="p323" begin="00:19:53.628" end="00:19:55.018" region="bottomCenter">¡Eso no es volar!</p>
+      <p xml:id="p324" begin="00:19:55.276" end="00:19:57.386" region="bottomCenter">Eso fue… ¡caer con estilo!</p>
+      <p xml:id="p325" begin="00:19:57.675" end="00:20:00.854" region="bottomCenter">¡Las chicas deben perseguirte!<br/>¿Puedes enseñarme?</p>
+      <p xml:id="p326" begin="00:20:01.706" end="00:20:04.182" region="bottomCenter">-¡Caracoles, qué tipo!<br/>-¡Oh, cállate!</p>
+      <p xml:id="p327" begin="00:20:05.228" end="00:20:08.196" region="bottomCenter">En un par de días<br/>todo estará como antes, ya verán.</p>
+      <p xml:id="p328" begin="00:20:09.892" end="00:20:12.481" region="bottomCenter">Les demostraré<br/>que sigo siendo el consentido.</p>
+      <p xml:id="p329" begin="00:20:13.986" end="00:20:17.086" region="bottomCenter"><span tts:fontStyle="italic">Yo vivía muy bien y con lujos,</span></p>
+      <p xml:id="p330" begin="00:20:17.219" end="00:20:18.813" region="bottomCenter"><span tts:fontStyle="italic">todo poseía.</span></p>
+      <p xml:id="p331" begin="00:20:21.149" end="00:20:25.735" region="bottomCenter"><span tts:fontStyle="italic">No tenía que desear</span><br/><span tts:fontStyle="italic">pues todo fue de mi elección.</span></p>
+      <p xml:id="p332" begin="00:20:28.118" end="00:20:32.782" region="bottomCenter"><span tts:fontStyle="italic">Pero sin avisar,</span><br/><span tts:fontStyle="italic">como bomba aterriza un intruso.</span></p>
+      <p xml:id="p333" begin="00:20:35.482" end="00:20:39.794" region="bottomCenter"><span tts:fontStyle="italic">Mi vida tranquila</span><br/><span tts:fontStyle="italic">de pronto comienza a cambiar.</span></p>
+      <p xml:id="p334" begin="00:20:42.934" end="00:20:47.848" region="bottomCenter"><span tts:fontStyle="italic">Cambios extraños que hay en mí.</span></p>
+      <p xml:id="p335" begin="00:20:50.011" end="00:20:54.190" region="bottomCenter"><span tts:fontStyle="italic">Cambios.</span></p>
+      <p xml:id="p336" begin="00:20:57.011" end="00:21:01.753" region="bottomCenter"><span tts:fontStyle="italic">Cambios extraños que hay en mí.</span></p>
+      <p xml:id="p337" begin="00:21:02.503" end="00:21:04.503" region="bottomCenter"><span tts:fontStyle="italic">Y no hay duda alguna.</span></p>
+      <p xml:id="p338" begin="00:21:10.483" end="00:21:14.319" region="bottomCenter"><span tts:fontStyle="italic">Me quedé sin una amistad,</span></p>
+      <p xml:id="p339" begin="00:21:14.873" end="00:21:16.819" region="bottomCenter"><span tts:fontStyle="italic">mis amigos ya no están.</span></p>
+      <p xml:id="p340" begin="00:21:17.654" end="00:21:21.921" region="bottomCenter"><span tts:fontStyle="italic">Y el remedio</span><br/><span tts:fontStyle="italic">que me queda es aguantar.</span></p>
+      <p xml:id="p341" begin="00:21:24.671" end="00:21:28.702" region="bottomCenter"><span tts:fontStyle="italic">Fui temido (¡temido!)</span><br/><span tts:fontStyle="italic">y respetado (¡respetado!),</span></p>
+      <p xml:id="p342" begin="00:21:29.341" end="00:21:30.950" region="bottomCenter"><span tts:fontStyle="italic">¡Pero se acabó!</span></p>
+      <p xml:id="p343" begin="00:21:31.942" end="00:21:36.286" region="bottomCenter"><span tts:fontStyle="italic">Y perdí el amor</span><br/><span tts:fontStyle="italic">de quien he amado yo.</span></p>
+      <p xml:id="p344" begin="00:21:38.006" end="00:21:42.484" region="bottomCenter"><span tts:fontStyle="italic">Quiero contarte</span><br/><span tts:fontStyle="italic">de los cambios</span></p>
+      <p xml:id="p345" begin="00:21:42.569" end="00:21:44.343" region="bottomCenter"><span tts:fontStyle="italic">extraños que hay en mí.</span></p>
+      <p xml:id="p346" begin="00:21:46.564" end="00:21:50.867" region="bottomCenter"><span tts:fontStyle="italic">Cambios.</span></p>
+      <p xml:id="p347" begin="00:21:53.726" end="00:21:58.468" region="bottomCenter"><span tts:fontStyle="italic">Cambios extraños que hay en mí.</span></p>
+      <p xml:id="p348" begin="00:21:59.211" end="00:22:01.211" region="bottomCenter"><span tts:fontStyle="italic">Y no hay duda alguna.</span></p>
+      <p xml:id="p349" begin="00:22:04.386" end="00:22:08.618" region="bottomCenter"><span tts:fontStyle="italic">Cambios.</span></p>
+      <p xml:id="p350" begin="00:22:19.226" end="00:22:20.226" region="bottomCenter">¡Por fin!</p>
+      <p xml:id="p351" begin="00:22:22.282" end="00:22:23.694" region="bottomCenter">¿Quién tiene<br/>mi sombrero?</p>
+      <p xml:id="p352" begin="00:22:23.891" end="00:22:26.650" region="bottomCenter">¡Hola, soy Woody!<br/>¡Todos fuera de la cama!</p>
+      <p xml:id="p353" begin="00:22:28.811" end="00:22:29.811" region="bottomCenter">¡Dame eso!</p>
+      <p xml:id="p354" begin="00:22:30.144" end="00:22:32.203" region="bottomCenter"><span tts:fontStyle="italic">Escuchen, lagarto</span><br/><span tts:fontStyle="italic">y perro estirable.</span></p>
+      <p xml:id="p355" begin="00:22:33.121" end="00:22:35.474" region="bottomCenter"><span tts:fontStyle="italic">Parece que me han aceptado</span><br/><span tts:fontStyle="italic">en su cultura.</span></p>
+      <p xml:id="p356" begin="00:22:35.605" end="00:22:38.582" region="bottomCenter">Su jefe Andy escribió<br/>su nombre en mi pie.</p>
+      <p xml:id="p357" begin="00:22:38.676" end="00:22:41.003" region="bottomCenter">¡Wow! ¡Con tinta indeleble!</p>
+      <p xml:id="p358" begin="00:22:41.738" end="00:22:44.691" region="bottomCenter">Bueno, tengo que ir<br/>a reparar mi nave.</p>
+      <p xml:id="p359" begin="00:22:47.951" end="00:22:52.681" region="bottomCenter">-No dejes que te afecte, Woody.<br/>-¿Qué cosa? No sé de qué hablas. ¿Quién?</p>
+      <p xml:id="p360" begin="00:22:52.766" end="00:22:55.554" region="bottomCenter">Entiende que Andy<br/>se emocionó con Buzz.</p>
+      <p xml:id="p361" begin="00:22:55.639" end="00:22:59.162" region="bottomCenter">pero tú sabes que siempre<br/>tendrá un lugar especial para ti.</p>
+      <p xml:id="p362" begin="00:22:59.263" end="00:23:00.912" region="bottomCenter">¡Sí, como el desván!</p>
+      <p xml:id="p363" begin="00:23:01.591" end="00:23:03.240" region="bottomCenter">¡Ah, está bien! ¡Se acabó!</p>
+      <p xml:id="p364" begin="00:23:04.638" end="00:23:06.438" region="bottomCenter">Cinta unidireccional<br/>para unir.</p>
+      <p xml:id="p365" begin="00:23:06.523" end="00:23:07.904" region="bottomCenter">Buzz quiere más cinta.</p>
+      <p xml:id="p366" begin="00:23:11.275" end="00:23:15.486" region="bottomCenter">Oye, lata de sardinas:<br/>no te acerques a Andy, ¡es mío!</p>
+      <p xml:id="p367" begin="00:23:15.595" end="00:23:18.251" region="bottomCenter">¡Y nadie me lo puede quitar a mí!</p>
+      <p xml:id="p368" begin="00:23:18.439" end="00:23:21.677" region="bottomCenter">¿De qué estás hablándome?<br/>¿Dónde está la cinta adhesiva?</p>
+      <p xml:id="p369" begin="00:23:24.104" end="00:23:27.966" region="bottomCenter">Y otra cosa: ¡deja de jugar<br/>al hombre del espacio!</p>
+      <p xml:id="p370" begin="00:23:28.291" end="00:23:29.356" region="bottomCenter">¡Me pone nervioso!</p>
+      <p xml:id="p371" begin="00:23:29.441" end="00:23:31.030" region="bottomCenter">¿Quieres presentar<br/>una queja</p>
+      <p xml:id="p372" begin="00:23:31.115" end="00:23:34.077" region="bottomCenter">-al Comando Estelar?<br/>-¡Ay, ay, una queja, claro!</p>
+      <p xml:id="p373" begin="00:23:34.259" end="00:23:36.024" region="bottomCenter">¿Quieres que<br/>me ponga rudo, eh?</p>
+      <p xml:id="p374" begin="00:23:36.205" end="00:23:39.330" region="bottomCenter">-Ni siquiera lo pienses, vaquero.<br/>-¡Ah! ¿Me amenazas?</p>
+      <p xml:id="p375" begin="00:23:51.606" end="00:23:53.012" region="bottomCenter">El aire no es tóxico.</p>
+      <p xml:id="p376" begin="00:23:53.395" end="00:23:55.058" region="bottomCenter">¿Cómo te atreves<br/>a abrir el casco</p>
+      <p xml:id="p377" begin="00:23:55.143" end="00:23:57.021" region="bottomCenter">de un espacial en un<br/>planeta no explorado?</p>
+      <p xml:id="p378" begin="00:23:57.106" end="00:23:59.053" region="bottomCenter">¡Mis globos oculares<br/>pudieron haber saltado</p>
+      <p xml:id="p379" begin="00:23:59.138" end="00:24:00.138" region="bottomCenter">de sus cuencas!</p>
+      <p xml:id="p380" begin="00:24:01.372" end="00:24:05.325" region="bottomCenter">¿En serio crees<br/>que tú eres Buzz Lightyear?</p>
+      <p xml:id="p381" begin="00:24:06.254" end="00:24:08.731" region="bottomCenter">¡Todo este tiempo creí<br/>que era teatro!</p>
+      <p xml:id="p382" begin="00:24:08.816" end="00:24:12.482" region="bottomCenter">¡Muchachos, miren,<br/>es el verdadero Buzz Lightyear!</p>
+      <p xml:id="p383" begin="00:24:12.582" end="00:24:15.254" region="bottomCenter">-Oye, ¿te estás burlando?<br/>-¡Oh, no, no!</p>
+      <p xml:id="p384" begin="00:24:15.339" end="00:24:17.339" region="bottomCenter">¡Mira, un extraterrestre!<br/>-¿Dónde?</p>
+      <p xml:id="p385" begin="00:24:30.905" end="00:24:31.905" region="bottomCenter">¡Es Sid!</p>
+      <p xml:id="p386" begin="00:24:33.875" end="00:24:35.287" region="bottomCenter">¿No se fue<br/>de campamento?</p>
+      <p xml:id="p387" begin="00:24:35.372" end="00:24:37.667" region="bottomCenter">Lo habrán expulsado antes,<br/>como siempre.</p>
+      <p xml:id="p388" begin="00:24:37.752" end="00:24:40.179" region="bottomCenter">¡Oh no! ¡Qué terrible!</p>
+      <p xml:id="p389" begin="00:24:40.288" end="00:24:43.622" region="bottomCenter"><span tts:fontStyle="italic">¡Acabaré contigo!</span><br/>¡Toma, toma!</p>
+      <p xml:id="p390" begin="00:24:43.707" end="00:24:45.004" region="bottomCenter">¿Quién es esta vez?</p>
+      <p xml:id="p391" begin="00:24:45.340" end="00:24:47.769" region="bottomCenter">No, no alcanzo a ver.<br/>¿Dónde está Lenny?</p>
+      <p xml:id="p392" begin="00:24:47.916" end="00:24:49.037" region="bottomCenter">¡Aquí estoy, Woody!</p>
+      <p xml:id="p393" begin="00:24:49.207" end="00:24:51.996" region="bottomCenter">¡Oh no!<br/>¡No puedo ver esto de nuevo!</p>
+      <p xml:id="p394" begin="00:24:53.160" end="00:24:55.652" region="bottomCenter">¡Oh no! ¡Es un soldadito!</p>
+      <p xml:id="p395" begin="00:24:56.263" end="00:24:57.263" region="bottomCenter">¿Qué pasa?</p>
+      <p xml:id="p396" begin="00:24:57.348" end="00:25:01.060" region="bottomCenter">Nada que te interese,<br/>hombre del espacio, ¡solo juguetes!</p>
+      <p xml:id="p397" begin="00:25:01.177" end="00:25:02.472" region="bottomCenter">Voy a echar<br/>un vistazo.</p>
+      <p xml:id="p398" begin="00:25:03.187" end="00:25:06.191" region="bottomCenter">¿Por qué el soldado está atado<br/>al aparato explosivo?</p>
+      <p xml:id="p399" begin="00:25:06.368" end="00:25:08.579" region="bottomCenter">Por eso: ¡por Sid!</p>
+      <p xml:id="p400" begin="00:25:09.782" end="00:25:11.062" region="bottomCenter">Es muy peludo.</p>
+      <p xml:id="p401" begin="00:25:11.149" end="00:25:13.524" region="bottomCenter">No, no, no.<br/>Ese es Scud, tonto.</p>
+      <p xml:id="p402" begin="00:25:13.633" end="00:25:15.045" region="bottomCenter">¡Ese es Sid!</p>
+      <p xml:id="p403" begin="00:25:16.993" end="00:25:18.189" region="bottomCenter">¿Ese niño feliz?</p>
+      <p xml:id="p404" begin="00:25:18.274" end="00:25:19.642" region="bottomCenter">¡No es un niño feliz!</p>
+      <p xml:id="p405" begin="00:25:19.727" end="00:25:22.976" region="bottomCenter">Tortura juguetes…<br/>¡por diversión!</p>
+      <p xml:id="p406" begin="00:25:26.281" end="00:25:28.241" region="bottomCenter">¡Tenemos que hacer algo, rápido!</p>
+      <p xml:id="p407" begin="00:25:29.024" end="00:25:32.265" region="bottomCenter">-¿Qué estás haciendo? ¡Baja de ahí!<br/>-Voy a darle una lección.</p>
+      <p xml:id="p408" begin="00:25:32.350" end="00:25:35.804" region="bottomCenter">Sí, claro, adelante.<br/>Derrítelo con tu láser.</p>
+      <p xml:id="p409" begin="00:25:36.154" end="00:25:38.791" region="bottomCenter">¡Cuidado con mi láser,<br/>es muy peligroso!</p>
+      <p xml:id="p410" begin="00:25:38.876" end="00:25:40.818" region="bottomCenter">Lo está encendiendo,<br/>¡lo encendió!</p>
+      <p xml:id="p411" begin="00:25:41.468" end="00:25:42.468" region="bottomCenter">¡Al suelo!</p>
+      <p xml:id="p412" begin="00:25:42.851" end="00:25:43.851" region="bottomCenter">¡Cuidado!</p>
+      <p xml:id="p413" begin="00:25:46.394" end="00:25:51.691" region="bottomCenter"><span tts:fontStyle="italic">¡Se fue! ¡Se acabó!</span><br/><span tts:fontStyle="italic">¡Qué bonito! ¿Viste eso Scud?</span></p>
+      <p xml:id="p414" begin="00:25:53.723" end="00:25:54.723" region="bottomCenter">Pude detenerlo.</p>
+      <p xml:id="p415" begin="00:25:55.247" end="00:25:58.403" region="bottomCenter">Buzz, me hubiera gustado<br/>verte intentarlo.</p>
+      <p xml:id="p416" begin="00:25:58.795" end="00:26:00.795" region="bottomCenter">Claro, te verías mejor<br/>como cráter.</p>
+      <p xml:id="p417" begin="00:26:01.208" end="00:26:03.505" region="bottomCenter">Entre más rápido nos mudemos, mejor.</p>
+      <p xml:id="p418" begin="00:26:11.810" end="00:26:14.451" region="bottomCenter"><span tts:fontStyle="italic">¡Al infinito y más allá!</span></p>
+      <p xml:id="p419" begin="00:26:16.287" end="00:26:17.905" region="bottomCenter">Tanto empacar<br/>me dio hambre.</p>
+      <p xml:id="p420" begin="00:26:18.021" end="00:26:20.897" region="bottomCenter">¿Qué te parece si vamos<br/>a cenar a… Pizza Planeta?</p>
+      <p xml:id="p421" begin="00:26:20.982" end="00:26:23.615" region="bottomCenter">¿Pizza Planeta? ¡Genial!</p>
+      <p xml:id="p422" begin="00:26:23.919" end="00:26:26.099" region="bottomCenter">Lávate las manos<br/>y yo voy por Molly.</p>
+      <p xml:id="p423" begin="00:26:26.880" end="00:26:29.794" region="bottomCenter"><span tts:fontStyle="italic">-¿Llevo juguetes?</span><br/><span tts:fontStyle="italic">-Que solo sea un juguete.</span></p>
+      <p xml:id="p424" begin="00:26:30.185" end="00:26:31.458" region="bottomCenter"><span tts:fontStyle="italic">¿Solo uno?</span></p>
+      <p xml:id="p425" begin="00:26:31.591" end="00:26:32.903" region="bottomCenter">¿Un juguete?</p>
+      <p xml:id="p426" begin="00:26:38.975" end="00:26:39.975" region="bottomCenter">¿Me llevará a mí?</p>
+      <p xml:id="p427" begin="00:26:44.125" end="00:26:45.508" region="bottomCenter">¿"No cuentes con ello"?</p>
+      <p xml:id="p428" begin="00:27:07.338" end="00:27:11.087" region="bottomCenter">¡Buzz, Buzz!<br/>¡Buzz Lightyear, Buzz Lightyear!</p>
+      <p xml:id="p429" begin="00:27:11.197" end="00:27:13.370" region="bottomCenter">-¡Tenemos problemas!<br/>-¿Cómo? ¿Dónde?</p>
+      <p xml:id="p430" begin="00:27:13.455" end="00:27:16.182" region="bottomCenter">¡Allá abajo, allá!<br/>¡Un juguete indefenso</p>
+      <p xml:id="p431" begin="00:27:16.267" end="00:27:19.041" region="bottomCenter">-está atrapado, Buzz!<br/>-¡No perdamos tiempo!</p>
+      <p xml:id="p432" begin="00:27:26.309" end="00:27:27.309" region="bottomCenter">No veo nada.</p>
+      <p xml:id="p433" begin="00:27:27.832" end="00:27:29.371" region="bottomCenter">Está ahí, ¡sigue buscando!</p>
+      <p xml:id="p434" begin="00:27:29.692" end="00:27:30.751" region="bottomCenter">¿Qué clase de ju…?</p>
+      <p xml:id="p435" begin="00:27:49.574" end="00:27:51.489" region="bottomCenter">¡Cuidado! ¡Buzz!</p>
+      <p xml:id="p436" begin="00:27:53.607" end="00:27:56.990" region="bottomCenter">No lo veo en la entrada.<br/>Creo que cayó en el patio de Sid.</p>
+      <p xml:id="p437" begin="00:27:57.107" end="00:27:58.576" region="bottomCenter">¡Ay, Buzz!</p>
+      <p xml:id="p438" begin="00:28:01.292" end="00:28:04.015" region="bottomCenter">¡Esperen todos!<br/>¡Control quiere decirnos algo!</p>
+      <p xml:id="p439" begin="00:28:04.242" end="00:28:05.352" region="bottomCenter">¿Qué pasa, amigo?</p>
+      <p xml:id="p440" begin="00:28:05.657" end="00:28:07.743" region="bottomCenter">Dice que no fue un accidente.</p>
+      <p xml:id="p441" begin="00:28:08.047" end="00:28:09.142" region="bottomCenter">¿De qué hablas?</p>
+      <p xml:id="p442" begin="00:28:09.227" end="00:28:11.169" region="bottomCenter">¡Al pobre astronauta<br/>lo empujaron!</p>
+      <p xml:id="p443" begin="00:28:11.723" end="00:28:12.833" region="bottomCenter">¡Y fue Woody!</p>
+      <p xml:id="p444" begin="00:28:14.264" end="00:28:17.451" region="bottomCenter">¡Un momento! No creerán<br/>que eché a Buzz por la ventana.</p>
+      <p xml:id="p445" begin="00:28:17.536" end="00:28:19.419" region="bottomCenter">¿Verdad que no?<br/>¡Tío Papa, diles!</p>
+      <p xml:id="p446" begin="00:28:19.504" end="00:28:21.152" region="bottomCenter">¡Señor Cara de Papa para ti,</p>
+      <p xml:id="p447" begin="00:28:21.237" end="00:28:24.600" region="bottomCenter">-asesino, traicionero y malo!<br/>-No, no. ¡Fue un accidente!</p>
+      <p xml:id="p448" begin="00:28:24.685" end="00:28:27.383" region="bottomCenter">En serio, ¡vamos,<br/>tienen que creerme!</p>
+      <p xml:id="p449" begin="00:28:27.531" end="00:28:28.742" region="bottomCenter">Te creemos, Woody.</p>
+      <p xml:id="p450" begin="00:28:30.094" end="00:28:31.094" region="bottomCenter">¿Verdad, Rex?</p>
+      <p xml:id="p451" begin="00:28:31.531" end="00:28:33.555" region="bottomCenter">No… no me gustan<br/>las discusiones.</p>
+      <p xml:id="p452" begin="00:28:33.692" end="00:28:35.398" region="bottomCenter">¿Dónde está tu honor, basura?</p>
+      <p xml:id="p453" begin="00:28:35.483" end="00:28:37.265" region="bottomCenter">¡Eres una completa vergüenza!</p>
+      <p xml:id="p454" begin="00:28:37.350" end="00:28:39.406" region="bottomCenter">¡No te mereces<br/>el respeto de nadie!</p>
+      <p xml:id="p455" begin="00:28:39.491" end="00:28:42.493" region="bottomCenter">No querías que Buzz fuera<br/>otro consentido ¿eh Woody?</p>
+      <p xml:id="p456" begin="00:28:42.578" end="00:28:44.108" region="bottomCenter">No querías aceptar<br/>el hecho de que Buzz</p>
+      <p xml:id="p457" begin="00:28:44.193" end="00:28:46.172" region="bottomCenter">pudiera ser el nuevo<br/>juguete favorito.</p>
+      <p xml:id="p458" begin="00:28:46.618" end="00:28:47.854" region="bottomCenter">¡Te deshiciste de él!</p>
+      <p xml:id="p459" begin="00:28:48.023" end="00:28:50.613" region="bottomCenter">¿Qué tal si Andy<br/>empieza a jugar conmigo, eh?</p>
+      <p xml:id="p460" begin="00:28:50.698" end="00:28:52.665" region="bottomCenter">¿Vas a echarme<br/>por la ventana también?</p>
+      <p xml:id="p461" begin="00:28:52.750" end="00:28:54.625" region="bottomCenter">No hay que darle<br/>la oportunidad.</p>
+      <p xml:id="p462" begin="00:28:55.078" end="00:28:57.336" region="bottomCenter">¡Ahí está, muchachos!<br/>¡Acaben con él!</p>
+      <p xml:id="p463" begin="00:28:57.996" end="00:28:59.702" region="bottomCenter">¡Vamos a colgarlo de su hilo!</p>
+      <p xml:id="p464" begin="00:29:00.083" end="00:29:01.700" region="bottomCenter">¡Que no escape! ¡Atrápenlo!</p>
+      <p xml:id="p465" begin="00:29:02.224" end="00:29:04.123" region="bottomCenter">¡No, no, no!<br/>¡Esperen, por favor!</p>
+      <p xml:id="p466" begin="00:29:04.208" end="00:29:05.325" region="bottomCenter">¡Puedo explicarlo!</p>
+      <p xml:id="p467" begin="00:29:05.835" end="00:29:07.921" region="bottomCenter"><span tts:fontStyle="italic">¡Ahora voy! Iré por Buzz.</span></p>
+      <p xml:id="p468" begin="00:29:14.025" end="00:29:15.650" region="bottomCenter">Mamá, ¿dónde quedó Buzz?</p>
+      <p xml:id="p469" begin="00:29:15.892" end="00:29:17.447" region="bottomCenter"><span tts:fontStyle="italic">No sé, no lo he visto.</span></p>
+      <p xml:id="p470" begin="00:29:20.194" end="00:29:22.179" region="bottomCenter"><span tts:fontStyle="italic">Andy, ya estoy en la puerta.</span></p>
+      <p xml:id="p471" begin="00:29:22.407" end="00:29:23.907" region="bottomCenter">Mamá, no lo encuentro.</p>
+      <p xml:id="p472" begin="00:29:24.173" end="00:29:26.127" region="bottomCenter"><span tts:fontStyle="italic">Bueno, trae otro juguete,</span><br/><span tts:fontStyle="italic">¡anda!</span></p>
+      <p xml:id="p473" begin="00:29:26.212" end="00:29:27.844" region="bottomCenter">Ah, está bien.</p>
+      <p xml:id="p474" begin="00:29:33.288" end="00:29:34.991" region="bottomCenter">No encontré a mi Buzz.</p>
+      <p xml:id="p475" begin="00:29:35.297" end="00:29:36.705" region="bottomCenter">¡Sé que lo dejé allí!</p>
+      <p xml:id="p476" begin="00:29:36.790" end="00:29:39.383" region="bottomCenter"><span tts:fontStyle="italic">Hijo, tiene que estar por ahí.</span><br/><span tts:fontStyle="italic">Ya aparecerá.</span></p>
+      <p xml:id="p477" begin="00:29:53.808" end="00:29:56.464" region="bottomCenter">¡Demasiado corto!<br/>Necesito más monos.</p>
+      <p xml:id="p478" begin="00:29:56.566" end="00:29:59.112" region="bottomCenter">Ya no hay más,<br/>se vació el barril.</p>
+      <p xml:id="p479" begin="00:30:01.012" end="00:30:05.387" region="bottomCenter">¡Buzz, los monos no funcionan!<br/>¡Pensaremos en otro plan!</p>
+      <p xml:id="p480" begin="00:30:05.512" end="00:30:06.989" region="bottomCenter">¡Ten calma!</p>
+      <p xml:id="p481" begin="00:30:07.373" end="00:30:09.060" region="bottomCenter">¿Dónde podrá estar?</p>
+      <p xml:id="p482" begin="00:30:20.384" end="00:30:23.916" region="bottomCenter">-¿Ayudo a poner gasolina?<br/>-¡Claro, hasta te dejaré conducir!</p>
+      <p xml:id="p483" begin="00:30:24.025" end="00:30:25.955" region="bottomCenter">-¿Sí?<br/>-¡Claro! Cuando tengas 16.</p>
+      <p xml:id="p484" begin="00:30:26.056" end="00:30:27.806" region="bottomCenter">Ja-ja, ¡qué graciosa!</p>
+      <p xml:id="p485" begin="00:30:28.126" end="00:30:30.928" region="bottomCenter">¡Ah, genial!<br/>¿Cómo voy a convencer a todos</p>
+      <p xml:id="p486" begin="00:30:31.013" end="00:30:32.583" region="bottomCenter">de que fue un accidente?</p>
+      <p xml:id="p487" begin="00:30:36.431" end="00:30:37.431" region="bottomCenter">¿Buzz?</p>
+      <p xml:id="p488" begin="00:30:39.822" end="00:30:40.822" region="bottomCenter">¡Buzz!</p>
+      <p xml:id="p489" begin="00:30:41.556" end="00:30:43.408" region="bottomCenter">¡Estás vivo! ¡Ah, qué bueno!</p>
+      <p xml:id="p490" begin="00:30:44.361" end="00:30:45.906" region="bottomCenter">¡Ya me salvé,<br/>ya me salvé!</p>
+      <p xml:id="p491" begin="00:30:45.994" end="00:30:47.120" region="bottomCenter">Andy te encontrará,</p>
+      <p xml:id="p492" begin="00:30:47.205" end="00:30:49.322" region="bottomCenter">nos llevará a su cuarto y tú</p>
+      <p xml:id="p493" begin="00:30:49.471" end="00:30:53.650" region="bottomCenter">¡le dirás a todos<br/>que esto solamente fue un gran error!</p>
+      <p xml:id="p494" begin="00:30:53.908" end="00:30:56.611" region="bottomCenter">¿Eh? ¿Amigo? ¿Amigo…?</p>
+      <p xml:id="p495" begin="00:30:56.696" end="00:30:59.873" region="bottomCenter">Solo quiero decirte que,<br/>aunque trataste de eliminarme,</p>
+      <p xml:id="p496" begin="00:30:59.958" end="00:31:03.220" region="bottomCenter">la venganza no es un concepto<br/>que practicamos en mi planeta.</p>
+      <p xml:id="p497" begin="00:31:03.305" end="00:31:04.266" region="bottomCenter">¡Oh, qué bueno!</p>
+      <p xml:id="p498" begin="00:31:04.752" end="00:31:07.666" region="bottomCenter">-Pero no estamos en mi planeta, ¿verdad?<br/>-No…</p>
+      <p xml:id="p499" begin="00:31:15.484" end="00:31:16.976" region="bottomCenter">¡Está bien! ¡Vamos!</p>
+      <p xml:id="p500" begin="00:31:17.273" end="00:31:18.744" region="bottomCenter">¿Quieres pelear<br/>contra mí?</p>
+      <p xml:id="p501" begin="00:31:26.024" end="00:31:27.883" region="bottomCenter"><span tts:fontStyle="italic">¡Buzz Lightyear</span><br/><span tts:fontStyle="italic">al rescate!</span></p>
+      <p xml:id="p502" begin="00:31:28.804" end="00:31:31.210" region="bottomCenter"><span tts:fontStyle="italic">-¿Y ahora?</span><br/><span tts:fontStyle="italic">-¡Pizza Planeta, sí!</span></p>
+      <p xml:id="p503" begin="00:31:34.546" end="00:31:35.546" region="bottomCenter">¡Andy!</p>
+      <p xml:id="p504" begin="00:31:44.747" end="00:31:46.867" region="bottomCenter">¡No se da cuenta<br/>de que no estoy ahí!</p>
+      <p xml:id="p505" begin="00:31:48.803" end="00:31:49.827" region="bottomCenter">¡Estoy perdido!</p>
+      <p xml:id="p506" begin="00:31:51.975" end="00:31:54.061" region="bottomCenter">¡Soy un jugueteperdido!</p>
+      <p xml:id="p507" begin="00:31:59.134" end="00:32:02.249" region="bottomCenter">Bitácora de Buzz Lightyear.<br/>El comisario local y yo estamos</p>
+      <p xml:id="p508" begin="00:32:02.334" end="00:32:04.145" region="bottomCenter">en un enorme bastecimiento<br/>de combustible.</p>
+      <p xml:id="p509" begin="00:32:04.230" end="00:32:05.230" region="bottomCenter">¡Tú!</p>
+      <p xml:id="p510" begin="00:32:26.234" end="00:32:30.038" region="bottomCenter">-Según mi navecomputadora…<br/>-¡Cállate! ¡Cállate, tonto!</p>
+      <p xml:id="p511" begin="00:32:30.123" end="00:32:31.947" region="bottomCenter">Comisario, tienes que calmarte.</p>
+      <p xml:id="p512" begin="00:32:32.032" end="00:32:33.738" region="bottomCenter">¡No es el momento<br/>de calmarme!</p>
+      <p xml:id="p513" begin="00:32:33.823" end="00:32:35.412" region="bottomCenter">Estoy perdido,<br/>Andy no está, se van</p>
+      <p xml:id="p514" begin="00:32:35.497" end="00:32:36.901" region="bottomCenter">a mudar de la casa<br/>en dos días</p>
+      <p xml:id="p515" begin="00:32:36.986" end="00:32:39.147" region="bottomCenter">-y es tu culpa!<br/>-¿Mi… mi culpa?</p>
+      <p xml:id="p516" begin="00:32:39.234" end="00:32:41.282" region="bottomCenter">De no haberme echado<br/>por la ventana, nada…</p>
+      <p xml:id="p517" begin="00:32:41.367" end="00:32:42.582" region="bottomCenter">¡Ah, cómo no!</p>
+      <p xml:id="p518" begin="00:32:42.667" end="00:32:44.011" region="bottomCenter">¡Pero si tú<br/>no hubieras llegado</p>
+      <p xml:id="p519" begin="00:32:44.096" end="00:32:45.803" region="bottomCenter">en tu tonta navecita<br/>de cartón</p>
+      <p xml:id="p520" begin="00:32:45.888" end="00:32:47.628" region="bottomCenter">para quitarme todo lo que<br/>era importante para mí!</p>
+      <p xml:id="p521" begin="00:32:47.713" end="00:32:48.934" region="bottomCenter">No me hables<br/>de lo importante.</p>
+      <p xml:id="p522" begin="00:32:49.019" end="00:32:52.374" region="bottomCenter">¡Por ti, la seguridad de todo<br/>el universo está en peligro!</p>
+      <p xml:id="p523" begin="00:32:52.459" end="00:32:54.699" region="bottomCenter">¿Qué?<br/>¿De qué estás hablando?</p>
+      <p xml:id="p524" begin="00:32:54.784" end="00:32:56.707" region="bottomCenter">Ubicado en la orilla<br/>de la galaxia,</p>
+      <p xml:id="p525" begin="00:32:56.792" end="00:32:58.908" region="bottomCenter">el emperador Zurg<br/>ha estado fabricando en secreto</p>
+      <p xml:id="p526" begin="00:32:58.993" end="00:33:02.472" region="bottomCenter">un arma con la capacidad destructiva<br/>¡para aniquilar todo el planeta!</p>
+      <p xml:id="p527" begin="00:33:02.557" end="00:33:06.793" region="bottomCenter">Solo yo tengo información que revela<br/>la única falla de esa horrenda arma.</p>
+      <p xml:id="p528" begin="00:33:06.878" end="00:33:08.761" region="bottomCenter">Y tú, amigo mío,<br/>eres responsable</p>
+      <p xml:id="p529" begin="00:33:08.846" end="00:33:11.435" region="bottomCenter">de demorar mi reunión<br/>con el Comando Estelar.</p>
+      <p xml:id="p530" begin="00:33:12.893" end="00:33:16.160" region="bottomCenter">¡Tú eres un juguete!</p>
+      <p xml:id="p531" begin="00:33:16.245" end="00:33:18.730" region="bottomCenter">¡No eres el verdadero<br/>Buzz Lightyear!</p>
+      <p xml:id="p532" begin="00:33:18.815" end="00:33:23.510" region="bottomCenter">¡Eres un personaje ficticio,<br/>eres un juguete para niños!</p>
+      <p xml:id="p533" begin="00:33:24.291" end="00:33:28.705" region="bottomCenter">Tú eres un triste y extraño hombrecillo<br/>y te tengo lástima. Adiós.</p>
+      <p xml:id="p534" begin="00:33:29.299" end="00:33:31.627" region="bottomCenter">¿Ah sí?<br/>¡Pues vete al cuerno, demente!</p>
+      <p xml:id="p535" begin="00:33:32.930" end="00:33:34.731" region="bottomCenter">Reunión con el<br/>Comando Estelar.</p>
+      <p xml:id="p536" begin="00:33:36.320" end="00:33:38.851" region="bottomCenter"><span tts:fontStyle="italic">-Oye, amigo.</span><br/><span tts:fontStyle="italic">-¿Me hablas a mí?</span></p>
+      <p xml:id="p537" begin="00:33:39.091" end="00:33:41.231" region="bottomCenter">"Pizza Planeta"… ¡Andy!</p>
+      <p xml:id="p538" begin="00:33:43.184" end="00:33:44.184" region="bottomCenter">¡Oh no!</p>
+      <p xml:id="p539" begin="00:33:44.569" end="00:33:46.687" region="bottomCenter">No puedo entrar<br/>a su cuarto sin Buzz.</p>
+      <p xml:id="p540" begin="00:33:47.692" end="00:33:50.567" region="bottomCenter">-¡Buzz! ¡Buzz, regresa!<br/>-¡No fastidies!</p>
+      <p xml:id="p541" begin="00:33:51.083" end="00:33:53.637" region="bottomCenter">¡No, Buzz!<br/>¡Tienes que regresar!</p>
+      <p xml:id="p542" begin="00:33:55.911" end="00:33:57.668" region="bottomCenter">¡Encontré una nave espacial!</p>
+      <p xml:id="p543" begin="00:33:59.895" end="00:34:01.598" region="bottomCenter">¡Es una nave espacial, Buzz!</p>
+      <p xml:id="p544" begin="00:34:03.975" end="00:34:05.484" region="bottomCenter"><span tts:fontStyle="italic">¡Vamos amigo,</span><br/><span tts:fontStyle="italic">date prisa!</span></p>
+      <p xml:id="p545" begin="00:34:05.569" end="00:34:07.515" region="bottomCenter"><span tts:fontStyle="italic">¡Las pizzas se me</span><br/><span tts:fontStyle="italic">están enfriando!</span></p>
+      <p xml:id="p546" begin="00:34:07.631" end="00:34:10.475" region="bottomCenter"><span tts:fontStyle="italic">-¿Bulevar Cortante, dijiste?</span><br/><span tts:fontStyle="italic">-Sí, sí, al este.</span></p>
+      <p xml:id="p547" begin="00:34:10.906" end="00:34:12.839" region="bottomCenter">¿Estás seguro de que<br/>el carguero especial regresa</p>
+      <p xml:id="p548" begin="00:34:12.924" end="00:34:15.211" region="bottomCenter">al puerto de origen<br/>en cunato entregue las provisiones?</p>
+      <p xml:id="p549" begin="00:34:15.296" end="00:34:17.281" region="bottomCenter">Ajá, y cuando lleguemos</p>
+      <p xml:id="p550" begin="00:34:17.366" end="00:34:20.368" region="bottomCenter">podremos encontrar el modo<br/>de enviarte a tu planeta.</p>
+      <p xml:id="p551" begin="00:34:20.895" end="00:34:23.837" region="bottomCenter">-Entonces ¡vamos a abordar!<br/>-¡No, no, espera, Buzz!</p>
+      <p xml:id="p552" begin="00:34:24.548" end="00:34:26.556" region="bottomCenter">Subamos atrás,<br/>nadie nos verá ahí!.</p>
+      <p xml:id="p553" begin="00:34:26.641" end="00:34:28.434" region="bottomCenter">Negativo.<br/>No hay cinturones de seguridad</p>
+      <p xml:id="p554" begin="00:34:28.519" end="00:34:30.722" region="bottomCenter">en el área de carga,<br/>es más seguro en la cabina.</p>
+      <p xml:id="p555" begin="00:34:31.269" end="00:34:32.269" region="bottomCenter">Sí pero…</p>
+      <p xml:id="p556" begin="00:34:32.759" end="00:34:34.456" region="bottomCenter">¡Buzz! ¡Buzz!</p>
+      <p xml:id="p557" begin="00:34:34.541" end="00:34:36.130" region="bottomCenter"><span tts:fontStyle="italic">Si siguesmis instrucciones,</span></p>
+      <p xml:id="p558" begin="00:34:36.215" end="00:34:38.980" region="bottomCenter"><span tts:fontStyle="italic">no tienes por qué perderte.</span><br/><span tts:fontStyle="italic">Es muy fácil llegar.</span></p>
+      <p xml:id="p559" begin="00:34:45.702" end="00:34:47.084" region="bottomCenter"><span tts:fontStyle="italic">¡Que tengas buen viaje!</span></p>
+      <p xml:id="p560" begin="00:34:48.307" end="00:34:49.307" region="bottomCenter"><span tts:fontStyle="italic">Muchas gracias.</span></p>
+      <p xml:id="p561" begin="00:34:49.392" end="00:34:51.687" region="bottomCenter"><span tts:fontStyle="italic">cuando quieras una</span><br/><span tts:fontStyle="italic">pizza cuenta conmigo.</span></p>
+      <p xml:id="p562" begin="00:34:51.772" end="00:34:53.015" region="bottomCenter"><span tts:fontStyle="italic">¡Lo tomaré en cuenta!</span></p>
+      <p xml:id="p563" begin="00:34:53.100" end="00:34:56.709" region="bottomCenter">Más seguro en la cabina que en<br/>la sección de carga ¡qué tonto!</p>
+      <p xml:id="p564" begin="00:35:21.049" end="00:35:24.541" region="bottomCenter"><span tts:fontStyle="italic">Próximo despegue</span><br/><span tts:fontStyle="italic">a las T menos 20 minutos y contando.</span></p>
+      <p xml:id="p565" begin="00:35:29.973" end="00:35:31.341" region="bottomCenter"><span tts:fontStyle="italic">Permiso para abordar.</span></p>
+      <p xml:id="p566" begin="00:35:37.772" end="00:35:38.772" region="bottomCenter">¿Comisario?</p>
+      <p xml:id="p567" begin="00:35:40.115" end="00:35:41.220" region="bottomCenter">¡Ah, ahí estás!</p>
+      <p xml:id="p568" begin="00:35:42.615" end="00:35:45.362" region="bottomCenter">Ahora lo interesante<br/>es que no nos descubran.</p>
+      <p xml:id="p569" begin="00:35:47.209" end="00:35:49.998" region="bottomCenter">¡Bien pensado, Woody!<br/>Me gusta tu ingenio.</p>
+      <p xml:id="p570" begin="00:35:52.323" end="00:35:55.182" region="bottomCenter"><span tts:fontStyle="italic">Pueden pasar.</span><br/><span tts:fontStyle="italic">Permiso para abordar.</span></p>
+      <p xml:id="p571" begin="00:35:55.296" end="00:35:56.296" region="bottomCenter">¡Ahora!</p>
+      <p xml:id="p572" begin="00:35:56.490" end="00:35:58.500" region="bottomCenter">¡Rápido, comisario, la<br/>compuerta se cierra!</p>
+      <p xml:id="p573" begin="00:36:05.873" end="00:36:07.615" region="bottomCenter">-¡Ten más cuidado!<br/>-¡Perdón!</p>
+      <p xml:id="p574" begin="00:36:12.251" end="00:36:17.087" region="bottomCenter"><span tts:fontStyle="italic">¡Hay muchos juegos nuevos, mamá!</span><br/><span tts:fontStyle="italic">Déjame probar uno y nos iremos a casa.</span></p>
+      <p xml:id="p575" begin="00:36:24.254" end="00:36:26.137" region="bottomCenter">¡Qué plataforma!</p>
+      <p xml:id="p576" begin="00:36:26.512" end="00:36:27.512" region="bottomCenter">¡Muy bien, Woody!</p>
+      <p xml:id="p577" begin="00:36:33.000" end="00:36:36.047" region="bottomCenter">¡Toma! ¡Toma!</p>
+      <p xml:id="p578" begin="00:36:36.242" end="00:36:39.481" region="bottomCenter"><span tts:fontStyle="italic">Mamá, ¿puedo jugar al hoyo negro?</span><br/><span tts:fontStyle="italic">¡Por favor, por favor!</span></p>
+      <p xml:id="p579" begin="00:36:40.380" end="00:36:42.545" region="bottomCenter">Tenemos que encontrar una nave<br/>que vaya al Sector 19…</p>
+      <p xml:id="p580" begin="00:36:42.630" end="00:36:44.117" region="bottomCenter">¡No, espera Buzz!<br/>¡Por aquí!</p>
+      <p xml:id="p581" begin="00:36:44.770" end="00:36:46.327" region="bottomCenter">Una nave espacial,<br/>¡la acabo de ver!</p>
+      <p xml:id="p582" begin="00:36:46.538" end="00:36:47.730" region="bottomCenter">¿De hiperpropulsión?</p>
+      <p xml:id="p583" begin="00:36:48.801" end="00:36:50.371" region="bottomCenter">Propulsión hiperactiva y…</p>
+      <p xml:id="p584" begin="00:36:50.950" end="00:36:53.106" region="bottomCenter">y eh… astro… ¡pasto!</p>
+      <p xml:id="p585" begin="00:36:53.805" end="00:36:56.641" region="bottomCenter">¿Dónde está? No la veo…<br/>¡Oh, una nave!</p>
+      <p xml:id="p586" begin="00:36:59.954" end="00:37:01.359" region="bottomCenter">Ahora, Buzz: prepárate…</p>
+      <p xml:id="p587" begin="00:37:01.969" end="00:37:02.969" region="bottomCenter">y…</p>
+      <p xml:id="p588" begin="00:37:03.878" end="00:37:06.585" region="bottomCenter">ahora, cuando diga "ya"<br/>saltamos a la carriola…</p>
+      <p xml:id="p589" begin="00:37:13.621" end="00:37:15.144" region="bottomCenter">¡Esto no puede pasarme!</p>
+      <p xml:id="p590" begin="00:37:25.259" end="00:37:27.032" region="bottomCenter">¡Un extraño! ¡De fuera!</p>
+      <p xml:id="p591" begin="00:37:28.992" end="00:37:33.352" region="bottomCenter">¡Saludos! Soy Buzz Lightyear,<br/>¡vengo en paz!</p>
+      <p xml:id="p592" begin="00:37:33.686" end="00:37:35.157" region="bottomCenter">¡Dinos cómo es<br/>tu planeta!</p>
+      <p xml:id="p593" begin="00:37:44.760" end="00:37:46.643" region="bottomCenter"><span tts:fontStyle="italic">Es una emergencia</span><br/><span tts:fontStyle="italic">intergaláctica.</span></p>
+      <p xml:id="p594" begin="00:37:46.728" end="00:37:48.777" region="bottomCenter"><span tts:fontStyle="italic">Necesito confiscar su nave.</span></p>
+      <p xml:id="p595" begin="00:37:48.956" end="00:37:50.147" region="bottomCenter">¿Quién está a cargo?</p>
+      <p xml:id="p596" begin="00:37:51.637" end="00:37:54.112" region="bottomCenter">¡La Garra!</p>
+      <p xml:id="p597" begin="00:37:56.619" end="00:37:59.909" region="bottomCenter">Es nuestro amo.<br/>Dice quién se queda y quién se va.</p>
+      <p xml:id="p598" begin="00:38:00.174" end="00:38:01.487" region="bottomCenter">¡Esto es inaudito!</p>
+      <p xml:id="p599" begin="00:38:01.580" end="00:38:03.838" region="bottomCenter">Oye, <span tts:fontStyle="italic">bozo</span>, ¿tienes cerebro ahí?</p>
+      <p xml:id="p600" begin="00:38:05.208" end="00:38:08.817" region="bottomCenter">¡Toma, toma!<br/>¡Ah, qué porquería!</p>
+      <p xml:id="p601" begin="00:38:09.919" end="00:38:10.919" region="bottomCenter">¡Abajo!</p>
+      <p xml:id="p602" begin="00:38:13.499" end="00:38:14.617" region="bottomCenter">¿Qué te pasa, Woody?<br/>Iba a…</p>
+      <p xml:id="p603" begin="00:38:14.702" end="00:38:17.179" region="bottomCenter">Tú decidiste subirte<br/>a esta porquería de…</p>
+      <p xml:id="p604" begin="00:38:17.264" end="00:38:19.317" region="bottomCenter">La Garra, se mueve.</p>
+      <p xml:id="p605" begin="00:38:24.723" end="00:38:26.176" region="bottomCenter">¡He sido elegido!</p>
+      <p xml:id="p606" begin="00:38:27.161" end="00:38:30.114" region="bottomCenter">¡Adiós, amigos!<br/>¡Me voy a un lugar mejor!</p>
+      <p xml:id="p607" begin="00:38:30.489" end="00:38:31.825" region="bottomCenter">¡Te atrapé!</p>
+      <p xml:id="p608" begin="00:38:34.514" end="00:38:37.420" region="bottomCenter">¿Un Buzz Lightyear?<br/>¡No puede ser!</p>
+      <p xml:id="p609" begin="00:38:54.052" end="00:38:55.052" region="bottomCenter"><span tts:fontStyle="italic">¡Sí!</span></p>
+      <p xml:id="p610" begin="00:38:55.356" end="00:38:56.527" region="bottomCenter">¡Buzz! ¡No!</p>
+      <p xml:id="p611" begin="00:38:58.807" end="00:38:59.807" region="bottomCenter">¡Oye!</p>
+      <p xml:id="p612" begin="00:39:02.377" end="00:39:04.377" region="bottomCenter">¡Lo escogieron! ¡Debe irse!</p>
+      <p xml:id="p613" begin="00:39:05.213" end="00:39:08.682" region="bottomCenter">¡Basta, basta!<br/>¡Fanáticos, basta! ¡No!</p>
+      <p xml:id="p614" begin="00:39:12.558" end="00:39:14.714" region="bottomCenter">¡Muy bien, premios dobles!</p>
+      <p xml:id="p615" begin="00:39:17.651" end="00:39:20.401" region="bottomCenter">Vamos a casa a jugar.</p>
+      <p xml:id="p616" begin="00:39:34.958" end="00:39:36.974" region="bottomCenter">Comisario, puedo ver<br/>tu casa desde aquí.</p>
+      <p xml:id="p617" begin="00:39:37.059" end="00:39:38.083" region="bottomCenter">Ya vas a llegar.</p>
+      <p xml:id="p618" begin="00:39:38.168" end="00:39:41.663" region="bottomCenter">-¡Viene el nirvana! ¡El portal místico!<br/>-¡Te quieres callar!</p>
+      <p xml:id="p619" begin="00:39:41.770" end="00:39:43.360" region="bottomCenter">No entienden nada, ¿verdad?</p>
+      <p xml:id="p620" begin="00:39:43.445" end="00:39:44.982" region="bottomCenter">Si entramos a casa de Sid,</p>
+      <p xml:id="p621" begin="00:39:45.067" end="00:39:46.365" region="bottomCenter">¡nunca saldremos!</p>
+      <p xml:id="p622" begin="00:39:48.034" end="00:39:51.081" region="bottomCenter"><span tts:fontStyle="italic">¡Ey, Scud, ven acá,</span><br/><span tts:fontStyle="italic">tengo algo para ti!</span></p>
+      <p xml:id="p623" begin="00:39:52.644" end="00:39:54.403" region="bottomCenter">-¡Quietos!<br/>-<span tts:fontStyle="italic">¡Mira qué bonito!</span></p>
+      <p xml:id="p624" begin="00:39:54.488" end="00:39:56.184" region="bottomCenter"><span tts:fontStyle="italic">¡Puedes triturarlo!</span></p>
+      <p xml:id="p625" begin="00:39:56.269" end="00:39:58.839" region="bottomCenter"><span tts:fontStyle="italic">Listo… listo… ¡ahora!</span></p>
+      <p xml:id="p626" begin="00:40:00.451" end="00:40:03.489" region="bottomCenter">-Hannah… ¡Oye Hannah!<br/>-¿Qué?</p>
+      <p xml:id="p627" begin="00:40:03.677" end="00:40:05.709" region="bottomCenter">-¿Llegó el cartero con mi paquete?<br/>-No sé.</p>
+      <p xml:id="p628" begin="00:40:05.794" end="00:40:09.223" region="bottomCenter">-¿Cómo que no sabes?<br/>-¡No lo sé!</p>
+      <p xml:id="p629" begin="00:40:09.544" end="00:40:11.685" region="bottomCenter">-¡Oh no, Hannah!<br/>-¿Qué?</p>
+      <p xml:id="p630" begin="00:40:11.990" end="00:40:13.529" region="bottomCenter">-¡Mira a Janie!<br/>-¿Qué?</p>
+      <p xml:id="p631" begin="00:40:13.701" end="00:40:15.467" region="bottomCenter">-¡Está enferma!<br/>-¡No es cierto!</p>
+      <p xml:id="p632" begin="00:40:15.600" end="00:40:18.577" region="bottomCenter"><span tts:fontStyle="italic">-¡No la toques! ¡Oye, dámela!</span><br/><span tts:fontStyle="italic">-Tengo que hacerle una auscultación.</span></p>
+      <p xml:id="p633" begin="00:40:18.662" end="00:40:19.959" region="bottomCenter">¡A su cuarto no!</p>
+      <p xml:id="p634" begin="00:40:21.877" end="00:40:24.642" region="bottomCenter">¡Una operación espectacular!</p>
+      <p xml:id="p635" begin="00:40:26.666" end="00:40:28.289" region="bottomCenter"><span tts:fontStyle="italic">¡Sid, dame mi muñeca!</span></p>
+      <p xml:id="p636" begin="00:40:28.374" end="00:40:31.335" region="bottomCenter">Vamos a ver.<br/>¡Hay que prepararla!</p>
+      <p xml:id="p637" begin="00:40:32.781" end="00:40:34.234" region="bottomCenter">Paciente lista.</p>
+      <p xml:id="p638" begin="00:40:35.755" end="00:40:40.411" region="bottomCenter">Nadie ha hecho un trasplante<br/>doble de cerebro con puenteo.</p>
+      <p xml:id="p639" begin="00:40:41.677" end="00:40:44.286" region="bottomCenter">¡Le pondremos esta cabeza!</p>
+      <p xml:id="p640" begin="00:40:44.495" end="00:40:47.378" region="bottomCenter">Dudo mucho que haya ido<br/>a la facultad de medicina.</p>
+      <p xml:id="p641" begin="00:40:49.372" end="00:40:51.122" region="bottomCenter">¡Doctor, lo logró!</p>
+      <p xml:id="p642" begin="00:40:51.856" end="00:40:54.138" region="bottomCenter">-<span tts:fontStyle="italic">¡Te voy a acusar!</span><br/>-¡Hannah…!</p>
+      <p xml:id="p643" begin="00:40:55.153" end="00:40:56.575" region="bottomCenter">¿Janie ya está mejor?</p>
+      <p xml:id="p644" begin="00:40:57.828" end="00:40:59.938" region="bottomCenter"><span tts:fontStyle="italic">¡Mamá, mira lo que hizo Sid!</span></p>
+      <p xml:id="p645" begin="00:41:00.172" end="00:41:03.352" region="bottomCenter">¡No es cierto!<br/>¡Lo que te diga no es cierto!</p>
+      <p xml:id="p646" begin="00:41:16.354" end="00:41:17.354" region="bottomCenter">Vamos a morir.</p>
+      <p xml:id="p647" begin="00:41:17.830" end="00:41:18.948" region="bottomCenter">¡Yo me voy de aquí!</p>
+      <p xml:id="p648" begin="00:41:23.026" end="00:41:24.026" region="bottomCenter">¡Cerrado!</p>
+      <p xml:id="p649" begin="00:41:25.392" end="00:41:26.985" region="bottomCenter">Tiene que haber<br/>otra salida.</p>
+      <p xml:id="p650" begin="00:41:39.952" end="00:41:42.209" region="bottomCenter">¿Buzz…? ¿Fuiste tú?</p>
+      <p xml:id="p651" begin="00:41:51.755" end="00:41:53.528" region="bottomCenter">¡Ah, hola pequeñito!</p>
+      <p xml:id="p652" begin="00:41:54.364" end="00:41:56.424" region="bottomCenter">Ven acá, ¿por dónde<br/>puedo salir, eh?</p>
+      <p xml:id="p653" begin="00:42:25.653" end="00:42:29.176" region="bottomCenter">¡Bu-Bu-Buzz!</p>
+      <p xml:id="p654" begin="00:42:40.995" end="00:42:42.182" region="bottomCenter">¡Son caníbales!</p>
+      <p xml:id="p655" begin="00:42:46.028" end="00:42:49.676" region="bottomCenter"><span tts:fontStyle="italic">¡Mayday, mayday,</span> Comando Estelar,<br/>contesten, envíen refuerzos!</p>
+      <p xml:id="p656" begin="00:42:49.761" end="00:42:51.341" region="bottomCenter">¡Comando Estelar!<br/>¿Me escuchan?</p>
+      <p xml:id="p657" begin="00:42:52.559" end="00:42:54.785" region="bottomCenter">Cambié mi láser<br/>de golpear a matar.</p>
+      <p xml:id="p658" begin="00:42:55.035" end="00:42:56.035" region="bottomCenter">¡Ah qué bien!</p>
+      <p xml:id="p659" begin="00:42:56.120" end="00:42:59.063" region="bottomCenter">¡Y si alguien nos ataca,<br/>los matamos con lucecitas!</p>
+      <p xml:id="p660" begin="00:43:02.783" end="00:43:06.189" region="bottomCenter">¡Muchachos, ya lo encontré!<br/>¿Buzz, eres tú?</p>
+      <p xml:id="p661" begin="00:43:07.658" end="00:43:11.517" region="bottomCenter">¡Bigotes! ¡Vete de aquí,<br/>interfieres con mi rescate!</p>
+      <p xml:id="p662" begin="00:43:14.025" end="00:43:15.392" region="bottomCenter">¡Mira, ahí están!</p>
+      <p xml:id="p663" begin="00:43:21.134" end="00:43:24.136" region="bottomCenter"><span tts:fontStyle="italic">-Mamá, ¿has visto a Woody?</span><br/><span tts:fontStyle="italic">-¿Dónde lo dejaste, hijo?</span></p>
+      <p xml:id="p664" begin="00:43:24.375" end="00:43:25.507" region="bottomCenter"><span tts:fontStyle="italic">¡Lo dejé aquí!</span></p>
+      <p xml:id="p665" begin="00:43:25.757" end="00:43:28.406" region="bottomCenter"><span tts:fontStyle="italic">Tiene que estar ahí,</span><br/><span tts:fontStyle="italic">tienes que buscarlo bien.</span></p>
+      <p xml:id="p666" begin="00:43:28.500" end="00:43:30.844" region="bottomCenter"><span tts:fontStyle="italic">No está, mamá.</span><br/><span tts:fontStyle="italic">¡Woody no está!</span></p>
+      <p xml:id="p667" begin="00:43:31.335" end="00:43:33.436" region="bottomCenter">¡Oh! ¿Woody no está?</p>
+      <p xml:id="p668" begin="00:43:33.546" end="00:43:35.539" region="bottomCenter">¡Sí, el muy cobarde<br/>se escondió!</p>
+      <p xml:id="p669" begin="00:43:35.624" end="00:43:37.675" region="bottomCenter">¿Eh, eh?<br/>¡Te dije que era culpable!</p>
+      <p xml:id="p670" begin="00:43:37.760" end="00:43:40.752" region="bottomCenter">¡Quién diría que era capaz<br/>de semejante atrocidad!</p>
+      <p xml:id="p671" begin="00:43:43.627" end="00:43:46.385" region="bottomCenter">¡Oh, Slink!<br/>¡Espero que esté bien!</p>
+      <p xml:id="p672" begin="00:43:49.651" end="00:43:54.308" region="bottomCenter">¡Ah, un sobreviviente!<br/>¿Dónde está la base rebelde? ¡Habla!</p>
+      <p xml:id="p673" begin="00:43:56.726" end="00:43:58.617" region="bottomCenter">Veo que tu voluntad es fuerte.</p>
+      <p xml:id="p674" begin="00:44:00.688" end="00:44:03.481" region="bottomCenter">Bien, tengo métodos<br/>para hacerte hablar.</p>
+      <p xml:id="p675" begin="00:44:13.731" end="00:44:16.794" region="bottomCenter">¿Dónde están tus amigos?<br/>¡Dilo ya!</p>
+      <p xml:id="p676" begin="00:44:17.857" end="00:44:19.802" region="bottomCenter"><span tts:fontStyle="italic">¡Sid, tus Pop Tarts</span><br/><span tts:fontStyle="italic">están listos!</span></p>
+      <p xml:id="p677" begin="00:44:20.092" end="00:44:21.459" region="bottomCenter">¡Oh, fantástico!</p>
+      <p xml:id="p678" begin="00:44:33.528" end="00:44:34.528" region="bottomCenter">¿Estás bien?</p>
+      <p xml:id="p679" begin="00:44:35.262" end="00:44:38.255" region="bottomCenter">Te felicito, Comisario.<br/>Otro hubiera hablado con esa tortura.</p>
+      <p xml:id="p680" begin="00:44:39.552" end="00:44:41.294" region="bottomCenter">Espero que no sea permanente.</p>
+      <p xml:id="p681" begin="00:44:41.903" end="00:44:43.329" region="bottomCenter">No hay noticias<br/>del Comando Estelar,</p>
+      <p xml:id="p682" begin="00:44:43.414" end="00:44:45.826" region="bottomCenter">-no estamos lejos del puerto.<br/>-¡La puerta!</p>
+      <p xml:id="p683" begin="00:44:46.115" end="00:44:47.704" region="bottomCenter">¡Está abierta,<br/>somos libres!</p>
+      <p xml:id="p684" begin="00:44:47.789" end="00:44:50.968" region="bottomCenter">-¡Woody no sabes lo que hay allá!<br/>-Te diré lo que… ¡Ah!</p>
+      <p xml:id="p685" begin="00:44:52.659" end="00:44:53.749" region="bottomCenter">¡Nos van a comer, Buzz!</p>
+      <p xml:id="p686" begin="00:44:53.834" end="00:44:55.952" region="bottomCenter">-¡Haz algo, rápido!<br/>-¡Cubre tus ojos!</p>
+      <p xml:id="p687" begin="00:44:58.796" end="00:45:00.469" region="bottomCenter">No funciona.<br/>Lo recargué antes de salir,</p>
+      <p xml:id="p688" begin="00:45:00.554" end="00:45:03.289" region="bottomCenter">-debería durar más.<br/>-¡No seas tonto, tú eres un juguete!</p>
+      <p xml:id="p689" begin="00:45:03.374" end="00:45:04.845" region="bottomCenter">¡Usa tu acción de karate!</p>
+      <p xml:id="p690" begin="00:45:05.587" end="00:45:09.029" region="bottomCenter">¡Fuera, fuera!<br/>¡Todos fuera de aquí! ¡Largo!</p>
+      <p xml:id="p691" begin="00:45:09.576" end="00:45:11.535" region="bottomCenter">-¡Atrás, caníbales, atrás!<br/>-¡Woody, basta!</p>
+      <p xml:id="p692" begin="00:45:11.620" end="00:45:14.095" region="bottomCenter">Lo siento, amigos,<br/>pero se canceló la cena.</p>
+      <p xml:id="p693" begin="00:45:15.129" end="00:45:16.980" region="bottomCenter">¡No hay como el hogar!</p>
+      <p xml:id="p694" begin="00:45:18.534" end="00:45:19.829" region="bottomCenter">¡No hay como el hogar!</p>
+      <p xml:id="p695" begin="00:45:34.581" end="00:45:36.713" region="bottomCenter">Otro truco de esos<br/>y harás que nos maten.</p>
+      <p xml:id="p696" begin="00:45:36.798" end="00:45:39.223" region="bottomCenter">¡No me digas lo que<br/>tengo que hacer!</p>
+      <p xml:id="p697" begin="00:45:58.004" end="00:46:04.489" region="bottomCenter"><span tts:fontStyle="italic">"¡Ajúa! ¡Arre, compañero!</span><br/><span tts:fontStyle="italic">¡Tenemos que avanzar con la caravana!"</span></p>
+      <p xml:id="p698" begin="00:46:07.820" end="00:46:08.820" region="bottomCenter">¡Separémonos!</p>
+      <p xml:id="p699" begin="00:46:31.230" end="00:46:34.018" region="bottomCenter"><span tts:fontStyle="italic">¡Atención, Buzz Lightyear!</span><br/><span tts:fontStyle="italic">¡Adelante, Buzz Lightyear!</span></p>
+      <p xml:id="p700" begin="00:46:34.103" end="00:46:37.045" region="bottomCenter"><span tts:fontStyle="italic">Aquí Comando Estelar.</span><br/><span tts:fontStyle="italic">¿Buzz Lightyear, me escuchas?</span></p>
+      <p xml:id="p701" begin="00:46:37.130" end="00:46:39.483" region="bottomCenter"><span tts:fontStyle="italic">¡Buzz Lightyear aquí,</span><br/><span tts:fontStyle="italic">escucho claramente!</span></p>
+      <p xml:id="p702" begin="00:46:39.568" end="00:46:42.229" region="bottomCenter"><span tts:fontStyle="italic">Buzz Lightyear,</span><br/><span tts:fontStyle="italic">¡el planeta Tierra necesita ayuda!</span></p>
+      <p xml:id="p703" begin="00:46:42.314" end="00:46:43.314" region="bottomCenter"><span tts:fontStyle="italic">¡Allá voy!</span></p>
+      <p xml:id="p704" begin="00:46:44.454" end="00:46:46.715" region="bottomCenter"><span tts:fontStyle="italic">¡El superhéroe más</span><br/><span tts:fontStyle="italic">grande del mundo!</span></p>
+      <p xml:id="p705" begin="00:46:46.800" end="00:46:48.966" region="bottomCenter"><span tts:fontStyle="italic">¡El juguete más</span><br/><span tts:fontStyle="italic">sensacional del universo!</span></p>
+      <p xml:id="p706" begin="00:46:49.051" end="00:46:51.694" region="bottomCenter"><span tts:fontStyle="italic">¡Buzz lo tiene todo!</span><br/><span tts:fontStyle="italic">Comunicador de muñeca.</span></p>
+      <p xml:id="p707" begin="00:46:52.021" end="00:46:53.201" region="bottomCenter"><span tts:fontStyle="italic">¡Atención,</span><br/><span tts:fontStyle="italic">Buzz Lightyear!</span></p>
+      <p xml:id="p708" begin="00:46:53.286" end="00:46:54.403" region="bottomCenter"><span tts:fontStyle="italic">¡Golpe de karate!</span></p>
+      <p xml:id="p709" begin="00:46:55.012" end="00:46:57.718" region="bottomCenter"><span tts:fontStyle="italic">-¡Luz parpadeante de láser!</span><br/><span tts:fontStyle="italic">-¡Dio en el blanco!</span></p>
+      <p xml:id="p710" begin="00:46:57.802" end="00:46:59.763" region="bottomCenter"><span tts:fontStyle="italic">¡Simulador multifrase de voz!</span></p>
+      <p xml:id="p711" begin="00:47:00.146" end="00:47:04.132" region="bottomCenter"><span tts:fontStyle="italic">"Misión secreta en espacio</span><br/><span tts:fontStyle="italic">no explorado, ¡vamos!"</span></p>
+      <p xml:id="p712" begin="00:47:04.217" end="00:47:06.935" region="bottomCenter"><span tts:fontStyle="italic">Y lo mejor:</span><br/><span tts:fontStyle="italic">¡alas de alta presión!</span></p>
+      <p xml:id="p713" begin="00:47:09.551" end="00:47:11.137" region="bottomCenter"><span tts:fontStyle="italic">No es un juguete volador.</span></p>
+      <p xml:id="p714" begin="00:47:11.450" end="00:47:14.687" region="bottomCenter"><span tts:fontStyle="italic">¡Compren su Buzz Lightyear</span><br/><span tts:fontStyle="italic">y salven una galaxia cercana!</span></p>
+      <p xml:id="p715" begin="00:47:16.481" end="00:47:19.645" region="bottomCenter"><span tts:fontStyle="italic">Disponible en todas las tiendas</span><br/><span tts:fontStyle="italic">Al's Toy en el área.</span></p>
+      <p xml:id="p716" begin="00:47:27.156" end="00:47:31.720" region="bottomCenter"><span tts:fontStyle="italic">Por galaxias navegar,</span></p>
+      <p xml:id="p717" begin="00:47:31.805" end="00:47:34.548" region="bottomCenter"><span tts:fontStyle="italic">más allá del sol.</span></p>
+      <p xml:id="p718" begin="00:47:36.222" end="00:47:42.831" region="bottomCenter"><span tts:fontStyle="italic">En barco de plata voy,</span><br/><span tts:fontStyle="italic">el sueño terminó.</span></p>
+      <p xml:id="p719" begin="00:47:44.271" end="00:47:49.236" region="bottomCenter"><span tts:fontStyle="italic">Y por fin ya comprendí</span><br/><span tts:fontStyle="italic">quién soy</span></p>
+      <p xml:id="p720" begin="00:47:49.321" end="00:47:51.334" region="bottomCenter"><span tts:fontStyle="italic">y lo que hago aquí.</span></p>
+      <p xml:id="p721" begin="00:47:51.427" end="00:47:54.162" region="bottomCenter"><span tts:fontStyle="italic">(¡Eres un juguete,</span><br/><span tts:fontStyle="italic">no puedes volar!)</span></p>
+      <p xml:id="p722" begin="00:47:56.333" end="00:48:00.310" region="bottomCenter"><span tts:fontStyle="italic">No navegaré</span></p>
+      <p xml:id="p723" begin="00:48:01.209" end="00:48:05.083" region="bottomCenter"><span tts:fontStyle="italic">nunca más.</span></p>
+      <p xml:id="p724" begin="00:48:09.568" end="00:48:16.255" region="bottomCenter"><span tts:fontStyle="italic">No puedo creer</span><br/><span tts:fontStyle="italic">que de volar no tenga el poder…</span></p>
+      <p xml:id="p725" begin="00:48:16.873" end="00:48:21.537" region="bottomCenter"><span tts:fontStyle="italic">ni los cielos cruzar,</span><br/><span tts:fontStyle="italic">como un ave volar…</span></p>
+      <p xml:id="p726" begin="00:48:22.240" end="00:48:24.952" region="bottomCenter"><span tts:fontStyle="italic">¡Y volar!</span></p>
+      <p xml:id="p727" begin="00:48:25.037" end="00:48:27.614" region="bottomCenter">¡Al infinito y más allá!</p>
+      <p xml:id="p728" begin="00:48:43.895" end="00:48:47.044" region="bottomCenter"><span tts:fontStyle="italic">No podré</span></p>
+      <p xml:id="p729" begin="00:48:47.801" end="00:48:50.223" region="bottomCenter"><span tts:fontStyle="italic">navegar</span></p>
+      <p xml:id="p730" begin="00:48:51.106" end="00:48:56.387" region="bottomCenter"><span tts:fontStyle="italic">nunca más.</span></p>
+      <p xml:id="p731" begin="00:49:08.427" end="00:49:11.849" region="bottomCenter">¡Mamá!<br/>¿Has visto a mi muñeca Sally?</p>
+      <p xml:id="p732" begin="00:49:12.357" end="00:49:13.723" region="bottomCenter"><span tts:fontStyle="italic">¿Qué dijiste, hija?</span></p>
+      <p xml:id="p733" begin="00:49:15.200" end="00:49:16.646" region="bottomCenter">¡Olvídalo!</p>
+      <p xml:id="p734" begin="00:49:24.434" end="00:49:25.906" region="bottomCenter">No hay moros en la costa.</p>
+      <p xml:id="p735" begin="00:49:26.486" end="00:49:27.545" region="bottomCenter">Buzz,<br/>¿dónde estás?</p>
+      <p xml:id="p736" begin="00:49:27.630" end="00:49:29.960" region="bottomCenter"><span tts:fontStyle="italic">"Misión secreta</span><br/><span tts:fontStyle="italic">en espacio no explorado, ¡vamos!"</span></p>
+      <p xml:id="p737" begin="00:49:31.271" end="00:49:34.724" region="bottomCenter"><span tts:fontStyle="italic">¿Ah sí?</span><br/><span tts:fontStyle="italic">¡Oye, qué interesante!</span></p>
+      <p xml:id="p738" begin="00:49:35.621" end="00:49:37.818" region="bottomCenter">¿Quiere un poco de té,<br/>señora Nesbitt?</p>
+      <p xml:id="p739" begin="00:49:39.419" end="00:49:42.446" region="bottomCenter"><span tts:fontStyle="italic">¡Qué bueno que pudo visitarnos</span><br/><span tts:fontStyle="italic">aunque fuera tarde!</span></p>
+      <p xml:id="p740" begin="00:49:42.531" end="00:49:43.593" region="bottomCenter">¡Oh no!</p>
+      <p xml:id="p741" begin="00:49:43.859" end="00:49:46.125" region="bottomCenter"><span tts:fontStyle="italic">¡Qué bonito sombrero,</span><br/><span tts:fontStyle="italic">señora Nesbitt!</span></p>
+      <p xml:id="p742" begin="00:49:46.508" end="00:49:48.477" region="bottomCenter">¡Le queda muy bien a su cabeza!</p>
+      <p xml:id="p743" begin="00:49:49.586" end="00:49:52.801" region="bottomCenter">-¡Hannah, Hannah!<br/>-¿Mamá?</p>
+      <p xml:id="p744" begin="00:49:53.438" end="00:49:56.141" region="bottomCenter">Disculpen, señoras,<br/>no tardaré.</p>
+      <p xml:id="p745" begin="00:49:59.395" end="00:50:00.535" region="bottomCenter">¿Qué quieres, mamá?</p>
+      <p xml:id="p746" begin="00:50:01.832" end="00:50:02.989" region="bottomCenter"><span tts:fontStyle="italic">Mamá, ¿dónde estás?</span></p>
+      <p xml:id="p747" begin="00:50:03.653" end="00:50:05.973" region="bottomCenter">¡Buzz, oye, Buzz!<br/>¿Estás bien?</p>
+      <p xml:id="p748" begin="00:50:06.231" end="00:50:12.332" region="bottomCenter">¡Ya… no queda nada!<br/>¡Adiós, hasta pronto, hasta nunca!</p>
+      <p xml:id="p749" begin="00:50:12.428" end="00:50:16.171" region="bottomCenter">-¿Pero qué te ocurrió?<br/>-Primero defiendes toda la galaxia</p>
+      <p xml:id="p750" begin="00:50:16.256" end="00:50:21.011" region="bottomCenter">y de pronto estás…<br/>estás tomando una taza de té con…</p>
+      <p xml:id="p751" begin="00:50:21.480" end="00:50:24.316" region="bottomCenter">María Antonieta<br/>y su hermanita.</p>
+      <p xml:id="p752" begin="00:50:25.441" end="00:50:27.991" region="bottomCenter">Creo que ya has tomado<br/>demasiado té por hoy.</p>
+      <p xml:id="p753" begin="00:50:28.076" end="00:50:31.128" region="bottomCenter">-Vamos a sacarte de aquí, Buzz.<br/>-¿No lo entiendes?</p>
+      <p xml:id="p754" begin="00:50:31.277" end="00:50:35.214" region="bottomCenter">¿Ves este sombrero?<br/>¡Soy la señora Nesbitt!</p>
+      <p xml:id="p755" begin="00:50:36.367" end="00:50:37.820" region="bottomCenter">¡Contrólate, Buzz!</p>
+      <p xml:id="p756" begin="00:50:42.117" end="00:50:45.711" region="bottomCenter">Perdón. Tienes razón,<br/>estoy un poco deprimido, eso es todo.</p>
+      <p xml:id="p757" begin="00:50:46.876" end="00:50:48.188" region="bottomCenter">Puedo salir de esto.</p>
+      <p xml:id="p758" begin="00:50:48.946" end="00:50:51.517" region="bottomCenter">-¡Soy un fracaso, mírame!<br/>-¡Cállate!</p>
+      <p xml:id="p759" begin="00:50:51.602" end="00:50:54.618" region="bottomCenter">¡Ni siquiera puedo salir<br/>volando por la ventana!</p>
+      <p xml:id="p760" begin="00:50:55.134" end="00:50:58.182" region="bottomCenter">Pero… el sombrero no está mal,<br/>¡dime que el sombrero me queda!</p>
+      <p xml:id="p761" begin="00:50:58.267" end="00:50:59.424" region="bottomCenter">El mandil es demasiado</p>
+      <p xml:id="p762" begin="00:50:59.509" end="00:51:02.579" region="bottomCenter">-pero el sombrero sí me queda.<br/>-¡Por la ventana, Buzz, eres un genio!</p>
+      <p xml:id="p763" begin="00:51:03.774" end="00:51:08.188" region="bottomCenter">-¡Vamos! Por acá, ¡ven!<br/>-¡Años de entrenamiento desperdiciados!</p>
+      <p xml:id="p764" begin="00:51:08.907" end="00:51:10.571" region="bottomCenter">¡Ja, ja! B3.</p>
+      <p xml:id="p765" begin="00:51:10.829" end="00:51:12.720" region="bottomCenter">¡Fallaste! G6.</p>
+      <p xml:id="p766" begin="00:51:13.024" end="00:51:17.063" region="bottomCenter">-¡Lo hundiste! ¿Estás espiando?<br/>-¡Ah, no seas llorón y paga!</p>
+      <p xml:id="p767" begin="00:51:17.326" end="00:51:19.503" region="bottomCenter">No, no, la oreja no,<br/>¡la nariz, vamos!</p>
+      <p xml:id="p768" begin="00:51:19.595" end="00:51:20.915" region="bottomCenter">¡Has ganado 3 de 5!</p>
+      <p xml:id="p769" begin="00:51:22.585" end="00:51:24.248" region="bottomCenter">¡Muchachos, muchachos!</p>
+      <p xml:id="p770" begin="00:51:25.008" end="00:51:26.008" region="bottomCenter">¡Oigan!</p>
+      <p xml:id="p771" begin="00:51:26.093" end="00:51:29.446" region="bottomCenter">-¡Patatas fritas, es Woody!<br/>-Está en el cuarto del sádico.</p>
+      <p xml:id="p772" begin="00:51:30.620" end="00:51:33.612" region="bottomCenter">-¡Amigos, es Woody!<br/>-¿Woody?</p>
+      <p xml:id="p773" begin="00:51:34.097" end="00:51:35.803" region="bottomCenter">¡Vamos a salir de aquí, Buzz!</p>
+      <p xml:id="p774" begin="00:51:42.651" end="00:51:43.651" region="bottomCenter">¡Woody!</p>
+      <p xml:id="p775" begin="00:51:44.839" end="00:51:46.558" region="bottomCenter">¡Qué gusto verlos,<br/>no se imaginan!</p>
+      <p xml:id="p776" begin="00:51:46.643" end="00:51:49.152" region="bottomCenter">-¡Sabía que ibas a regresar!<br/>-¿Qué estás haciendo allá?</p>
+      <p xml:id="p777" begin="00:51:49.237" end="00:51:51.532" region="bottomCenter">Es una larga historia,<br/>luego les cuento.</p>
+      <p xml:id="p778" begin="00:51:51.776" end="00:51:53.347" region="bottomCenter">¡Tomen, atrapen esto!</p>
+      <p xml:id="p779" begin="00:51:55.393" end="00:51:57.340" region="bottomCenter">-¡La tengo, Woody!<br/>-¡La tiene, Woody!</p>
+      <p xml:id="p780" begin="00:51:57.425" end="00:52:00.339" region="bottomCenter">¡Genial, te felicito Slinky!<br/>Ahora, átala a algo.</p>
+      <p xml:id="p781" begin="00:52:00.424" end="00:52:02.112" region="bottomCenter">¡Alto, alto, alto!<br/>¡Tengo otra idea!</p>
+      <p xml:id="p782" begin="00:52:02.237" end="00:52:03.316" region="bottomCenter">Lo dejaremos caer.</p>
+      <p xml:id="p783" begin="00:52:03.401" end="00:52:06.362" region="bottomCenter">-¿Qué haces?<br/>-Tienen mala memoria, ¿verdad?</p>
+      <p xml:id="p784" begin="00:52:06.447" end="00:52:08.472" region="bottomCenter">¿Acaso olvidaron<br/>lo que le hizo a Buzz?</p>
+      <p xml:id="p785" begin="00:52:08.557" end="00:52:12.190" region="bottomCenter">-¿Y ahora quieren dejar que regrese?<br/>-¡No! No, no. Te…</p>
+      <p xml:id="p786" begin="00:52:12.612" end="00:52:14.510" region="bottomCenter">¡Te aseguro que te equivocas!</p>
+      <p xml:id="p787" begin="00:52:14.595" end="00:52:15.815" region="bottomCenter">¡Buzz está bien!</p>
+      <p xml:id="p788" begin="00:52:15.900" end="00:52:18.066" region="bottomCenter">-Buzz está aquí conmigo.<br/>-¡Eres un mentiroso!</p>
+      <p xml:id="p789" begin="00:52:18.151" end="00:52:20.773" region="bottomCenter">¡No, Cara de Papa!<br/>Buzz, ven acá.</p>
+      <p xml:id="p790" begin="00:52:20.858" end="00:52:23.763" region="bottomCenter">dile a los juguetes que no…<br/>que no estás muerto.</p>
+      <p xml:id="p791" begin="00:52:26.991" end="00:52:27.991" region="bottomCenter">¡Un segundo!</p>
+      <p xml:id="p792" begin="00:52:28.139" end="00:52:30.317" region="bottomCenter">Buzz, ¿quieres subir<br/>y darme una mano?</p>
+      <p xml:id="p793" begin="00:52:33.630" end="00:52:35.925" region="bottomCenter">Buzz, eres un payaso,<br/>¡esto es en serio!</p>
+      <p xml:id="p794" begin="00:52:36.010" end="00:52:39.658" region="bottomCenter"><span tts:fontStyle="italic">-¡Oye, Woody, dónde estás?</span><br/><span tts:fontStyle="italic">-¡Miente, Buzz no está!</span></p>
+      <p xml:id="p795" begin="00:52:41.605" end="00:52:46.113" region="bottomCenter">¡Hola! Buzz, por qué no saludas<br/>a los muchachos de allá.</p>
+      <p xml:id="p796" begin="00:52:46.254" end="00:52:49.919" region="bottomCenter">"Hola, muchachos.<br/>¡Al infinito y más allá!"</p>
+      <p xml:id="p797" begin="00:52:50.004" end="00:52:51.946" region="bottomCenter">-¡Miren eso, es Buzz!<br/>-¡Está bien!</p>
+      <p xml:id="p798" begin="00:52:52.031" end="00:52:54.443" region="bottomCenter">Oye Buzz, vamos<br/>a enseñarles nuestro nuevo</p>
+      <p xml:id="p799" begin="00:52:54.528" end="00:52:56.621" region="bottomCenter">saludo secreto<br/>de mejores amigos.</p>
+      <p xml:id="p800" begin="00:52:56.933" end="00:52:58.238" region="bottomCenter">¡Dame cinco, amigo!</p>
+      <p xml:id="p801" begin="00:52:58.387" end="00:52:59.552" region="bottomCenter">Algo anda mal.</p>
+      <p xml:id="p802" begin="00:52:59.637" end="00:53:01.514" region="bottomCenter">¿Lo vieron?<br/>Somos amigos, muchachos.</p>
+      <p xml:id="p803" begin="00:53:01.599" end="00:53:02.614" region="bottomCenter">¿Verdad, Buzz?</p>
+      <p xml:id="p804" begin="00:53:02.699" end="00:53:04.582" region="bottomCenter">"¡Claro que sí!<br/>¡Dame un abrazo!"</p>
+      <p xml:id="p805" begin="00:53:06.035" end="00:53:07.169" region="bottomCenter">¡Es tan cariñoso!</p>
+      <p xml:id="p806" begin="00:53:07.254" end="00:53:08.794" region="bottomCenter">¿Ven? Sí es Buzz.</p>
+      <p xml:id="p807" begin="00:53:08.879" end="00:53:11.754" region="bottomCenter">-Ahora ata las luces, Cara de Papa.<br/>-¡Un momento!</p>
+      <p xml:id="p808" begin="00:53:12.098" end="00:53:14.276" region="bottomCenter">-¿Qué quieres hacernos pensar?<br/>-¡Nada!</p>
+      <p xml:id="p809" begin="00:53:18.663" end="00:53:20.719" region="bottomCenter">-¡Ay, qué asco!<br/>-¡Asesino!</p>
+      <p xml:id="p810" begin="00:53:20.804" end="00:53:23.000" region="bottomCenter">-¡No es lo que creen!<br/>-¡Eres un asesino!</p>
+      <p xml:id="p811" begin="00:53:23.085" end="00:53:25.297" region="bottomCenter">-¡Por favor, se los juro!<br/>-¡Que decida el jurado!</p>
+      <p xml:id="p812" begin="00:53:25.382" end="00:53:27.781" region="bottomCenter">¡Ojalá te arranque Sid<br/>tu disco de voz!</p>
+      <p xml:id="p813" begin="00:53:28.062" end="00:53:30.601" region="bottomCenter">¡No, no, no se vayan!<br/>¡Regresen!</p>
+      <p xml:id="p814" begin="00:53:30.686" end="00:53:32.897" region="bottomCenter">¡Ayúdenos, no saben<br/>cómo es aquí!</p>
+      <p xml:id="p815" begin="00:53:32.982" end="00:53:36.118" region="bottomCenter">-¡Ya vámonos de aquí!<br/>-Terminó la función, ciudadanos,</p>
+      <p xml:id="p816" begin="00:53:36.209" end="00:53:37.342" region="bottomCenter">vuelvan a lo suyo.</p>
+      <p xml:id="p817" begin="00:53:37.427" end="00:53:39.599" region="bottomCenter"><span tts:fontStyle="italic">¡Vuelvan! ¡Slinky!</span></p>
+      <p xml:id="p818" begin="00:53:39.748" end="00:53:41.193" region="bottomCenter">¡Slinky, espera!</p>
+      <p xml:id="p819" begin="00:53:41.310" end="00:53:43.170" region="bottomCenter"><span tts:fontStyle="italic">¡Por favor, escúchame!</span></p>
+      <p xml:id="p820" begin="00:53:43.877" end="00:53:45.697" region="bottomCenter"><span tts:fontStyle="italic">¡No! ¡Regresen!</span></p>
+      <p xml:id="p821" begin="00:53:47.604" end="00:53:49.681" region="bottomCenter">¡Slinky!</p>
+      <p xml:id="p822" begin="00:54:00.250" end="00:54:02.976" region="bottomCenter">¡Váyanse!<br/>¡Mugrosos, asquerosos!</p>
+      <p xml:id="p823" begin="00:54:04.624" end="00:54:06.530" region="bottomCenter">¡Atrás, atrás, caníbales!</p>
+      <p xml:id="p824" begin="00:54:11.348" end="00:54:14.054" region="bottomCenter">¡Todavía está vivo<br/>y no dejaré que se lo coman!</p>
+      <p xml:id="p825" begin="00:54:14.325" end="00:54:16.098" region="bottomCenter">¡Caníbales! ¡Fuera!</p>
+      <p xml:id="p826" begin="00:54:19.647" end="00:54:21.397" region="bottomCenter">¡Oye! ¡Te repararon!</p>
+      <p xml:id="p827" begin="00:54:25.413" end="00:54:27.055" region="bottomCenter">¡Pero son caníbales!</p>
+      <p xml:id="p828" begin="00:54:27.140" end="00:54:29.140" region="bottomCenter">Los vimos comerse<br/>a otros juguetes.</p>
+      <p xml:id="p829" begin="00:54:37.426" end="00:54:40.356" region="bottomCenter">Ah… ¡perdón!<br/>Creí que iban a… Bueno…</p>
+      <p xml:id="p830" begin="00:54:40.981" end="00:54:43.481" region="bottomCenter">Creí que… que iban<br/>a comerse a mi amigo.</p>
+      <p xml:id="p831" begin="00:54:43.615" end="00:54:45.974" region="bottomCenter">¡No, no, esperen! ¿Qué pasa?</p>
+      <p xml:id="p832" begin="00:54:46.201" end="00:54:48.528" region="bottomCenter"><span tts:fontStyle="italic">-¿Sid?</span><br/><span tts:fontStyle="italic">-¡Ahora no, ma, estoy jugando!</span></p>
+      <p xml:id="p833" begin="00:54:48.646" end="00:54:51.787" region="bottomCenter">¡Sid! ¡Buzz, Buzz!<br/>¡Levántate, vamos!</p>
+      <p xml:id="p834" begin="00:54:52.966" end="00:54:54.841" region="bottomCenter">¡Si te dejo, no me eches<br/>la culpa! ¡Allá tú!</p>
+      <p xml:id="p835" begin="00:54:58.167" end="00:55:00.581" region="bottomCenter">¡Llegó! ¡Por fin llegó!</p>
+      <p xml:id="p836" begin="00:55:04.337" end="00:55:05.587" region="bottomCenter"><span tts:fontStyle="italic">"EL GRANDE"</span></p>
+      <p xml:id="p837" begin="00:55:08.737" end="00:55:11.331" region="bottomCenter">"EXTREMADAMENTE PELIGROSO,</p>
+      <p xml:id="p838" begin="00:55:11.416" end="00:55:13.861" region="bottomCenter">MANTENGA FUERA<br/>DEL ALCANCE DE LOS NIÑOS."</p>
+      <p xml:id="p839" begin="00:55:15.049" end="00:55:17.877" region="bottomCenter">¡Fantástico!<br/>¿Qué voy a volar?</p>
+      <p xml:id="p840" begin="00:55:18.651" end="00:55:21.962" region="bottomCenter">¡Claro! ¿Dónde está<br/>ese muñeco vaquero cobarde?</p>
+      <p xml:id="p841" begin="00:55:35.857" end="00:55:36.857" region="bottomCenter">¡Sí!</p>
+      <p xml:id="p842" begin="00:55:37.990" end="00:55:40.818" region="bottomCenter">¡Podré poner<br/>a este astronauta en órbita!</p>
+      <p xml:id="p843" begin="00:55:57.224" end="00:55:58.473" region="bottomCenter">¡Oh no!</p>
+      <p xml:id="p844" begin="00:56:01.790" end="00:56:03.150" region="bottomCenter">¡Chispas!</p>
+      <p xml:id="p845" begin="00:56:09.729" end="00:56:11.619" region="bottomCenter">Les habla Sid Phillips:</p>
+      <p xml:id="p846" begin="00:56:11.713" end="00:56:15.658" region="bottomCenter">El despegue ha sido demorado<br/>debido al mal tiempo en la plataforma.</p>
+      <p xml:id="p847" begin="00:56:16.227" end="00:56:19.384" region="bottomCenter">Mañana será… soleado.</p>
+      <p xml:id="p848" begin="00:56:21.053" end="00:56:22.412" region="bottomCenter"><span tts:fontStyle="italic">Dulce sueños.</span></p>
+      <p xml:id="p849" begin="00:56:27.689" end="00:56:31.026" region="bottomCenter"><span tts:fontStyle="italic">Busqué en todas partes, hijo,</span><br/><span tts:fontStyle="italic">pero solamente encontré tu sombrero.</span></p>
+      <p xml:id="p850" begin="00:56:31.111" end="00:56:33.274" region="bottomCenter">Pero ¿y si nos vamos<br/>sin ellos?</p>
+      <p xml:id="p851" begin="00:56:33.680" end="00:56:36.057" region="bottomCenter">No te preocupes, mi cielo,<br/>verás que encontrarás</p>
+      <p xml:id="p852" begin="00:56:36.142" end="00:56:38.966" region="bottomCenter">a Woody y a Buzz antes de<br/>que nos vayamos mañana.</p>
+      <p xml:id="p853" begin="00:56:46.607" end="00:56:47.980" region="bottomCenter"><span tts:fontStyle="italic">¡Necesito aire!</span></p>
+      <p xml:id="p854" begin="00:56:49.107" end="00:56:51.053" region="bottomCenter">-¡Quieres dejar de moverte!<br/>-¡Lo siento!</p>
+      <p xml:id="p855" begin="00:56:51.138" end="00:56:53.851" region="bottomCenter">Es que me pongo muy nervioso<br/>antes de viajar.</p>
+      <p xml:id="p856" begin="00:56:54.508" end="00:56:56.938" region="bottomCenter">¡No sé por qué me tocaste<br/>como compañero de mudanza!</p>
+      <p xml:id="p857" begin="00:56:57.023" end="00:56:58.398" region="bottomCenter">Ya todos tenían compañero.</p>
+      <p xml:id="p858" begin="00:57:05.873" end="00:57:06.873" region="bottomCenter">¡Oh, Woddy!</p>
+      <p xml:id="p859" begin="00:57:08.115" end="00:57:11.677" region="bottomCenter">Si tan solo supieras<br/>que Andy te ha echado de menos.</p>
+      <p xml:id="p860" begin="00:57:26.620" end="00:57:27.620" region="bottomCenter">¡Oye, Buzz!</p>
+      <p xml:id="p861" begin="00:57:34.400" end="00:57:37.696" region="bottomCenter"><span tts:fontStyle="italic">¡Oye, ven acá a ver si puedes</span><br/><span tts:fontStyle="italic">quitarme la caja de encima!</span></p>
+      <p xml:id="p862" begin="00:57:41.094" end="00:57:42.359" region="bottomCenter">¡Vamos Buzz!<br/>No puedo…</p>
+      <p xml:id="p863" begin="00:57:43.829" end="00:57:45.554" region="bottomCenter">Buzz, no puedo<br/>hacerlo sin ti.</p>
+      <p xml:id="p864" begin="00:57:47.158" end="00:57:48.226" region="bottomCenter">Necesito tu ayuda.</p>
+      <p xml:id="p865" begin="00:57:49.713" end="00:57:50.713" region="bottomCenter">No puedo.</p>
+      <p xml:id="p866" begin="00:57:51.440" end="00:57:52.853" region="bottomCenter">No puedo ayudar a nadie.</p>
+      <p xml:id="p867" begin="00:57:53.025" end="00:57:54.213" region="bottomCenter"><span tts:fontStyle="italic">¡Claro que sí, Buzz!</span></p>
+      <p xml:id="p868" begin="00:57:54.459" end="00:57:55.871" region="bottomCenter">¡Puedes sacarme de aquí!</p>
+      <p xml:id="p869" begin="00:57:55.956" end="00:57:59.167" region="bottomCenter">Luego te quito el cohete<br/>¡y nos escapamos a la casa de Andy!</p>
+      <p xml:id="p870" begin="00:57:59.252" end="00:58:02.424" region="bottomCenter">Casa de Andy, casa de Sid…<br/>¿Cuál es la diferencia?</p>
+      <p xml:id="p871" begin="00:58:02.971" end="00:58:05.417" region="bottomCenter">¡Oh, Buzz!<br/>¡Fue dura la caída!</p>
+      <p xml:id="p872" begin="00:58:05.502" end="00:58:06.927" region="bottomCenter">¡No estás pensando bien!</p>
+      <p xml:id="p873" begin="00:58:07.012" end="00:58:10.152" region="bottomCenter">Sí, Woody. Por primera vez<br/>pienso con claridad.</p>
+      <p xml:id="p874" begin="00:58:10.652" end="00:58:13.442" region="bottomCenter">Tenías razón en todo.<br/>No soy un guardián del espacio.</p>
+      <p xml:id="p875" begin="00:58:13.527" end="00:58:17.348" region="bottomCenter">Soy un juguete insignificante<br/>hecho en Taiwán.</p>
+      <p xml:id="p876" begin="00:58:17.707" end="00:58:18.747" region="bottomCenter">¡Oye, no, espera!</p>
+      <p xml:id="p877" begin="00:58:18.832" end="00:58:22.527" region="bottomCenter">¡Ser juguete es mucho mejor<br/>que ser un guardián del espacio!</p>
+      <p xml:id="p878" begin="00:58:22.648" end="00:58:24.656" region="bottomCenter">-Sí, claro…<br/>-¡Sí, es en serio!</p>
+      <p xml:id="p879" begin="00:58:24.992" end="00:58:28.390" region="bottomCenter">Mira, en esa casa hay un niño<br/>que cree que eres lo máximo.</p>
+      <p xml:id="p880" begin="00:58:28.523" end="00:58:30.704" region="bottomCenter"><span tts:fontStyle="italic">Y no es porque eres</span><br/><span tts:fontStyle="italic">un guardián del espacio,</span></p>
+      <p xml:id="p881" begin="00:58:30.789" end="00:58:34.304" region="bottomCenter"><span tts:fontStyle="italic">sino porque eres un juguete,</span><br/><span tts:fontStyle="italic">¡eres su juguete!</span></p>
+      <p xml:id="p882" begin="00:58:34.422" end="00:58:36.476" region="bottomCenter">¿Y Andy para qué<br/>me querría a mí?</p>
+      <p xml:id="p883" begin="00:58:36.561" end="00:58:39.092" region="bottomCenter"><span tts:fontStyle="italic">¿Por qué te querría Andy a ti?</span><br/><span tts:fontStyle="italic">¡Mírate!</span></p>
+      <p xml:id="p884" begin="00:58:39.592" end="00:58:41.209" region="bottomCenter">¡Eres un <span tts:fontStyle="italic">Buzz Lightyear!</span></p>
+      <p xml:id="p885" begin="00:58:41.907" end="00:58:44.790" region="bottomCenter"><span tts:fontStyle="italic">¡Cualquier juguete daría</span><br/><span tts:fontStyle="italic">lo que fuera para ser tú!</span></p>
+      <p xml:id="p886" begin="00:58:44.875" end="00:58:47.100" region="bottomCenter">¡Tienes alas,<br/>brillas en la oscuridad!</p>
+      <p xml:id="p887" begin="00:58:47.202" end="00:58:48.227" region="bottomCenter">¡Hablas!</p>
+      <p xml:id="p888" begin="00:58:48.312" end="00:58:51.732" region="bottomCenter">Tu casco hace esa… esa…<br/>¡shhh cosa!</p>
+      <p xml:id="p889" begin="00:58:52.271" end="00:58:54.256" region="bottomCenter">¡Eres un juguete fantástico!</p>
+      <p xml:id="p890" begin="00:58:58.161" end="00:58:59.926" region="bottomCenter">De hecho,<br/>demasiado fantástico.</p>
+      <p xml:id="p891" begin="00:59:01.575" end="00:59:02.575" region="bottomCenter">¿Por qué…?</p>
+      <p xml:id="p892" begin="00:59:03.161" end="00:59:04.903" region="bottomCenter">¿Qué ventaja tiene<br/>un juguete como yo</p>
+      <p xml:id="p893" begin="00:59:04.988" end="00:59:07.459" region="bottomCenter">contra una figura<br/><span tts:fontStyle="italic">Buzz Lightyear</span> en acción?</p>
+      <p xml:id="p894" begin="00:59:08.337" end="00:59:09.749" region="bottomCenter">Lo único<br/>que sé hacer es…</p>
+      <p xml:id="p895" begin="00:59:10.986" end="00:59:13.075" region="bottomCenter"><span tts:fontStyle="italic">"¡Hay una serpienteen mi bota!"</span></p>
+      <p xml:id="p896" begin="00:59:15.438" end="00:59:17.791" region="bottomCenter">¿Por qué iba a querer Andy<br/>jugar conmigo…</p>
+      <p xml:id="p897" begin="00:59:17.994" end="00:59:19.195" region="bottomCenter">teniéndote a ti?</p>
+      <p xml:id="p898" begin="00:59:21.361" end="00:59:23.892" region="bottomCenter">Yo soy el que debería<br/>estar atado al cohete.</p>
+      <p xml:id="p899" begin="00:59:47.751" end="00:59:49.938" region="bottomCenter">Oye, Buzz: olvídame.</p>
+      <p xml:id="p900" begin="00:59:51.034" end="00:59:52.917" region="bottomCenter">Tienes que salir<br/>mientras puedas.</p>
+      <p xml:id="p901" begin="01:00:05.273" end="01:00:07.979" region="bottomCenter">-Buzz. ¿Qué haces? Creí que…<br/>-Vamos, comisario.</p>
+      <p xml:id="p902" begin="01:00:08.064" end="01:00:09.651" region="bottomCenter">Hay un niño en esa casa<br/>que nos necesita.</p>
+      <p xml:id="p903" begin="01:00:09.736" end="01:00:11.345" region="bottomCenter">¡Ayúdame a sacarte de aquí!</p>
+      <p xml:id="p904" begin="01:00:12.509" end="01:00:13.509" region="bottomCenter">¡Sí, señor!</p>
+      <p xml:id="p905" begin="01:00:16.479" end="01:00:17.964" region="bottomCenter">¡Muy bien, Buzz! ¡Eso es!</p>
+      <p xml:id="p906" begin="01:00:24.549" end="01:00:25.844" region="bottomCenter">Woody, ¡es la mudanza!</p>
+      <p xml:id="p907" begin="01:00:26.502" end="01:00:28.208" region="bottomCenter">¡Hay que salir de aquí ahora!</p>
+      <p xml:id="p908" begin="01:00:33.676" end="01:00:34.676" region="bottomCenter">¡Eso es!</p>
+      <p xml:id="p909" begin="01:00:37.004" end="01:00:38.004" region="bottomCenter">¡Muy bien!</p>
+      <p xml:id="p910" begin="01:00:39.421" end="01:00:40.780" region="bottomCenter">Buzz, ¡estoy afuera!</p>
+      <p xml:id="p911" begin="01:00:40.913" end="01:00:42.100" region="bottomCenter">Falta… poco.</p>
+      <p xml:id="p912" begin="01:00:47.453" end="01:00:49.310" region="bottomCenter">Quiero montar el pony.</p>
+      <p xml:id="p913" begin="01:00:55.226" end="01:00:56.491" region="bottomCenter">Woody, ¿estás bien?</p>
+      <p xml:id="p914" begin="01:00:58.827" end="01:01:00.585" region="bottomCenter">Estoy bien, ¡de primera!</p>
+      <p xml:id="p915" begin="01:01:11.212" end="01:01:12.360" region="bottomCenter">¡Ah sí!</p>
+      <p xml:id="p916" begin="01:01:13.086" end="01:01:14.391" region="bottomCenter">¡Hora de despegue!</p>
+      <p xml:id="p917" begin="01:01:18.905" end="01:01:21.373" region="bottomCenter">¡Al infinito y más allá!</p>
+      <p xml:id="p918" begin="01:01:29.749" end="01:01:32.147" region="bottomCenter">¡Quieto! ¡Fuera, fuera!<br/>¡Quieto!</p>
+      <p xml:id="p919" begin="01:01:34.296" end="01:01:36.591" region="bottomCenter">¿Ahora qué hago?<br/>¡Piensa, Woody, piensa!</p>
+      <p xml:id="p920" begin="01:01:37.108" end="01:01:38.108" region="bottomCenter">¿Qué…?</p>
+      <p xml:id="p921" begin="01:01:40.412" end="01:01:41.412" region="bottomCenter">¡Oigan!</p>
+      <p xml:id="p922" begin="01:01:42.545" end="01:01:44.811" region="bottomCenter">¡No, no!<br/>¡Esperen, escuchen!</p>
+      <p xml:id="p923" begin="01:01:44.896" end="01:01:46.740" region="bottomCenter">¡Hay un buen juguete<br/>allá abajo!</p>
+      <p xml:id="p924" begin="01:01:47.356" end="01:01:49.592" region="bottomCenter">¡Y va a volar en pedazos<br/>en un momento!</p>
+      <p xml:id="p925" begin="01:01:49.677" end="01:01:51.005" region="bottomCenter">¡Y solo por culpa mía!</p>
+      <p xml:id="p926" begin="01:01:51.607" end="01:01:52.666" region="bottomCenter">¡Hay que salvarlo!</p>
+      <p xml:id="p927" begin="01:01:53.341" end="01:01:55.145" region="bottomCenter">Y… necesito ayuda.</p>
+      <p xml:id="p928" begin="01:02:03.270" end="01:02:05.708" region="bottomCenter">Buzz. Es mi amigo.</p>
+      <p xml:id="p929" begin="01:02:07.129" end="01:02:08.519" region="bottomCenter">Es el único que tengo.</p>
+      <p xml:id="p930" begin="01:02:22.986" end="01:02:23.986" region="bottomCenter">¡Gracias!</p>
+      <p xml:id="p931" begin="01:02:24.416" end="01:02:26.025" region="bottomCenter">Bien. Ya sé qué hacer.</p>
+      <p xml:id="p932" begin="01:02:26.658" end="01:02:28.306" region="bottomCenter">Habrá que romper las reglas.</p>
+      <p xml:id="p933" begin="01:02:28.670" end="01:02:30.971" region="bottomCenter">Pero si funciona,<br/>nos ayudará a todos.</p>
+      <p xml:id="p934" begin="01:02:42.975" end="01:02:45.163" region="bottomCenter"><span tts:fontStyle="italic">Houston a Control.</span><br/><span tts:fontStyle="italic">Adelante Control.</span></p>
+      <p xml:id="p935" begin="01:02:45.866" end="01:02:48.350" region="bottomCenter"><span tts:fontStyle="italic">La plataforma</span><br/><span tts:fontStyle="italic">está en construcción.</span></p>
+      <p xml:id="p936" begin="01:02:50.786" end="01:02:53.375" region="bottomCenter">Ahora, escuchen:<br/>necesito al Niño Bomba aquí,</p>
+      <p xml:id="p937" begin="01:02:53.460" end="01:02:54.460" region="bottomCenter">al Pato acá,</p>
+      <p xml:id="p938" begin="01:02:54.921" end="01:02:57.397" region="bottomCenter">Piernas, tú con Pato.</p>
+      <p xml:id="p939" begin="01:02:58.454" end="01:03:01.102" region="bottomCenter">Patineta y yo esperamos<br/>la señal, ¿de acuerdo?</p>
+      <p xml:id="p940" begin="01:03:02.211" end="01:03:04.289" region="bottomCenter">Y ahora… ¡vámonos!</p>
+      <p xml:id="p941" begin="01:03:25.446" end="01:03:26.681" region="bottomCenter">¡Cuerda a la Rana!</p>
+      <p xml:id="p942" begin="01:03:48.811" end="01:03:50.006" region="bottomCenter">Esperen la señal.</p>
+      <p xml:id="p943" begin="01:04:06.346" end="01:04:07.346" region="bottomCenter">¡Ya!</p>
+      <p xml:id="p944" begin="01:04:11.463" end="01:04:12.463" region="bottomCenter">¡Listo, vámonos!</p>
+      <p xml:id="p945" begin="01:04:15.361" end="01:04:16.362" region="bottomCenter">¡Ahora!</p>
+      <p xml:id="p946" begin="01:04:17.655" end="01:04:19.046" region="bottomCenter">¡Ya voy, ya voy!</p>
+      <p xml:id="p947" begin="01:04:28.312" end="01:04:29.312" region="bottomCenter">¡Ay!</p>
+      <p xml:id="p948" begin="01:04:29.398" end="01:04:30.492" region="bottomCenter">¡Scud!</p>
+      <p xml:id="p949" begin="01:04:34.540" end="01:04:35.540" region="bottomCenter">¡Perro tonto!</p>
+      <p xml:id="p950" begin="01:04:43.999" end="01:04:44.999" region="bottomCenter">¡Contrapeso!</p>
+      <p xml:id="p951" begin="01:04:49.731" end="01:04:53.113" region="bottomCenter"><span tts:fontStyle="italic">Control de la misión,</span><br/><span tts:fontStyle="italic">¿está lista la construcción?</span></p>
+      <p xml:id="p952" begin="01:04:53.317" end="01:04:56.152" region="bottomCenter"><span tts:fontStyle="italic">Ah, sí señor.</span><br/><span tts:fontStyle="italic">Todo conectado al alambre guía,</span></p>
+      <p xml:id="p953" begin="01:04:56.274" end="01:04:58.600" region="bottomCenter"><span tts:fontStyle="italic">estamos moviendo</span><br/><span tts:fontStyle="italic">la palanca de arranque.</span></p>
+      <p xml:id="p954" begin="01:04:58.685" end="01:05:00.473" region="bottomCenter"><span tts:fontStyle="italic">Conteo empezará</span><br/><span tts:fontStyle="italic">en un momento.</span></p>
+      <p xml:id="p955" begin="01:05:00.558" end="01:05:01.558" region="bottomCenter"><span tts:fontStyle="italic">¡Alerta!"</span></p>
+      <p xml:id="p956" begin="01:05:02.778" end="01:05:03.778" region="bottomCenter">¡Andando!</p>
+      <p xml:id="p957" begin="01:05:04.599" end="01:05:07.545" region="bottomCenter"><span tts:fontStyle="italic">¡Oye, ma!</span><br/><span tts:fontStyle="italic">¿Dónde están los fósforos?</span></p>
+      <p xml:id="p958" begin="01:05:07.756" end="01:05:09.100" region="bottomCenter"><span tts:fontStyle="italic">¡Ah no, olvídalo,</span><br/><span tts:fontStyle="italic">aquí están!</span></p>
+      <p xml:id="p959" begin="01:05:09.185" end="01:05:11.201" region="bottomCenter">¡Woody! ¡Genial!<br/>¡Ayúdame con esto!</p>
+      <p xml:id="p960" begin="01:05:11.947" end="01:05:13.546" region="bottomCenter">-¿Qué?<br/>-¡Tranquilízate!</p>
+      <p xml:id="p961" begin="01:05:13.631" end="01:05:15.053" region="bottomCenter">¡Todo está bajo control!</p>
+      <p xml:id="p962" begin="01:05:16.866" end="01:05:18.266" region="bottomCenter">Woody, ¿qué estás haciendo?</p>
+      <p xml:id="p963" begin="01:05:18.351" end="01:05:20.335" region="bottomCenter"><span tts:fontStyle="italic">Houston, ¡sistemas listos!</span></p>
+      <p xml:id="p964" begin="01:05:20.421" end="01:05:22.187" region="bottomCenter"><span tts:fontStyle="italic">Permiso para lanzamiento.</span></p>
+      <p xml:id="p965" begin="01:05:23.327" end="01:05:25.772" region="bottomCenter">¡Oye! ¿Cómo llegaste aquí?</p>
+      <p xml:id="p966" begin="01:05:27.312" end="01:05:30.132" region="bottomCenter">Ah, en fin,<br/>más tarde te voy a asar.</p>
+      <p xml:id="p967" begin="01:05:34.070" end="01:05:35.953" region="bottomCenter"><span tts:fontStyle="italic">Houston, ¿podemos despegar?</span></p>
+      <p xml:id="p968" begin="01:05:36.953" end="01:05:41.786" region="bottomCenter">Afirmativo, permiso concedido,<br/>confirmado a T menos diez segundos.</p>
+      <p xml:id="p969" begin="01:05:43.685" end="01:05:44.912" region="bottomCenter">Y contando.</p>
+      <p xml:id="p970" begin="01:05:45.389" end="01:05:50.802" region="bottomCenter">Diez, nueve, ocho<br/>siete, seis, cinco,</p>
+      <p xml:id="p971" begin="01:05:50.888" end="01:05:53.912" region="bottomCenter">cuatro, tres, dos, uno…</p>
+      <p xml:id="p972" begin="01:05:54.038" end="01:05:57.365" region="bottomCenter"><span tts:fontStyle="italic">"¡Manos arriba, gusano!"</span></p>
+      <p xml:id="p973" begin="01:05:58.835" end="01:06:02.116" region="bottomCenter"><span tts:fontStyle="italic">¡En este pueblo</span><br/><span tts:fontStyle="italic">ya no cabemos los dos!</span></p>
+      <p xml:id="p974" begin="01:06:02.249" end="01:06:03.249" region="bottomCenter">¿Qué?</p>
+      <p xml:id="p975" begin="01:06:03.976" end="01:06:06.508" region="bottomCenter"><span tts:fontStyle="italic">"¡Alguien envenenó</span><br/><span tts:fontStyle="italic">el abrevadero!"</span></p>
+      <p xml:id="p976" begin="01:06:06.593" end="01:06:07.898" region="bottomCenter">¡Está roto!</p>
+      <p xml:id="p977" begin="01:06:08.382" end="01:06:10.593" region="bottomCenter"><span tts:fontStyle="italic">¿Quién dices</span><br/><span tts:fontStyle="italic">que está roto, mocoso?</span></p>
+      <p xml:id="p978" begin="01:06:11.443" end="01:06:15.310" region="bottomCenter"><span tts:fontStyle="italic">¡Así es. Estoy hablando</span><br/><span tts:fontStyle="italic">contigo, Sid Phillips!</span></p>
+      <p xml:id="p979" begin="01:06:15.404" end="01:06:16.404" region="bottomCenter">¿Qué?</p>
+      <p xml:id="p980" begin="01:06:16.763" end="01:06:18.974" region="bottomCenter"><span tts:fontStyle="italic">No nos gusta</span><br/><span tts:fontStyle="italic">que nos vuelen, Sid.</span></p>
+      <p xml:id="p981" begin="01:06:19.601" end="01:06:21.906" region="bottomCenter"><span tts:fontStyle="italic">¡Ni nos aplasten,</span><br/><span tts:fontStyle="italic">ni nos destruyan!</span></p>
+      <p xml:id="p982" begin="01:06:21.991" end="01:06:24.945" region="bottomCenter">-¿A quiénes?<br/><span tts:fontStyle="italic">-¡A nosotros tus juguetes!</span></p>
+      <p xml:id="p983" begin="01:06:55.802" end="01:07:00.162" region="bottomCenter"><span tts:fontStyle="italic">¡Desde ahora,</span><br/><span tts:fontStyle="italic">vas a cuidar mucho tus juguetes!</span></p>
+      <p xml:id="p984" begin="01:07:00.334" end="01:07:04.177" region="bottomCenter"><span tts:fontStyle="italic">Porque si no,</span><br/><span tts:fontStyle="italic">¡lo vamos a saber, Sid!</span></p>
+      <p xml:id="p985" begin="01:07:05.232" end="01:07:11.131" region="bottomCenter"><span tts:fontStyle="italic">Los juguetes</span><br/><span tts:fontStyle="italic">podemos ver todo.</span></p>
+      <p xml:id="p986" begin="01:07:12.850" end="01:07:14.771" region="bottomCenter">¡Juega bonito, Sid!</p>
+      <p xml:id="p987" begin="01:07:21.229" end="01:07:23.471" region="bottomCenter">¡Lo logramos,<br/>lo logramos!</p>
+      <p xml:id="p988" begin="01:07:24.104" end="01:07:25.104" region="bottomCenter">¡Sí!</p>
+      <p xml:id="p989" begin="01:07:25.252" end="01:07:27.143" region="bottomCenter">¡Mis juguetes están vivos!</p>
+      <p xml:id="p990" begin="01:07:27.823" end="01:07:29.627" region="bottomCenter">Muñeca bonita.</p>
+      <p xml:id="p991" begin="01:07:38.339" end="01:07:40.512" region="bottomCenter">¡Muy bien, muchachos,<br/>muy bien!</p>
+      <p xml:id="p992" begin="01:07:40.597" end="01:07:43.074" region="bottomCenter">¡Eso de salir del suelo<br/>fue genial!</p>
+      <p xml:id="p993" begin="01:07:43.378" end="01:07:44.378" region="bottomCenter">Woody.</p>
+      <p xml:id="p994" begin="01:07:46.574" end="01:07:47.574" region="bottomCenter">Gracias.</p>
+      <p xml:id="p995" begin="01:07:49.680" end="01:07:51.375" region="bottomCenter"><span tts:fontStyle="italic">Digan todos, "¡adiós, casa!"</span></p>
+      <p xml:id="p996" begin="01:07:51.516" end="01:07:53.548" region="bottomCenter">-Woody, ¡el camión!<br/><span tts:fontStyle="italic">-¡Adiós, casa!</span></p>
+      <p xml:id="p997" begin="01:07:56.759" end="01:07:57.782" region="bottomCenter">¡Adiós, gracias!</p>
+      <p xml:id="p998" begin="01:08:02.066" end="01:08:03.066" region="bottomCenter">¡Rápido!</p>
+      <p xml:id="p999" begin="01:08:08.378" end="01:08:09.673" region="bottomCenter">¡Sigue, yo te alcanzo!</p>
+      <p xml:id="p1000" begin="01:08:31.899" end="01:08:32.899" region="bottomCenter">¡Vamos!</p>
+      <p xml:id="p1001" begin="01:08:48.496" end="01:08:49.574" region="bottomCenter">¡Tú puedes, salta!</p>
+      <p xml:id="p1002" begin="01:08:55.330" end="01:08:56.330" region="bottomCenter">¡Lo hice!</p>
+      <p xml:id="p1003" begin="01:09:01.065" end="01:09:04.978" region="bottomCenter">¡Suéltame, perro, suéltame!<br/>¡Vete de aquí, roñoso! ¡Suelta!</p>
+      <p xml:id="p1004" begin="01:09:05.401" end="01:09:06.637" region="bottomCenter">-¡No!<br/>-¡No te sueltes!</p>
+      <p xml:id="p1005" begin="01:09:07.893" end="01:09:10.533" region="bottomCenter">¡No, no! ¡No puedo hacerlo!</p>
+      <p xml:id="p1006" begin="01:09:11.249" end="01:09:13.366" region="bottomCenter">¡Cuida mucho a Andy<br/>por mí, Buzz!</p>
+      <p xml:id="p1007" begin="01:09:13.686" end="01:09:14.686" region="bottomCenter">¡No!</p>
+      <p xml:id="p1008" begin="01:09:45.379" end="01:09:47.551" region="bottomCenter">-¿Ya llegamos? ¿Tan pronto?<br/>-¡Woody!</p>
+      <p xml:id="p1009" begin="01:09:48.231" end="01:09:49.231" region="bottomCenter">¿Qué pasó?</p>
+      <p xml:id="p1010" begin="01:09:51.036" end="01:09:53.048" region="bottomCenter">¿Qué sucede?<br/>¿Qué se está llevando?</p>
+      <p xml:id="p1011" begin="01:09:53.158" end="01:09:54.767" region="bottomCenter">¡Ajá, aquí estás!</p>
+      <p xml:id="p1012" begin="01:09:55.345" end="01:09:56.798" region="bottomCenter">Oigan, ¿qué hace?</p>
+      <p xml:id="p1013" begin="01:10:00.073" end="01:10:01.730" region="bottomCenter">¡Lo hizo otra vez!</p>
+      <p xml:id="p1014" begin="01:10:13.379" end="01:10:14.379" region="bottomCenter">¡Atrápenlo!</p>
+      <p xml:id="p1015" begin="01:10:23.711" end="01:10:25.133" region="bottomCenter">¡No! ¡No, no!</p>
+      <p xml:id="p1016" begin="01:10:39.946" end="01:10:41.696" region="bottomCenter">¡Cerdo abajo!</p>
+      <p xml:id="p1017" begin="01:11:08.513" end="01:11:10.147" region="bottomCenter">¡Recibirá su castigo!</p>
+      <p xml:id="p1018" begin="01:11:10.232" end="01:11:12.357" region="bottomCenter">¡Hay que ayudarlo! ¡No, no!</p>
+      <p xml:id="p1019" begin="01:11:12.904" end="01:11:14.685" region="bottomCenter">¡Arrójenlo por la borda!</p>
+      <p xml:id="p1020" begin="01:11:14.771" end="01:11:16.537" region="bottomCenter">¡Suéltenme! ¡No!</p>
+      <p xml:id="p1021" begin="01:11:29.311" end="01:11:30.664" region="bottomCenter">¡Gracias por recogerme!</p>
+      <p xml:id="p1022" begin="01:11:31.108" end="01:11:32.108" region="bottomCenter">¡Cuidado!</p>
+      <p xml:id="p1023" begin="01:11:35.876" end="01:11:37.876" region="bottomCenter">¡Ahora vamos<br/>a alcanzar ese camión!</p>
+      <p xml:id="p1024" begin="01:11:45.266" end="01:11:48.298" region="bottomCenter">¡Miren, es Woody!<br/>¡Se acerca a toda velocidad!</p>
+      <p xml:id="p1025" begin="01:11:48.383" end="01:11:49.993" region="bottomCenter">¡Y Buzz viene con él!</p>
+      <p xml:id="p1026" begin="01:11:54.775" end="01:11:57.431" region="bottomCenter">¡Sí, es Buzz!<br/>¡Woody dijo la verdad!</p>
+      <p xml:id="p1027" begin="01:11:58.108" end="01:12:01.085" region="bottomCenter">-¡Qué hemos hecho!<br/>-¡Mi complejo de culpa!</p>
+      <p xml:id="p1028" begin="01:12:01.280" end="01:12:02.374" region="bottomCenter">¡Estamos llegando!</p>
+      <p xml:id="p1029" begin="01:12:04.811" end="01:12:06.162" region="bottomCenter">¡Rocky, la rampa!</p>
+      <p xml:id="p1030" begin="01:12:08.702" end="01:12:09.835" region="bottomCenter">¡Vamos, de prisa!</p>
+      <p xml:id="p1031" begin="01:12:13.429" end="01:12:14.429" region="bottomCenter">¡Cuidado!</p>
+      <p xml:id="p1032" begin="01:12:17.078" end="01:12:18.493" region="bottomCenter">¡Rápido, agarra mi cola!</p>
+      <p xml:id="p1033" begin="01:12:24.422" end="01:12:25.984" region="bottomCenter">¡Así se hace, Slink!</p>
+      <p xml:id="p1034" begin="01:12:29.928" end="01:12:31.048" region="bottomCenter">¡Más rápido, Woody!</p>
+      <p xml:id="p1035" begin="01:12:31.133" end="01:12:33.035" region="bottomCenter">-¡Más rápido!<br/>-¡Las baterías se acaban!</p>
+      <p xml:id="p1036" begin="01:12:41.512" end="01:12:46.574" region="bottomCenter"><span tts:fontStyle="italic">Hakuna matata,</span><br/><span tts:fontStyle="italic">una forma de ser.</span></p>
+      <p xml:id="p1037" begin="01:12:51.032" end="01:12:55.048" region="bottomCenter">-¡No puedo sujetarme mucho tiempo!<br/>-¡Slinky, aguanta!</p>
+      <p xml:id="p1038" begin="01:13:10.681" end="01:13:11.681" region="bottomCenter">¡Oh no!</p>
+      <p xml:id="p1039" begin="01:13:14.855" end="01:13:16.042" region="bottomCenter">¡Woody, el cohete!</p>
+      <p xml:id="p1040" begin="01:13:16.730" end="01:13:17.730" region="bottomCenter">¡El fósforo!</p>
+      <p xml:id="p1041" begin="01:13:18.175" end="01:13:19.175" region="bottomCenter">¡Sí!</p>
+      <p xml:id="p1042" begin="01:13:19.355" end="01:13:20.643" region="bottomCenter">¡Gracias, Sid!</p>
+      <p xml:id="p1043" begin="01:13:28.382" end="01:13:30.497" region="bottomCenter">¡Oh no! ¡No, no! ¡No!</p>
+      <p xml:id="p1044" begin="01:13:30.591" end="01:13:32.107" region="bottomCenter">¡No!</p>
+      <p xml:id="p1045" begin="01:13:50.815" end="01:13:53.338" region="bottomCenter">-¿Qué estás haciendo?<br/>-¡No te muevas, Buzz!</p>
+      <p xml:id="p1046" begin="01:13:56.546" end="01:13:57.546" region="bottomCenter">¡Lo hiciste!</p>
+      <p xml:id="p1047" begin="01:13:57.976" end="01:13:59.388" region="bottomCenter">Siguiente parada: ¡Andy!</p>
+      <p xml:id="p1048" begin="01:13:59.788" end="01:14:01.780" region="bottomCenter">¡Momento!<br/>¡Encendí el cohete!</p>
+      <p xml:id="p1049" begin="01:14:02.280" end="01:14:04.960" region="bottomCenter">¡Los cohetes estallan!</p>
+      <p xml:id="p1050" begin="01:14:13.810" end="01:14:17.028" region="bottomCenter">Amigos, debí aguantar<br/>un poco más.</p>
+      <p xml:id="p1051" begin="01:14:17.113" end="01:14:19.290" region="bottomCenter">¡Woody y Buzz vienen<br/>a toda velocidad!</p>
+      <p xml:id="p1052" begin="01:14:40.186" end="01:14:43.577" region="bottomCenter">-¡Aquí es cuando estallamos!<br/>-¡No lo creo!</p>
+      <p xml:id="p1053" begin="01:14:55.277" end="01:14:57.511" region="bottomCenter">Oye, Buzz, ¡estás volando!</p>
+      <p xml:id="p1054" begin="01:14:57.612" end="01:15:00.925" region="bottomCenter">No estoy volando,<br/>¡estoy cayendo con estilo!</p>
+      <p xml:id="p1055" begin="01:15:03.804" end="01:15:07.734" region="bottomCenter">¡Al infinito y más allá!</p>
+      <p xml:id="p1056" begin="01:15:14.046" end="01:15:17.757" region="bottomCenter">-Buzz, ¡el camión se quedó atrás!<br/>-No le apunté al camión.</p>
+      <p xml:id="p1057" begin="01:15:26.077" end="01:15:28.233" region="bottomCenter"><span tts:fontStyle="italic">-¿Qué pasa?</span><br/>-¡Woody y Buzz!</p>
+      <p xml:id="p1058" begin="01:15:28.374" end="01:15:30.468" region="bottomCenter"><span tts:fontStyle="italic">¿Ya los encontraste?</span><br/><span tts:fontStyle="italic">¿Dónde estaban?</span></p>
+      <p xml:id="p1059" begin="01:15:30.553" end="01:15:31.656" region="bottomCenter">¡Aquí, en el auto!</p>
+      <p xml:id="p1060" begin="01:15:31.741" end="01:15:34.413" region="bottomCenter"><span tts:fontStyle="italic">¡Lo ves! ¿Qué te dije?Aquí los dejaste.</span></p>
+      <p xml:id="p1061" begin="01:15:44.409" end="01:15:47.706" region="bottomCenter">-¿Cuál puedo abrir primero?<br/>-Deja que Molly abra uno.</p>
+      <p xml:id="p1062" begin="01:15:54.268" end="01:15:57.487" region="bottomCenter"><span tts:fontStyle="italic">-Incienso, aquí Mirra.</span><br/>-¡Atención, empieza el suspenso!</p>
+      <p xml:id="p1063" begin="01:15:58.034" end="01:15:59.252" region="bottomCenter">¡Ya es hora!</p>
+      <p xml:id="p1064" begin="01:16:02.213" end="01:16:05.494" region="bottomCenter">¡Oye, Betty! Debe haber<br/>otro modo de atraer mi atención.</p>
+      <p xml:id="p1065" begin="01:16:05.729" end="01:16:07.471" region="bottomCenter">Feliz Navidad, comisario.</p>
+      <p xml:id="p1066" begin="01:16:09.180" end="01:16:10.875" region="bottomCenter">Ah, oye ¿qué no es muérdago?</p>
+      <p xml:id="p1067" begin="01:16:14.289" end="01:16:17.406" region="bottomCenter">Tal vez tenga<br/>otro dinosaurio, un comehojas.</p>
+      <p xml:id="p1068" begin="01:16:17.500" end="01:16:20.469" region="bottomCenter">¡Así puedo ser yo<br/>el depredador dominante!</p>
+      <p xml:id="p1069" begin="01:16:20.813" end="01:16:22.211" region="bottomCenter">¡Un momento! ¡Silencio!</p>
+      <p xml:id="p1070" begin="01:16:22.571" end="01:16:24.277" region="bottomCenter"><span tts:fontStyle="italic">El primer regalo de Molly es…</span></p>
+      <p xml:id="p1071" begin="01:16:24.628" end="01:16:27.511" region="bottomCenter"><span tts:fontStyle="italic">¡Señora Cara de Papa, repito,</span><br/><span tts:fontStyle="italic">Señora Cara de Papa!</span></p>
+      <p xml:id="p1072" begin="01:16:28.633" end="01:16:29.844" region="bottomCenter">¡Qué suerte de papa!</p>
+      <p xml:id="p1073" begin="01:16:30.243" end="01:16:31.578" region="bottomCenter">¡Me voy a afeitar!</p>
+      <p xml:id="p1074" begin="01:16:37.061" end="01:16:39.140" region="bottomCenter"><span tts:fontStyle="italic">Adelante Incienso, aquí Mirra.</span></p>
+      <p xml:id="p1075" begin="01:16:39.225" end="01:16:40.623" region="bottomCenter"><span tts:fontStyle="italic">Andy está abriendo su…</span></p>
+      <p xml:id="p1076" begin="01:16:41.973" end="01:16:45.443" region="bottomCenter">¡Buzz! <span tts:fontStyle="italic">Buzz Lightyear</span>,<br/>¡no estarás preocupado!</p>
+      <p xml:id="p1077" begin="01:16:45.528" end="01:16:48.949" region="bottomCenter">¿Yo? ¡No, no! No, no, no.</p>
+      <p xml:id="p1078" begin="01:16:49.614" end="01:16:51.449" region="bottomCenter"><span tts:fontStyle="italic">…una caja grande, pero…</span></p>
+      <p xml:id="p1079" begin="01:16:52.114" end="01:16:54.379" region="bottomCenter">-¿Y tú?¡<br/>-¡Vamos, Buzz!</p>
+      <p xml:id="p1080" begin="01:16:54.809" end="01:16:58.731" region="bottomCenter">¿Qué podría recibir Andy<br/>que fuera peor que tú?</p>
+      <p xml:id="p1081" begin="01:17:00.090" end="01:17:03.996" region="bottomCenter"><span tts:fontStyle="italic">¿Qué es, qué es?¡Wow, un perrito!</span></p>
+    </div>
+  </body>
+</tt>
